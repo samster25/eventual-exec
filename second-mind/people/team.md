@@ -29,4 +29,23 @@ related:
 
 ---
 
+## Recruiting
+
+> **No owner as of Mar 4, 2026.** Stephen Fong previously handled all recruiting ops. See [[stephen-transition]] for full context.
+
+**Open responsibilities:**
+- Outreach/sourcing (1 Juicebox seat available)
+- Recruiter screens — need to decide who owns initial screen + write a screen script
+- Offer letter process — templates in [Google Drive](https://drive.google.com/drive/u/0/folders/1qG1gRQfwC70jLBV2msNISIhKxqQz4u7l)
+- Background checks via Checkr (Ashby integration)
+- CodeSignal renewal coming Mar/Apr — coordinate with Varun on whether to keep pre-screens, reevaluate interview format
+- Closing win rate needs attention; tech screen needs reevaluating (discuss with Varun/Desmond)
+
+**Process notes (from Stephen):**
+- Collect W-9 from contractors before engagement; send to Pilot early January for 1099 issuance
+- Use Checkr background check after offer is made
+- Use [termination process](https://docs.google.com/document/d/1c2wku9CtqQdzHuskLn-tOM5iyD76f2O8Xw3N3gFNeFY/edit) for offboarding
+
+---
+
 **Team structure:** Sammy, Jay, Colin are the commercial/product team building Eventual full-time. The [[daft-team]] operates under Varun's leadership with priorities: Eventual > Apple > ByteDance > Community.

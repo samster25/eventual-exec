@@ -183,8 +183,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "fd84be97f914a517",
+  "active": "35744e8382722014",
   "lastOpenFiles": [
+    "people/daft-team.md",
     "decisions/active/stephen-transition.md",
     "source-documents/memos/stephen-transition-plan-2026-03-04.md",
     "PROCESSED.md",
@@ -199,7 +200,6 @@
     "meetings/board-2026-q1.md",
     "strategy/competitive-landscape.md",
     "people/team.md",
-    "people/daft-team.md",
     "strategy/bets.md",
     "strategy/assumptions.md",
     "strategy/hypotheses.md",
