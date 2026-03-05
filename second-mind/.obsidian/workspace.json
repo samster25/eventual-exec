@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "people/daft-team.md",
+                "file": "intake/lisbon-offsite-input.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "daft-team"
+              "title": "lisbon-offsite-input"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "people/daft-team.md",
+                "file": "intake/lisbon-offsite-input.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for daft-team"
+              "title": "Backlinks for lisbon-offsite-input"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "people/daft-team.md",
+                "file": "intake/lisbon-offsite-input.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from daft-team"
+              "title": "Outgoing links from lisbon-offsite-input"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "people/daft-team.md",
+                "file": "intake/lisbon-offsite-input.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of daft-team"
+              "title": "Outline of lisbon-offsite-input"
             }
           }
         ]
@@ -183,13 +183,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "35744e8382722014",
+  "active": "fd84be97f914a517",
   "lastOpenFiles": [
+    "intake/lisbon-itinerary.md",
+    "intake/lisbon-offsite-input.md",
     "people/daft-team.md",
+    "people/board-and-advisors.md",
+    "meetings/offsite-2026-w11.md",
+    "meetings/all-hands-2026-02-27.md",
+    "meetings/board-2026-q1.md",
     "decisions/active/stephen-transition.md",
     "source-documents/memos/stephen-transition-plan-2026-03-04.md",
     "PROCESSED.md",
-    "people/board-and-advisors.md",
     "dashboard.md",
     "references/daft-roadmap.md",
     "references/gtm-goals.md",
@@ -197,7 +202,6 @@
     "product/pricing.md",
     "product/mcp-tools.md",
     "product/data-strategy.md",
-    "meetings/board-2026-q1.md",
     "strategy/competitive-landscape.md",
     "people/team.md",
     "strategy/bets.md",
@@ -207,10 +211,6 @@
     "customers/interviews/blink-health-ryan.md",
     "customers/interviews/clickup-borys.md",
     "customers/interviews/nomic.md",
-    "customers/interviews/decagon-daniel.md",
-    "references/clay-competitor-deep-dive.md",
-    "customers/interviews/rogo-tumas.md",
-    "references/market-research.md",
     "source-documents/interviews/blink-health-ryan-transcript.txt",
     "source-documents/interviews/clickup-borys-transcript.txt",
     "source-documents/interviews/nomic-call-3-2026-02-19.txt",

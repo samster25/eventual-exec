@@ -7,7 +7,6 @@ related:
   - "[[team]]"
   - "[[daft-roadmap]]"
 ---
-[]()
 # Daft Team
 
 ## Leadership
