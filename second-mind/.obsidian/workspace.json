@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-03-05.md",
+                "file": "dashboard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-05"
+              "title": "dashboard"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2026-03-05.md",
+                "file": "dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026-03-05"
+              "title": "Backlinks for dashboard"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2026-03-05.md",
+                "file": "dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2026-03-05"
+              "title": "Outgoing links from dashboard"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2026-03-05.md",
+                "file": "dashboard.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-03-05"
+              "title": "Outline of dashboard"
             }
           }
         ]
@@ -183,11 +183,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "fd84be97f914a517",
+  "active": "35744e8382722014",
   "lastOpenFiles": [
-    "Untitled.base",
-    "2026-03-05.md",
-    "Untitled 1.base",
-    "Welcome.md"
+    "references/daft-roadmap.md",
+    "references/gtm-goals.md",
+    "product/roadmap.md",
+    "product/pricing.md",
+    "product/mcp-tools.md",
+    "product/data-strategy.md",
+    "meetings/board-2026-q1.md",
+    "strategy/competitive-landscape.md",
+    "people/team.md",
+    "people/daft-team.md",
+    "people/board-and-advisors.md",
+    "strategy/bets.md",
+    "strategy/assumptions.md",
+    "strategy/hypotheses.md",
+    "strategy/strategy.md",
+    "customers/interviews/blink-health-ryan.md",
+    "customers/interviews/clickup-borys.md",
+    "customers/interviews/nomic.md",
+    "customers/interviews/decagon-daniel.md",
+    "references/clay-competitor-deep-dive.md",
+    "customers/interviews/rogo-tumas.md",
+    "references/market-research.md",
+    "references/notion-index.md",
+    "archive/search-sprint-prd.md",
+    "archive/loup-technical-docs.md",
+    "customers/conversation-log.md",
+    "source-documents/interviews/blink-health-ryan-transcript.txt",
+    "source-documents/interviews/clickup-borys-transcript.txt",
+    "source-documents/interviews/nomic-call-3-2026-02-19.txt",
+    "source-documents/interviews/nomic-call-2-2026-02-09.txt",
+    "source-documents/interviews/nomic-call-1-2026-01-23.txt",
+    "source-documents/interviews/decagon-daniel-2026-03-03.txt",
+    "source-documents/interviews/rogo-tumas-2025-12-16.txt",
+    "source-documents/product-docs/eventual-search-sprint.prd",
+    "source-documents/memos/search-standup-learnings.txt",
+    "source-documents/transcripts/refocusing-transcript-2026-01-20.txt"
   ]
 }

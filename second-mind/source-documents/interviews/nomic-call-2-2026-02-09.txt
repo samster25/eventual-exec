@@ -1,0 +1,718 @@
+Meeting Title: Andriy (Nomic) + Jay/Sammy (Eventual)
+Date: Feb 9
+Meeting participants: Andriy Mulyar, Jay Chia, Hamm-4-WAV (6) [Zoom Room]
+
+Transcript:
+ 
+Them: Ten minutes. That call that canceled, actually, they want five minutes again. And I need to talk to them. Otherwise, I'm gonna have really expensive tickets to Australia. So I need to figure out if I'm gonna meet the client in Australia, and I'll be right back in ten minutes.  
+Me: Okay.  
+Them: Okay? Go for it. Yeah.  
+Me: That's convenient. Yeah. Any other questions you wanna Like, can you repeat them? What is the social side for the What your technical requirements? Which I think we should have a. Yeah. What data source are important? RF file types. What are the type of queries? Learning. Yeah. Is it, like, DP search? Is it, like, Exactly. I mean, the way I would break is down is like, simple I think the index is, like, simple retrieval. To, like, complex q and a. Versus, like, deep research type style. Right? I think that changes it quite a bit. Privacy requirements, I think we should Yeah. See. Colder based. I think volume, I had a question. Because last time you said 15. T, but that, like, per customer? Is that, like, Okay. So I have privacy requirements. What else do we have? I will ask about, like, I don't think I need to ask about multi hub. That's, like, more, like, implementation detail. I agree. We already know that the Chinese have agent two accesses, so that's fine. Well, I would say how do they integrate? Yeah. Then I think when we walk through that PRD, we did good. To kinda walk through our thoughts on, like, where the data is. Everyone keeps asking about it. Yeah. But there's some challenges there because, like, I think the team is, oh, just use database. We'll use PG vector. And I'm just like, you know? Just we'll just make it customer driven. Right? If you say he normally needs this, and it needs to be done this way, then Sorry. No. Yeah. Sometimes we're gonna con her, like, he just, like, it's commandeering. You know? Just come in with, like, customer requirements. Yeah. Yeah. Yeah. You know what the customers need this way. Yeah. Okay. Oh. Also, like, is there a way for us to quantify how much money we think we're gonna make? Because, I mean, I feel like we made the mistake of last time of, like, taking too long to come up with a rough estimate of how much you be better make. From you know, a safety kit And Patreon. Do you have a rough sense already given the shape of, like, what we're doing? Terms of how much money do we think we'll make off if we Depends on these answers. Yeah. Yeah. But, like, the math these are the the inputs, but I do have raw sets of, like, the the function. After we get some some of these answers. I mean, it would be a function of, like, some amount of data per volume ingested retained. And then Right. Acquired. Right? Yeah. Okay. Yeah. I think just making sure that we have the right questions to help us arrive at that math. Afterwards. How do you feel like this alright. I guess, do feel like the morning meeting went? It was good. I know. I think folks that didn't watch the I'm getting kind of Yeah. Okay. And then I guess, Paul, the the other high level question is, like, you were wondering more about, like, what depression is too. Like, when you ask Put that down as well. I mean, he also said he's not gonna pay us. Who? This guy? What? I mean, you said it. He's not gonna be asking you. He wrote he wrote this. The the the Oh, I haven't seen this comment. He wrote this. Okay. Yeah. I mean, this was what you just came in. So No. It was from last week. Yeah. I think I think the team gets it now. Don't know. The second meeting was a lot longer. Yeah. I think one thing I'm struggling with it though is that, like, I was like, I told the team, like, hey, was actually expecting, feedback. Because, like, the only person who were clarifying questions was Connor and then I was like, any questions? Call him. He's like, no. Oliver's like, no. And then Sam was like, no. I'm just like, guys, like, kinda hoping you guys would, like, shred this apart. And then we can, like, resolve that. Like, come up with something better. I think it's important to, like, just, like, specificity. I know. I did say that. Did say that. And I think and I think after, they're like, oh, I see. Yeah. Yeah. Yeah. That's fine. But no. But I no. But they're not like then I think me and Sammy debriefed after, and I was just like, he was like, like, that normally happens Is this recording? Or No. All it's all good. So don't know why it's green. He was saying that, like, oh, Sam was like, that normally happens if either like, people are really, opinion about the problem or the solution. And in this case, it's neither. I was like, okay. And he also did bring up said, hey. The laptops and meeting things are, he's like he's like, it is a problem. Mhmm. He says, me and you and Varun do it a lot, and that's why everyone else follows. I'm usually taking notes. For myself. Yeah. Sure. But other people are just doing Like, I I look out at her both screens and she's just, hot coding or something. Yeah. I'm using It drains the energy. Need the we need the I mean, like, know No. I know. Think just maybe be up like, since you're taking notes, but then also for other people, we should just, like, I mean, just every time you start a meeting, just call out, hey. Laptop's off. But if you're taking notes, that's fine. Yeah. Yeah. Yeah. Because, like, I do I think Colin started doing a lot. Like, he just always like, doing some agent thing and he's just never looking up. Yeah. I think it's important to call out. Like, if y'all wanted a car code, just run it, but then, like, close your laptop. To put it to the side. Yeah. Yeah. Or just like, hey. Like, the more efficient we make these meetings, the less meetings we get to No. How was your weekend? Just working. Don't be the bonnet. Be the navigation, dear. It is very odd when we decided to, like, move away from Daft. It's million dollars in a month. That is very the Chinese. I know. I know. But I just like the team must be very confusing. Sure. Because I knew we had one Chinese user probably. Sure. Yeah. No. You do you just do a bunch of GTM ing? Yeah. I just want to reach out. It's not a. No. No. That'll be good. I mean, I think the team is I think our biggest concern is that, like, We don't know if Wikipedia will be a good example. Just because, like, the knowledge, it's like we talked about this. It's like, the models are trained on Wikipedia. Right? And so it's like, a lot of it, they can just one shot it. Right? And so that's a lot of the problem where, like, they might have the prior knowledge already. So it's like we need to, like, figure out a way to, like, like, a lot of these systems, like, we don't know if it's just the model's good or, like, you know, it's the other thing. Or or it's, like, it's actually using our system. So I think we do need to figure out a way to get more private data, like data that the model was not trained on. Somehow. Otherwise, like, it's really hard to actually, like, see the performance of the system. You know what mean? Sure. Yeah. Like Don't go scrape notebook. Yeah. No. But I think it has to be, like, facts and reasoning. Okay.  
+Them: Guys. Apologies for that.  
+Me: No worries.  
+Them: No worries. No worries. Yeah. Cool. Cool. We do a recording too, I think it'd be useful. Yeah. You can record it, and then we can go to the 05:15 work. Or the 06:15 mark or US or West Coast. What is it? 03:15 or whatever. Sweet. Recording in progress. Let me pull up the Notion doc you sent me. I saw Notion told me you guys made a bunch of changes over the weekend. There's nothing that's This one doesn't sound to read it. But  
+Me: But, yeah,  
+Them: but yeah. And then I think on our end too, there's a bunch of, like, requirements we'd to clarify with you.  
+Me: But Yeah.  
+Them: But Yeah. But, yeah, I guess I guess first high level, you know, we've  
+Me: Know. You know,  
+Them: thought about the problem. We've also been talking to a whole bunch of other people.  
+Me: kind of  
+Them: Kinda validating the pains here. It seems like folks are struggling with  
+Me: I think  
+Them: having high level data integration for for AI agent right, connecting to private data.  
+Me: That's right.  
+Them: I think we'd love to dig in a little bit more, understand kinda what kind of data  
+Me: Have to  
+Them: you're expecting, what are the use cases, and any sort of, like, technical requirements just to get a sense of, like, whether this is something that we can solve for you.  
+Me: But  
+Them: But yep. So for that, I guess I'll turn over to Sammy. But, know, on your end, I'm curious to hear  
+Me: for that, You're in  
+Them: yeah, any thoughts since then and high level on the on the kind of requirements side that'd something else? Big biggest thought is yeah. So biggest thought is so I I know I've mentioned, like, WorkOS being, like, the, like, the at least the go to market model that I think this like, this this is like, if a if a solution existed with that go to market model, it would like, slit in really nicely. They released quite recently something called Work OS Pipes. Have you guys heard of those? Work OS Send yeah. So, essentially, like, part of part of the difficulty of building out all of these, like, integrations that have good, like, basically, context layers like, action layers is, like, setting up all the off. And they launched basically just like just like Work OS has essentially, like, identity integrations to, like, your sub provider and all this shit. They launched the same thing for, like, a variety of, like, popular, technology  
+Me: Yeah.  
+Them: companies. So they have, like, a list here.  
+Me: So  
+Them: Where fuck. It's not it. Anyways, they have a list here where you can, like, go in and take, like, the simple stuff, like linear. And they handle the handshakes, and they give you the bearer tokens, but you're still responsible for, obviously, the API calls and also, any of the, like, indexing or, like, building basically, like, the right harness around it for the agents to to to work with. So there's, like, people, like, thinking about this, I think, but, like, there's nothing out of the box that you can still buy. Right? That that basically, like because, like, the the the ideal form factor here, and, like, my my thinking, this has evolved a little bit is, like, what we purchase is essentially access to access to a couple of tool calls. Right? A couple of tools for our that can slip right really nicely into our agent harness Yeah. That  
+Me: Yeah.  
+Them: all have all the problems of, like, right indexing behind it, and right, data data permissioning kind of all solved. Right? Yep. I could just I could just go in and, like, off the shelf a $100 a month. Like, I have access to these five tool calls for this integration. Boom. It works. Customers can provision it, all that stuff. We don't have think of  
+Me: Yep.  
+Them: the or we we need to drop in two two little small markdown snippets into our our system prompt. Like, after the races, things work. We're integrated with this really hard system already. Right? Like, that that's the ideal, I think, developer experience from our end.  
+Me: Yeah.  
+Them: Is that Yeah. By things? Yeah. Makes sense to me.  
+Me: No?  
+Them: Think that's the experience you kinda wanna provide too. Yeah. I feel like we talked to so many teams who are trying to innovate on, like, Slack indexing or, like, how do we, like, index these documents on on the docs and stuff. But everyone's reimplementing  
+Me: And then the other  
+Them: it all over again. Sure. And then the other aspect of it, I I I think about is, like,  
+Me: you know, what  
+Them: you know, once you enter here with us once and we ship out new integration,  
+Me: you're go You  
+Them: And and there's something that connects to it. It should just your product should just get better.  
+Me: Yeah.  
+Them: Yeah. Well, that that I mean, that's exactly the benefit here. Right? It's like like, if I have a customer using Ted integrations with you guys, right, and maybe you're charging $100 a month for access integrations. 10 k a year, to have this product work, especially for an enterprise customer is chump change. People will pay it. I mean, people pay WorkOS. Like like, we pay WorkOS a $100 a month for having a custom fucking domain name on the redirects. You know? Like You know?  
+Me: Yeah. I know. We we do the same, so we don't redirect.  
+Them: Yeah. No. We we do the same, so you don't redirect. You know? Yeah. Okay then. That's that's yeah. So I guess,  
+Me: Okay. Yeah. So I can we it's kinda like  
+Them: like segueing into that, like,  
+Me: like, what?  
+Them: what data sources are important to you?  
+Me: It is worth two at the beginning.  
+Them: In the beginning, and what do you kinda wanna evolve to?  
+Me: Becoming Yeah.  
+Them: I I know you said across the spec sheet too, but would be curious to hear if like, our stack ranking almost stuff. Yeah. You know? Yeah. Quite literally, it's this ordered list. These are the so there's, like, kinda two categories. Like, this is this is our ordered list. This is on the integrated page. The only ones here that we actually that actually exist right now are, this one, this one, and we're working on this one right now. All of these are, like,  
+Me: Gotcha.  
+Them: selling the road map on our website. Gotcha. Some some of these are, like, more universal than just, like, our industry. Like, a lot of people will care about Outlook. A lot of people will care about Gmail. Right? Mhmm. There's entire startups in our industry that all they do is, like, index Outlook and let agents, like, take an action by, like, putting the right thing into some other downstream I guess the whole product, and then I'm making, like, 400 k in ARR doing it. Like, it's ridiculous. And, yeah. So, like, really concrete answer to your question. Like, I I have two people right now, cranking out integrations. We did these in the past two months. This one is about like, we're applying to the marketplace to be on this one. We just had a customer line item, bunch of money, to for us to build another one. Like and, like, it's not even on this list. It's called eConnex. It's like this Oracle project delivery software. But, basically, like, there is a gigantic long tail of places where contact is stored. And, if any agent wants to access it, I have to, at the very I have to, at the very least, build, like, two or three separate TypeScript files where I do custom shit, and at the very worst, have those tied to fucking some s three bucket and some custom indexing logic that that we have to maintain.  
+Me: Yep.  
+Them: Right? And, like, we are repeating that for every single one of these. And once once we have three, it's fine. If we have 20, I'm gonna be paying somebody full time just to make sure that things stands up.  
+Me: Yeah.  
+Them: Right?  
+Me: Yeah. I'll explain.  
+Them: Yeah. That makes perfect sense. And then within these sources,  
+Me: That. And then what have you  
+Them: what are the typical file types you're ingesting here? So this the way we we kinda break it down is, like, two types of integrations, the hard ones and the easy ones. The hard ones are the ones that are, like, fully fledged files cloud file storage solutions. Think, like, SharePoint you guys know what Ignite is? Ever heard of this? Yep. Yeah. SharePoint, Ignite, Box, Google Drive. There are places where humans have gotten used to, storing cloud files, and, like, they charge people per, like, unit of file storage. That they have there. Because those basically, like, you have to account for every possible edge case. So file sizes, file complexities, We've our indexing system, we kinda we have we have our models from our previous, pivot. We built all these, like, parsing models. This has been when we were trying to, like, do do something in the PDF parsing space. So we use our own models for PDF parsing here. But, like, any image we get, all these file formats, we basically run through a parsing model. We get out this, like, nice JSON of, like, blocks and OCR content. You guys have seen Redux of the world, like, same shit they have. And, that's, like if if it if it is not a simple document, like, a like, that you can read, if it's, like, if it's, like, somewhat serialized, we say fuck it. We render it to the screen. We run we run it through a parsing model. That's what I have. Yeah. Basically.  
+Me: So  
+Them: So  
+Me: I guess, like,  
+Them: I guess, like, as an input, it's largely gonna be, like,  
+Me: that's okay. Part. Case. Documents,  
+Them: documents, like PDFs, doc x,  
+Me: PDF. Is that other thing?  
+Them: that That's for the that's for the file storage integration. So this this is what makes them hard. To do anything useful, you must first run it through a model that takes, like, half a second per page to inference to get, like  
+Me: Right.  
+Them: a good layout. Right? And then you have to, like, OCR the shit. For the ones that are not, those are a little easier. Those are the ones where you can, like, make an API call, and we'll send you back nice structure JSON that you can, like, do shit with. Like, Autodesk, for example.  
+Me: Yeah.  
+Them: Yeah.  
+Me: What is that?  
+Them: What does that structured output typically entail? Like, if you're hitting Autodesk, is that hitting a document or hitting CAD file, like a project? What does that, like,  
+Me: What is that? Yeah.  
+Them: It's a mix of shit. I could actually me just pull it up live for you guys just to make that question more easier to answer. So this is our this is our internal dev page that we vibe code every time we ship something to make it easier to debug stuff for customers on every customer instance. ACC API Explorer. So we this is basically, like, what the interns of Autodesk look like, and it takes, like, three weeks to even get in a fucking account to look at this shit. So, like, happy recording this. Essentially, like, they have this, like, project extraction, this project extraction, This project extraction gives you this thing I'm looking for. Pull back projects. Hopefully, that works. There you go. Here's some projects. There's metadata. And then there's links into, like, subdirectories where some of them are, like, there's, like, ACC docs, which is literally just like a file store. So that, like, those we have to process with the processing models because it's literally just, fucking raw PDFs, like, all the all the data related to the project. But then they also have, subdirectories for things like here, let me show you, markups, RFIs. RFIs are based like, customer support questions. An RFI is a customer support question. Submittals, which is basically, like, a ZIP file of docs that are, like, oftentimes a change request to the underlying construction project. So, like, some of these endpoints return back a bundle of ZIP PDFs and doc files. Some of them turn back piece JSON. Some of them return back, like, PDF annotations that you must overlay on some other document. It's it's a it's a mixed bag of things. This is just like honestly, Autodesk is a is a pretty prime example for, like, a regularization function, I think, if you're building this because, their API has everything and all of the things you need to talk to all the things you need to work with each other.  
+Me: That makes  
+Them: Right in the index, basically. That makes sense. So in the end of the day, like,  
+Me: Oh, yeah. The app.  
+Them: the the the core assets, like, in the bottom of directories are gonna be documents  
+Me: We don't.  
+Them: again and annotation on top of those documents.  
+Me: Annotate  
+Them: Yeah. It's like, at the end of the day, like, most of these data like, that are sources of truth for data for industries At its core, at the very bottom, there's there's documents and files, and then there's, like, nice database abstractions over top of those that help represent business processes over top of them that also have metadata. That  
+Me: Yeah.  
+Them: help you that you wanna index to. If if that's made up.  
+Me: Yep.  
+Them: Program Yeah. When when you think about indexing the documents versus the the metadata piece, are you kind of, like, pulling both and then storing the metadata in, like, SQL for your agent to access, or how do you usually think about you know, storing? We do it in two ways. The first way we is we do, like, a crawl. So we just access basically, like, what are the folder paths? What are the file paths? And any any free metadata we can get, some of these platforms have, like, auto extraction metadata from the stuff. Like, anything we can get for free without running an a a language model or some sort of neural based system over top of the file, basically. Then with that index, we do one of two things. One, we do, like, just in time indexing. So the second agent wants to access a file. We'll block the access until, like, the thing's fully parsed. In the it's in the index. Right? Or, or if if the application requires, like, search across lots of files, we'll we'll designate, like, tags or sets of files that get automatically indexed, and then then we have to be indexed again, basically. But the point is it's it's it's never like a here's the entire project, index the project because, like, especially in our industry, it's, like, terabytes of data sometimes in a single project. It's just unfeasible. Not from the technical side, it's unfeasible from the cost side. Like, the the the, like, the the value for the customer isn't there if we charge them $2,000 to index all that.  
+Me: So if I could  
+Them: Data. Right? Yeah. If I could repeat that back to you, it's like,  
+Me: that. I  
+Them: I my lazy index, the directory structure and metadata  
+Me: I link in that directory for a medical But when I  
+Them: But when I do the equivalent, like, a file system open, that's when you will lazily materialize the file. Like,  
+Me: when I I  
+Them: aka download it. Yep. Think about the difference between, like, a find and a cat. Right? Like Yep. You can go in and, like, find everything or rather I didn't wanna a front find. You can explore directory structure, but, like, not actually get  
+Me: Yeah.  
+Them: actually perform the expense operation. When you mean that first bite, that's when you do the the the expensive stuff. Okay. That makes sense.  
+Me: It's it's actually  
+Them: It's it's actually yeah. I mean, we've been kinda thinking about it like a foul system where it's like,  
+Me: We system that's, sure.  
+Them: you should really glob and find and all that use these tool calls. But when you actually, like,  
+Me: Open it up  
+Them: open it, that's when it, like, should be the expensive bit. And then maybe after, you can cache it.  
+Me: and then maybe  
+Them: Yep. Exactly. Exact that that's, like, roughly how our internal system currently works. And, like, every integrator we build, we're, like, slightly improving  
+Me: No. But  
+Them: So Yeah.  
+Me: yeah. That makes  
+Them: That makes sense. Okay. That makes sense. Okay.  
+Me: Okay. That okay. And  
+Them: And  
+Me: on what are the types of  
+Them: on what are the types of queries you're running? The the way I the our mental model so far is kinda like  
+Me: where you do? The way I I  
+Them: there's three camps.  
+Me: There's, like, a  
+Them: There's, like, a simple retrieval, which is, typing, like, a phrase, and I just want the the top k documents. Right?  
+Me: Right? Then you have  
+Them: You have something that's more like complex q and a.  
+Me: where, like, you might have to  
+Them: Where, like, you might have to do, like, multiple levels  
+Me: do, like, multiple of, like,  
+Them: of, like, question asking. And then finally, was,  
+Me: asking And finally, it's, like, deep research.  
+Them: like, deep research, which is, like, you're asking a question, and you might have to go back and forth to the documents.  
+Me: It's, like, you're asking for and you're about didn't find  
+Them: To then find what you're really looking for.  
+Me: So in your case,  
+Them: So in your case, what what do you mostly see?  
+Me: mostly  
+Them: I think about it in a different like, the deep research is just, like, a case of the first one. In my opinion. I see it in two ways. So we have use cases which require hey. They dump everything into the fucking context in Crunch. And then there's use cases where it's like, oh, we can let the model do some good context engineering on our behalf. Because we need data from disparate different sources. And, those sort of are the two kind of patterns which we kind of differentiate on. Right? Because, like, the first pattern is easy. You just get everything into a nice representation via partial something. You just dump everything into context. But, like, there are certain tasks which require cross document context or cross relational structure context. You have to, like, do multiple hops across systems to be able to solve the task. Does that make sense?  
+Me: Yeah. And ex  
+Them: Yeah. It makes sense.  
+Me: so.  
+Them: So  
+Me: Yeah. I got  
+Them: I guess the second one is what we call multi hop, which is, like, you need to answer the first one to  
+Me: second one. Would you like after  
+Them: then be able to reason to the next one.  
+Me: Right.  
+Them: Yeah. Or yeah. Yeah. You have to, like, get get the first shit in context before you can figure out, like, what the next thing you wanna get into context is. Yeah.  
+Me: But I guess  
+Them: I guess the first one will be something like, oh, just grab me all the submittals for this project and I ask a question about all submittals. That's an example of the first time. Nobody would ever do that, but yes. Close. I'll I'll I'll I'll I'll like the I like to try that.  
+Me: give me an example? That'd be really helpful.  
+Them: Sure. How about I just pull up the product?  
+Me: Okay.  
+Them: So, like, here would be a alright. Let's find one. So here's one. Oh, man. Our development instance. A okay. Drawing standards check. So, essentially, this is, a workflow that we had, and this all looks really shitty. We're getting a lot better right on the UX side. But, like, it's a workflow that takes a construction drawing, takes a firm's internal rule, sometimes like a 200 page PDF document. And compares the two. So, like, let me go in here. Maybe let's find some of these. Let me get my live demo instance instead. That's the one I know how to navigate. Quickly. So I'm gonna pop up in one of these. Here's the drawing check. I'm gonna fuck. Let me hide this thing. I'm gonna go in, find a drawing. This is like a habitat for humanity drawing.  
+Me: So  
+Them: So it's literally, like, the construction docs for a Habitat for Humanity house. And then here are the standards. So, like, we made, like, mock standards. Like, when I'm going in and I'm delivering a drawing to, like, a contractor or a construction person, here's all the things that we have to check. Order to go in and make this work. And I'll literally show you, like, we we have this like, agent hardest that, like, does a good job of solving this task. And what it does, is, as it goes in, looks at a couple of these documents. So, like, and it realizes, oh, I need to put all the data in the context from this drawing PDF because it's small enough, and I can do that. So it's gonna start doing that. And, like, this right here is our rather this is, like, from our internal standards. It's like, read this order to check the document against the standards, let's read all the standards, and the agent does And then, you know, I have some failures because it tried to call page six, but there wasn't any page six. And then it figured out basically, like, alright. And now I create a to do list of all  
+Me: Yeah.  
+Them: checks that I need to do based on what I've seen in the standards. And then we to do list. And then then now it goes through. And because most of these are small enough, it's gonna go in and keep adding more use to context. But here's where this gets So let me go in and, like, pull in a completed one here. I'm I'm getting another point here. I'm not just demoing the product. Fuck. Where is it? Nope. That's not it. Sorry. Yeah.  
+Me: Yeah. Okay.  
+Them: Okay. Sorry. I'm just trying trying to find this down. No. No. There you go. Nope. Nope.  
+Me: Yeah. I guess,  
+Them: Yeah. I guess an example of this would just be like, oh, here's a student's exam.  
+Me: be like, oh, you're and the answer key.  
+Them: And the answer key. Can you grade it for me?  
+Me: Greater. Essentially.  
+Them: Essentially? Yeah. That that'd be that'd be an example. Okay.  
+Me: Okay.  
+Them: Then let me show you another one that's more deep research y just to give you an example of something that's very different that we have to do as well. Alright. I have no clue where all this stuff is. Okay. Let me put you in our code compliance mode. So, basically, we have a an index of, like, 5,000,000 pages of every single building code and standard across The United States. And people can go and just drop into context, like screenshots, full drawings, all that stuff. And then we start actually tool calling against that index. And then that index itself is a, a separate sort of store that we have that we built, and you can build, a custom integration that we build ourselves, like, not in any downstream system. We, like, like, hand curated all the data. And this is different because, basically, this is this is a full, like, end to end. Like, this were this agent takes, like, two minutes to execute because it's doing that kind of multi hop reasoning where it's like, I'm looking for accessibility issues in these building designs. But to do that, I have to, like, figure out what what what's in these designs. Oh, it's a bathroom. That means you need building codes. You can see that kind of, like, through the reasoning traces. It has to go in and do that. Those would be kind of, like, the two the two the two different modes that we have to do. So, like, one where the agent wants to get as much as much stuff into context, and then it clears context. Then goes in and gets much more stuff into context, and it takes notes in the middle. And then we have one where we're just, like, non stop, just retrieval calls that are, like, guided by the outputs of the previous calls. Yeah.  
+Me: Yeah.  
+Them: Does that make sense? Is this useful? Sorry if I'm  
+Me: No. No. No.  
+Them: going No. No. That makes sense. And so, yeah, I guess these these questions are fairly complex. Like,  
+Me: So, yeah, I could What does it mean?  
+Them: what is the minimum clear width for assessment corridors and office hours? So this is a multi hop reasoning question.  
+Me: Does it  
+Them: Yep. And so and my question here is, like, are you relying on your  
+Me: And so my question here, are you on your code compliance agent  
+Them: code compliance agent to do, like, this court like,  
+Me: kinda  
+Them: kinda decompose this query, or are you using some kind of system on the other side to decompose a query for you?  
+Me: Are you are  
+Them: No. Like, under the hood, like, this is literally just, a system prompt here. Let me pull this up for you. Where the fuck is this code base? Sorry. I have way too many fucking tabs open. I'm a very disorganized, engineer. Code compliance.  
+Me: So  
+Them: So the only difference The only difference between what you were seeing in that main agent and this code compliance agent is literally just a slightly altered system prompt. To be very succinct. Oh, prompts. There you go. Yeah. We just tell it, like, here's your harness. You have you have access to these tools. This is, the code compliance tool, which is, like, alright. The tool that searches for the codes, that's way that's that tool call you're seeing making all those searches. And this would be, like, this would be the equivalent of the tool call that we wanna buy from a service like this. Like like, tell me the shit I can add to this array that, like, only gets enabled if I'm paying you guys a $100 a month, but, like, gives the agent all the appropriate capabilities. To go in and call. Like, I wanna buy, like, this string and then this string comes associated with a custom prompt that gets, like, automatically don't know where it is. I can't find it. Anyways, that string comes associated with the with the custom prompt. Of, basically, like, tool instructions.  
+Me: Yep.  
+Them: Like, and, like, those tool instructions that you guys should make because, like, you know how to tell an agent how to hit your index of the data. Right? Mhmm. And then I should be able to just, like, import it from your fucking package and, like, add  
+Me: Yep.  
+Them: that tool, and we're off to the races. Yep.  
+Me: Yeah. It's  
+Them: Yeah. That's that's exactly how we're doing it. Yep. That this is the way I Yeah.  
+Me: okay.  
+Them: Okay.  
+Me: Makes sense.  
+Them: Makes sense. Or total. Okay.  
+Me: Okay. And so in both  
+Them: In both the cases you just showed us, though, it didn't hit your, I guess, like, SharePoint Ignite  
+Me: Yeah.  
+Them: endpoints  
+Me: Is it  
+Them: guess, is is that  
+Me: that  
+Them: maybe the main workflows today are not really hitting the  
+Me: maybe the  
+Them: customer private data, and and those are  
+Me: Side  
+Them: kind of so here's our SharePoint. So, like, how our integrations work right now is Yeah. Integrations, your SharePoint, then you go to a big configuration. Here, let me see if there's one that's, like, not configured. Okay. They're all configured. We have the screen. We show you, like, the synced SharePoint sites, and then each of these syncs syncs well, sync SharePoint sites. We do the second we hook it in, we do a preliminary crawl. That's what we call synchronized files. These are not files that we've actually opened. We just, like, know they exist. Does that make sense?  
+Me: Yeah. Yeah.  
+Them: Okay. And then we can allow for people to search over top of those files. So, like, SharePoint exposes APIs for things like file search. I can go in here, click SharePoint, and say, like, I don't know, Oh, okay. There's a preview. Boom. Like, this is all the data in here. But, like, this file, if I actually try to open it, this is gonna take a couple this is gonna take, like, a hot sec. Oh, I guess that was fast. This is actually, like, doing a handshake with let me see if I can catch it here in the network logs on the refresh. Is actually doing a handshake with, with SharePoint. Mhmm. Or, like, our, like, proxy into SharePoint, I guess, is what they implemented.  
+Me: Yeah.  
+Them: Didn't build this integration. Yeah.  
+Me: That makes sense.  
+Them: But, yeah, That makes sense. So, essentially, yeah, you just do a crawl to  
+Me: So, frankly, you you call So structure then you do the batch to index. When you ask. Need it. And then the you you  
+Them: index the structure and metadata. Then you do the fetch and index when you actually, like, need it. And then do you retain it on your side after that? Do we retain it on we retain it in our index. So we retain it in the actual, like, in the actual, like, vector lake. So let let me pop up in one of these. So, like, here's this file.  
+Me: So  
+Them: Are these all in the okay. These are all indexed. And, basically, we we have this thing called these okay. This is we call it learn. This is basically index. If I hit this, this goes in, is going okay. This is, like, September UI. This actually then kicks off a indexing job, which gets the parse, gets a bunch of metadata, and then stores in the actual vector lake. But, like, this is a kind of, like, what we've implemented to allow people to easily these, like, files and integrations. Awesome. And  
+Me: I guess  
+Them: yeah, like, customer. This is something we wanna guys, this is something we want, like, a, like, a vendor to handle, basically.  
+Me: I see.  
+Them: I see. And if our customer is using your product, they would reference these files inside of their chats, and that's kind of the intended UX They can. Yeah. They they can go in and when they click, like, add file in the agent bar, they can bring in any of these files that we've that we've synchronized. If that file is unindexed, we'll index it. And here, indexing is, like, a mixture of many things. It's like getting the file, running the parsing models on the file, storing the file, storing all the chunks and OCR content in the actual vector like. That's what we mean by index, like, all those all three of those operations together. Gotcha. Yeah, any anytime they need to materialize the file, we check if there's a cached version of it indexed. If there's not, we index it.  
+Me: So I  
+Them: Okay. So I guess  
+Me: one thing that  
+Them: one thing that's kinda, like, hard for me to compute is how do you know what to retreat if you  
+Me: how do you know what's gonna treat  
+Them: haven't indexed it yet?  
+Me: How So  
+Them: So basically, the way our general, like, search like, we have a tool call, which is, like, find relevant files or whatever. Uh-huh. And that tool call hits our main in the our our main index of all the data that we have indexed across everything. And if it's not in there, then it's not in there. Right? Well, there's a step that we make users go through, which is basically, like, picks the your your the you can, like, take a SharePoint tag or an Ignite tag. Wanna index all the wanna pre index all those files. Also a thing that we can do at an activator here where if they specifically ask, like, I wanna do something with this file, before it actually lets the agent use it, it'll tell them, like, oh, this agent session will start minutes after the indexing is finished. Does that make sense?  
+Me: Yeah. So  
+Them: Yeah. So certain tags or directories or something to kinda, like,  
+Me: something. Kinda like cold start.  
+Them: cold start it, essentially. Right? Exactly. And, like, our our product like, if they have nothing indexed, our product will happily work. Like, they'll they'll they'll they will be able to do, like, they will be able to take action without any human loop. It's like, the indexing becomes part of, like, the  
+Me: Yeah.  
+Them: like, the agent, Yeah.  
+Me: Yeah. Well, I guess  
+Them: Yeah. Well, I guess, what if you have, like, a shitty index to start with? Like, what if you just I don't know, did some  
+Me: Plain.  
+Them: plain text part  
+Me: Yeah. Plain.  
+Them: plain text parsing,  
+Me: What was that?  
+Them: What was that? Then your product doesn't work. We've thought about this a little bit. Like, we found that at the beginning, we try to do, like, clever stuff. It's like, oh, we don't wanna wait, like, one minute for, like, this 300 page PDF to fucking index. Like, can we get away with shitty stuff? And then what we realized is, like, it's not worth it because, especially in our industry, people like, we can go in in ten minutes, solve a task that would cost them $2,000. But if in that ten minutes, it's running on a poor representation of that file, and it fails to, like, do certain things,  
+Me: I see.  
+Them: they just have a bad impression of us, and they're like, your AI doesn't work. I see. So this is why this is why we always, like we will run the most expensive stuff over top of the files before we ever have an agent tool call into it. Yeah.  
+Me: I need to provide  
+Them: And you would just align the transformations if you don't need it. That that's kinda like how you  
+Me: kinda why I  
+Them: keep the cost down. Yeah. Like, we we we're specifically built, like, like, we target the use cases where we know, like, somebody will kick off the agent. It might crunch for fifteen minutes and cost them $5 of AI spend. But they have saved $2,000.  
+Me: Okay.  
+Them: Like, that that's the use cases we target. Okay. Makes sense. Just time check. We have, like, maybe three, four minutes left.  
+Me: Okay.  
+Them: Okay. I I can go I go a little bit over if you you go. Okay. Cool. I got it all. I guess  
+Me: Okay. Cool. I guess segueing in  
+Them: segueing into the next thing, which is, like, then  
+Me: But then release  
+Them: for these searches, once  
+Me: Typically, you're, like,  
+Them: typically your latency budget? It's it's funny. Like, I don't know the answer to that. What I've learned from customers is, like, like, there there's some of these workflows where, like, I pull up customer instances. And it literally took, like, twelve hundred seconds to run. Like, the the agent computed for twelve hundred seconds. Like, I'm like, what the fuck? And I I check, and they they spent $50 of AI usage on it. And they came back glowingly happy. Because, like, it crushed over 10,000 pages of work.  
+Me: Yeah.  
+Them: And, like, they're like, there is no human I have ever met that can do that. And, like, you have produced a really valuable work asset for me. You know? Yeah.  
+Me: Yeah.  
+Them: That makes sense. And so I guess  
+Me: And so I guess yeah.  
+Them: Our latency budget is relative to the task. Like, when I'm demoing the latency budget is, like, half half a second because, like, I need the demo to flow.  
+Me: Yeah.  
+Them: And so, like,  
+Me: Yeah. Yeah.  
+Them: and then, like, when the users are executing it, it depends on the complexity of their task. Yeah. Yeah. Yeah. I mean, because, I guess,  
+Me: Yeah. I mean, I guess, for  
+Them: for Trent, like, for our one of our thesis is, like, if we can actually give  
+Me: for your part. Of our people. Like, if we can give better  
+Them: better  
+Me: like, retrieval, a better search  
+Them: like, retrieval or better search, essentially.  
+Me: and that  
+Them: Then that that model takes and less documents overall.  
+Me: model And because  
+Them: I think that's something.  
+Me: yeah.  
+Them: I thought the same thing when I was when we were building the infra layer. Nobody gives fuck. Like, once you get once you get away from selling from developers, nobody gives a fuck.  
+Me: Yeah.  
+Them: Just to be very quick with you. Yeah.  
+Me: Yeah.  
+Them: Okay. And that's at least, like, what I like, I I have internal like,  
+Me: Okay.  
+Them: we we we built we built some of the world's most popular embedding retrieval models. I I deeply believe that like, good search is important. Turns out at the application layer, nobody gives a  
+Me: Yeah.  
+Them: flying fuck. Yeah. Yeah. And when you say that, I guess, the intention is, like,  
+Me: He just  
+Them: just go out and retrieve  
+Me: as much  
+Them: as much as you can and then stuff it on context window, and that's  
+Me: as he can.  
+Them: like, better than Yes. And, like, two years ago, that wasn't the case because, like, these  
+Me: Yeah.  
+Them: con the the best models are small context windows, but just another case. Like, it's it's not Yeah.  
+Me: Gotcha.  
+Them: So you rather basically optimize for higher recall just, like, get a wide base and stuff at all. Yeah. Yeah. One is an hour. What?  
+Me: When is that now?  
+Them: When does that not work? As of two months ago, it's I I struggle to find a time a case, frankly. Like, more than two months ago, it didn't work a bunch. You need to think a lot about, like, prompting the model to, like, tool call in the right ways and all this shit. Like, the latest checkpoints that have been shipped from a Entropic and OpenAI just, like, they've just done a really good job. Yeah. Yeah.  
+Me: Yeah. Yeah. Okay.  
+Them: Very frank with you. Okay. Well, that makes sense. And and the contact center is a huge like Yeah.  
+Me: Yeah.  
+Them: Okay.  
+Me: Okay.  
+Them: My next question is, like,  
+Me: Next question is, like, when it comes  
+Them: when it comes to let's say, the users opt into a certain directory.  
+Me: to, let's say, the user's office. Concern directory. That they wanna  
+Them: That they wanna keep index, what's, like, your time budget for once acceptable for something that's  
+Me: What's, like, your time budget for a month to second over a Sunday gets  
+Them: created to when it has to searchable? That's the that's the question that we would love an answer to ourselves. We don't know yet. It depends on the use case. Like, if there's a use case, which is somebody wants to have this folder of 50 gigabytes of shit, like, ready to go index and, like, use it as a knowledge base, Oftentimes, it's like an async operation. They'll do this, and, like, we'll do it during the onboarding. Like, before any user at the company actually even gets to touch it, like, part of, like, the admin onboarding is, like, pick which big which big collections of files. Want everyone in your company to be able to, like, use whatever they're using the product. That's not but that's never an action that we actually give to, like, the end users. That usually happens to the IT teams because those operations require gigantic budgets. Associated with them.  
+Me: Yeah.  
+Them: Right? Yeah.  
+Me: Well, I  
+Them: But I guess, like, after that, the incremental sync.  
+Me: Is there  
+Them: Is there is that is that minutes, hours? Is better. Right now, we take about two minutes. And nobody's really complained. Because they're used to software being slow in our industry, I guess. May be the answer. The other thing is, like, the tasks people are doing, like, themselves would take several hours. So, like, waiting an extra two minutes before the agent starts crunching, like, I don't think anyone knows it.  
+Me: hour Yeah.  
+Them: That makes sense. But, like, but I would fucking love if you know, can go in and get a parse back and two seconds Yeah. From a page document and, like, that'd make a great demo.  
+Me: Yeah.  
+Them: For now. I just don't demo those flows right now. I mean, it's cool when you can just draw something to, like,  
+Me: I have to go to use it properly. Like, driver.  
+Them: drive or something, and it just works.  
+Me: Works.  
+Them: Yeah. Yeah.  
+Me: Okay.  
+Them: Okay. Lower latency. You know, over the weekend, I annoyed my girlfriend by making her watch that, Spotify documentary where, like, that, like, autistic founder is, like, two hundred fifty milliseconds is not fast enough. We need two hundred milliseconds for, like, the the buffer time on Spotify. Yeah. Yeah. I I I could pretend to be that, but I don't think  
+Me: Yeah. Yeah.  
+Them: actually matters that much right now. Practically. Like, it's it's not blocking any deal, but I do imagine that healthy flows were, like, people will get lots of joy. That are is currently un unjoyful. So Yeah. And then I guess, like, when he's that we're blocking the deal,  
+Me: Yeah. I  
+Them: is the really the main unlock here just, like, more integrations? Like, what's the the deal blocking thing for you? I I I literally have a customer that's like, we'll onboard with you. We can have a a side letter to the MSA attached that you guys will have this integration shipped by q two. Like, Yeah. That's just the reality. And, like, we can build it ourselves. Like, I'm sure Claude can get a fucking first version that'll, like, satisfy their execs and stuff in, like, in, like, a week of work. But the main reason I'm talking to you guys is, like, the maintenance burden. Like, should everything go well this year? Like, we're  
+Me: Yeah.  
+Them: we're fucking rocketing and, like, we are maintaining these indexes for hundreds of customers across dozens of integrations.  
+Me: Yep.  
+Them: And, like, that is not the business I wanna be  
+Me: Yeah.  
+Them: Yeah. No. I looked at, Samsara's. So we work we work pretty closely Samsara, and they have, like, integrations pages, like, hundreds of, like, systems. It's crazy. Yeah. I think, yeah, sky's the limit here. It's, like, how much you can integrate with. It's crazy.  
+Me: Well,  
+Them: Well, yeah, I mean, like, maybe there's a world where you build a really good integration builder agent. Right? Like, once you guys figure out how to do this after the first couple, like, you you you you you bake that into a nice agent hardest, and that thing is, like, ripping these things, like, 90% on your own.  
+Me: Yeah.  
+Them: You you guys get to actually work with focus on the infrastructure. Right? Yeah. Makes sense.  
+Me: What what  
+Them: One one thing that, you know, I've been calling out as a internal risk as we're looking at this stuff is  
+Me: No. I as we Yeah. As your  
+Them: all your custom logic with the parsing. How how important is that for you guys? You know, all the models you're running, or is that something we found out we'd have doing, like, 90% of cases, it's, like, good to go? You know, six months ago, my answer and, like, my ML team would be mad at me if they me saying this. Six months ago, I've been like, it's super important. Now a lot of the capabilities that our parsing models use to they they were they were always crutches. Right? The foundation models weren't good enough at doing things, so we had custom ones.  
+Me: Yep.  
+Them: Yeah. I think that has really changed.  
+Me: Right.  
+Them: Gemini three launch. Right. Frankly, like, in six month like, I I always tell, like, my team, like, these models are gonna be useless in a year or two. I think, like, in six months, they like, will be absolutely no fucking reason to hit our own models.  
+Me: Yeah.  
+Them: Yeah. No. But I met so many companies that their the PDF processing pipeline is upload to Gemini and ask it a question. That's kinda crazy. Yeah. Actually, how do you fare about how do you think will survive, like, Gemini is getting better at it. There's a there's a lot of things that Reductor does that generally doesn't  
+Me: Yeah.  
+Them: One of them being, like, running on premise. That frankly, that's a big one. Right? The the the Reducto got their big round. It because they were able to, you know, in their first six to twelve months, close a multimillion dollar deal by running all the repo on premise. Right? Like, I've that that that's the reason. There's, like, twenty twenty competitors to Reducto, and the only difference is, like, that one. Yeah.  
+Me: Yeah.  
+Them: Yeah. That makes sense. Yeah. That's fine. That's fine. That's  
+Me: Okay.  
+Them: pay it. Like, I like I I I know their founders. I I met them in 2023, like, I help help them, like, negotiate their, like, scale scale opportunity back back to 2024 and, like Yeah.  
+Me: Yeah.  
+Them: They're doing great. And there's they they've they've eaten up a lot of the market  
+Me: Yeah. Yeah.  
+Them: and Yeah. Yeah. Well, yeah. No. I was just curious because, like, there's IDPs have been around for a long time.  
+Me: Well, yeah.  
+Them: I was just curious on, like, why they kinda took off when there's, like,  
+Me: Competitors.  
+Them: 20 competitors. You know? I think the biggest one is, like, they were in the right place in the right time.  
+Me: Don't  
+Them: They had the YC network. And, generally, like, they had the best models. Like, there was a time for about nine months, I would say, 2020 I would say fall twenty twenty four through 2025, but the foundation models weren't good enough, and they were the only one and, like, the of the world. Like, unstructured was a was a big, like, reductive one before them. Like, unstructured, in order to, like, run a PDF through their pipeline, they use, like, six different softwares in a Docker container to, like, get something out. Introducto was the first one that was, like, super clean, vision language model for parsing, vision language model for OCR and captioning. Off to the fucking races. It works. And, like, they could quote they can quote to you a price, which is in the the cost of GPUs run because they run it all on one GPU. And that was a very palatable thing, and it actually worked in the in the long set of edge cases that companies had because they actually were training their own models from scratch, not just, like, ripping and replacing random OCR shit from the past two decades.  
+Me: Yeah.  
+Them: Yeah. Oh, yeah. Totally agree.  
+Me: Yeah. Okay. Great.  
+Them: That's my honest opinion.  
+Me: Yeah. I guess my next thing that we should probably get into  
+Them: Yeah. I guess my next thing that we should probably get into,  
+Me: we wrote a little bit  
+Them: we wrote a little bit into the the PRD about, like,  
+Me: essentially,  
+Them: essentially  
+Me: we're, like,  
+Them: we're, like, I guess, like,  
+Me: policy  
+Them: policies and privacy.  
+Me: privacy. I guess, like,  
+Them: I guess, like, how do you kinda think about privacy right now? Not maybe not  
+Me: how do you where it work. Like,  
+Them: privacy is not the right word, but, like, kinda how do think about, like, access control for your users? Like,  
+Me: For your youth? Like, if you just wanna have  
+Them: if the users wanna let you see certain folders, or topics,  
+Me: certain orders, or whatever  
+Them: or whatever, how do you kinda think about integrating with them?  
+Me: How do you kinda think about integrating  
+Them: I wrote this over the weekend.  
+Me: Right.  
+Them: The whole point is we inherit their permissions and their structures. You know? So, like, any permissions or groups they have So oftentimes, the way the way the way the end users, like, actual companies, they'll buy these, like, files and products, like the Ignites or the SharePoints. And then they'll have, like, their identity providers, and they'll create, like, groups. You know, identity providers, and then and then those file systems will inherit those groups. That it's it's a nonstarter to inherit all those things.  
+Me: Okay. So  
+Them: Okay. So  
+Me: basically, they have  
+Them: basically, if they have permission groups or certain  
+Me: permission groups. Or share.  
+Them: shared things within Google Drive, we should inherit that.  
+Me: With Google Drive. And then make sure that  
+Them: And then make sure that it links to whatever end user account.  
+Me: it's account. Inside of  
+Them: Inside of, your product. 100%. The way I think about it is, like, the person the set of permissions that the actor kicking off the agent has should be inherited by the agent unless, like, otherwise specified.  
+Me: Yeah.  
+Them: Yeah. That that that that's the that's the way I describe it to my internal teams whenever they ask me that question. That's That that's that's the best way I can translate Like, we inherit your permissions for what we tell cluster. Tell customers we inherit your permissions, and then they're like, what does that actually fucking mean? And, like, that's the line that I my internal teams.  
+Me: Okay.  
+Them: Okay. That makes sense. Okay. So I guess, like, similar to Glean,  
+Me: Now I'm gonna Okay. So I get more to I guess, okay.  
+Them: guess, would be the analogy.  
+Me: Be, you know, Right?  
+Them: I've never gleaned, but probably.  
+Me: Okay.  
+Them: Okay. Yeah.  
+Me: Do you  
+Them: And do you ever think about maybe more semantic, like, reductions or  
+Me: the know  
+Them: obfuscation within each document? Is that, like, fine? Just not much to kind of redact within these documents and just use all the data. Like, an example is, like, maybe they should know the summary of something, but not the exact figures. No. That hasn't been a thought or concern. I know Glean probably does stuff like this I know people do do this kinda, like, obfuscation stuff. Frankly, like, that's something that I would wanna have control over, actually. Like, if somebody's if if I'm, like, onboarding with you guys and you guys are, letting my my client connect their SharePoint in and, like, I can see into it and stuff, I can link to go on the index. I think I should be able to expose to my client whether or not they have that option. Does that make sense?  
+Me: Yeah.  
+Them: Meaning that you want to be able to tell your client Like, I I've configured, like, okay. We're gonna be doing our SharePoint integration with you guys. And, like, in my master, like, SharePoint integration page with you guys, it's like, when a customer onboards to SharePoint through this integration flow, they get a question that's like, should we run this complex algorithm that is maybe more expensive to do something to files before they get indexed?  
+Me: Alright.  
+Them: Like or, like, at read time or something like that. I don't know. They did you The operation is important. It's, the flow of what it gets selected, I guess. Okay. But has this kind of stuff ever been a blocker for you when onboarding customers, or I just don't care? Never never so far.  
+Me: Okay.  
+Them: There's just hard rules, basically.  
+Me: So it's just heartfelt. You have access to it or you don't.  
+Them: You have access to it or you don't, and that should be determined by the data source.  
+Me: Yeah.  
+Them: Yeah. And this might be an artifact of our industry, just to be really transparent with you. They they they computers are scary to them, and they're just happy they have IT people that things like groups and permission controls. They don't even think that far ahead, I think.  
+Me: Yeah.  
+Them: Yeah.  
+Me: Okay.  
+Them: Okay.  
+Me: I guess Next question is, like,  
+Them: I guess my next question is, like,  
+Me: because our  
+Them: right right now, it looks like you have, like, pretty much native integrations into these end tools.  
+Me: and  
+Them: And  
+Me: do you ever have a  
+Them: do you ever have a case where maybe the end result or an intermediate goes back  
+Me: case where, like, end result or intermediate one? Back?  
+Them: to these data sources. Like, you write back to SharePoint or Drive or Autodesk. So not SharePoint or Drive right now. Autodesk is gonna be the first place where we do that. Don't do it yet. But yeah.  
+Me: Okay.  
+Them: Okay. So in a case like that, how should we, like,  
+Me: In a case like that, how should we work together?  
+Them: work together on that? So if we're providing you, let's say,  
+Me: Like, we're Right? Or in that  
+Them: indexing, let's say, Autodesk and providing you, like,  
+Me: with the Autodesk. To provide like, the capability  
+Them: capabilities to kinda, like, retrieve data from that.  
+Me: your data. Then  
+Them: Then  
+Me: how  
+Them: how like, when you kind of expect us to also do the write back,  
+Me: how  
+Them: or when you kinda just go through your own integration to that? I don't know. I haven't thought about that. I think what I would expect is, like, have access to the same APIs I would have access to if I was going directly. To them, I guess. Because, like, on your end, the only thing you would do actually, no. The answer to that question is simple. You're just providing me with that fucking bear token or whatever request token that I need. I I I would I have to call that API myself. Right? I think. Okay. So we would like you would want us to kinda, like,  
+Me: Okay. We would like kind of, like,  
+Them: put up the term here, kinda, like,  
+Me: is the here. Is kinda like give you  
+Them: give you like, I guess we would authorize you with a token. An and then you would be able to do that API request to do it right.  
+Me: Yeah.  
+Them: Yeah. It's kinda like that WorkOS thing where, like, they're WorkOS is just giving me that bearer token and making sure it stays up to date and stuff. Whenever I fetch it. And then I'm responsible for making all, like, the poster puts. But more painfully, I'm responsible for making the gets because the poster puts are easy. Right? Like, we can go in and right now make our agent, like, write something to fucking Autodesk and, like, we can knock that out in, like, three seconds with Claude. Because you know, that that that's an easy thing to do. We we are not having to deal with that data later on.  
+Me: Yeah.  
+Them: Yeah.  
+Me: Makes sense.  
+Them: Makes sense.  
+Me: Okay. So  
+Them: Like, the hard problem here the the hard problem the the way I the way I think about this is, like, every every company building the data layer is having to build  
+Me: So  
+Them: some sort of operation for the context building and some operation for the actions. And the actions are actually the easy part. The hard part is, like, context building, make sure that context is up to date, and, like,  
+Me: Makes sense.  
+Them: all that nitty gritty stuff we just talked about. Makes sense.  
+Me: Go use  
+Them: Do you all use MCP for any of the stuff, or it's just  
+Me: Raw.  
+Them: raw Yeah. Read it all we read it all ourselves. Yeah. We read it all ourselves right now. Okay.  
+Me: How about your  
+Them: What about your tool calls that as well?  
+Me: well?  
+Them: Yeah. We we have our own, like, harness written and everything. Like, for an integration, like, if there's a lot of API calls we need to make, currently, we're writing our own custom, like, slug at the agent calls to generate the actual tool call. We've considered, like, potentially exposing, a a quick, like, JavaScript sandbox where it can, like, chain stuff, but we haven't Yeah. Got there yet.  
+Me: Okay.  
+Them: Okay. That makes sense. My last question is,  
+Me: Now my last question is, yeah. I think you're  
+Them: I think it would be good to kinda discuss, like, where the intermediate data lives.  
+Me: discuss like where the intermediate data lives.  
+Them: Yeah. So the way that we're kinda designing things is that we wanna be able to,  
+Me: So  
+Them: like, back things to a cloud storage bucket, and we can be pretty flexible  
+Me: things the way And we  
+Them: who essentially owns that bucket. But  
+Me: I think  
+Them: I think the thing that  
+Me: we're  
+Them: we're a little bit unsure about is that, for example, if we are, let's say, indexing  
+Me: sure about sure about. Sure document.  
+Them: documents and whatever else,  
+Me: It's very  
+Them: very likely we probably wanna store  
+Me: more content.  
+Them: the content of those documents as well. Yeah. And so I guess how do you think about that?  
+Me: So, I guess, thinking about that. I about  
+Them: So here's what we would need from a from a subprocessor to break this work. So, like,  
+Me: so  
+Them: here's what I tell my customers. And, actually, like, we do this on our I I like the way I actually stole this from Cursor because I like the way they did it on their page. Is, like, a year ago where they had this on the security page. Hold on. Nope. That's not how you form the company's name. So we show people which subprocessors see which sub which subprocessor stores the files. Which sub processor sees the files, and then which ones don't see any data at all. And this is like AWS is where we're storing the Blob stores. For the indexes. Both Anthropic, Google, and Modal. Modal is where we run our parsing models. So they see the file. And each of these subprocessors, like the ones that basically at the very least see the data, we have z zero data retention agreements with Guarantees that basically with like, there are a lot of times. Sometimes it's zero days. Sometimes it's seven days. That that data gets wiped from all their intermediate request traces. Yeah.  
+Me: Yeah.  
+Them: And this is basically this is what we would want from some like you, basically. Like, that you would indemnify us on behalf of your subprocessors that this was happening as well so that we would have, like, a ZDR or, like, a seven Doctor or something like that with you.  
+Me: Yeah. Yeah.  
+Them: Yeah. Yeah.  
+Me: Right.  
+Them: Okay. So that would look like we would retain everything in a bucket that they potentially will own.  
+Me: I would have liked retainer. And then we do  
+Them: Then we do, like, some time to live on enemy data.  
+Me: kinda like, and media.  
+Them: Exactly. Yeah. So, like Yeah. If you've gone in and you, you know, maybe have some shit in Datadog because, like, you want your application to exist and work, those traces, if they store any like, I mean, may you it would be Datadog would not be the product who wanna do it, and they're gonna charge you $5,000,000 through but if you if you store any raw file data in there, that's the, that that's the thing we want. We won't we won't play. Yeah.  
+Me: Okay.  
+Them: Because, like, at the end, what I wanna be able to tell a customer is, like, if it is the case that you have not used us for a week, and you go into your blob store and you delete everything, everything's gone.  
+Me: No.  
+Them: That's the narrative. We we we drive with our customers. And that is the market accepts that.  
+Me: Okay.  
+Them: Okay. That makes sense. The the market up to, like,  
+Me: Exact  
+Them: 30,000 person enterprises accept right now.  
+Me: Okay.  
+Them: Okay.  
+Me: Very cool.  
+Them: Very cool. Are there any cases where you would wanna own the bucket?  
+Me: Are there any  
+Them: Just make it maybe maybe you're working with, like, an old company that doesn't have a bucket.  
+Me: like old  
+Them: I mean, feel like we'd be able to own the bucket if you let people pick where the bucket goes. Right? Okay. Okay. So I guess you just want the control  
+Me: Okay. Okay. If you like, on  
+Them: like, on, like, a per account basis to, like, specify the bucket. Yeah. You know, we could have this built in our product right now. So, like, let me this baby up, where we don't expose them the ability to change it, but we definitely give them the ability to, fuck. Where is it? We give them the ability to actually pick, like, which bucket their index sits in. Where is the ship? Hold on. Just exposing our environment variables. So, like, you can pick, like, where that actual bucket sits. Gotcha. And, ideally, there's, like, a way to do that. Gotcha. Yeah. By the way, I hope I'm giving you something that's, like, sufficiently general and not, like, super niche to, like, how we build things. But I hope so, like Yeah. Definitely regularize this across other  
+Me: Yeah. I mean, I think  
+Them: companies. No. I mean, I think it's, like, steering us in the right direction. I think we have to kinda,  
+Me: like staring us. Right? We have  
+Them: like,  
+Me: think about  
+Them: about it and kinda, like, zoom out a little bit and just make sure if that's  
+Me: But  
+Them: but yeah. And I think this is, pretty valuable data.  
+Me: yeah, I know. I think it's a pretty high one in a  
+Them: Okay. Cool.  
+Me: Okay. Cool. I think that's  
+Them: I think that's it, and that's it on my end.  
+Me: it. And that's it in mind. So let me  
+Them: So let me Yeah. Yeah.  
+Me: yeah. Yeah. So we just  
+Them: Should we discuss maybe potential, like, next steps and Yeah. Yeah. How to get  
+Me: Yeah. Yeah. So we talked about the design project  
+Them: So we talked about the design partnership agreement. I saw you love to comment that you can't pay for your  
+Me: agreement. I saw you have a comment. You you  
+Them: design partnership. But, like, that's something that we would wanna validate that the pain is real. So I guess how do you think about  
+Me: guess, how do you think about it? Do you think about  
+Them: how do you think about this? Just my initial response on a Friday. And to be very frank with you, look. I I I I the position you guys are in a bit so, like, here here's what would get what would get us to do it. Like Yeah.  
+Me: Yeah.  
+Them: What I don't wanna pay for is, like, the promise that in three months, there'll exist something here because, like, I can then in that very same time, pay for someone actually go in and build a bunch of these. Right? But I also recognize that, like, there'll be point in the future where there's, like, an inflection point where, like, it is really valuable to have someone you. This is the whole reason I'm talking to you guys. What would you guys need to like, obviously, I'm giving you this feedback and stuff, and, like, hopefully, that's useful. But, like, okay. Where are you guys okay. I I was in French for this direction. Where are you guys in an organization? Are you guys in a fundraise right now? Like, what do you really concretely need to get people excited about what you're doing? To, like, like because money is one way to show your investors that, like, building something that's useful. Right? Yeah. Like, that can be arranged. But, like, what's another  
+Me: Yep. Yeah. Yeah.  
+Them: what are other ways we can make what you're doing actually exist, basically? For sure. I can just give you a quick, like, status of where we are. So  
+Me: For sure. How does it work?  
+Them: we raised a series a last year. We have, like,  
+Me: We've lot of them.  
+Them: a lot of runway. So funding is not really an issue for us. So we're well funded.  
+Me: And the So we're I think  
+Them: I think the key thing is more just, like,  
+Me: I think more we have  
+Them: have this, like, existing  
+Me: existing product line.  
+Them: line, and we're just trying to, like, show conviction both to ourselves and our team.  
+Me: Prediction. The  
+Them: We wanna go in this new direction.  
+Me: And so it's more  
+Them: And so it's mostly for convincing ourselves.  
+Me: it's it's And our investment  
+Them: Our investors are very supportive of I mean, you know, Britney, like,  
+Me: you know,  
+Them: our investors are very supportive of, like, what we choose to do. And so for us, it's more of, like,  
+Me: So for us, we're like, is this a bit of  
+Them: this a big enough pain compared to the thing we were doing before? Right?  
+Me: pain? I don't I think And so for us, it's not like  
+Them: Yeah. And so for us, it's not like we are looking for, like, an up front  
+Me: you're for upfront payment, so we can solve solve  
+Them: payment so we can solve solvency. Right?  
+Me: same. Right? More about, like,  
+Them: It's more about, like,  
+Me: can we tie this  
+Them: can we tie this to milestones that are concrete?  
+Me: model six or a pump to And then kind of, like,  
+Them: Then kinda, like,  
+Me: build a  
+Them: build it for you, show it to you, and then when we sign off, we we won't move on to the next thing.  
+Me: show it to you. And sign off on to the next  
+Them: Yeah. So, also, I think, important for us to quantify the pain for you as a company, and then we can kind of use the same framework and, you know, pricing to quantify for other people. Then for the team, it's like, hey. Like, hey, guys. It's a, you know, big opportunity. Let's all go at it. Yeah. That's what he did. I think and then just to be transparent, I think the other part is that, like,  
+Me: think In the past,  
+Them: the past, when I worked on design partnerships where they didn't pay and we deliver something, and they didn't even know evaluate it.  
+Me: Living  
+Them: They didn't give a shit enough. No. No. Totally fair. I I understand what you guys are asking. Yeah. Yeah. So that's kinda how we see it. But Yeah. Yeah. We do. It's totally fair. Okay. Sorry.  
+Me: I was like,  
+Them: Oh, I was saying, like, I don't think I think we can work something out where, like, maybe there's nothing upfront, but, like,  
+Me: once we  
+Them: once we actually have something for you to try. Okay. What would that look like? So what I'm thinking is just break it down to, like, three milestones.  
+Me: First  
+Them: Like, first first, what we do is just interview more of your team, get more concrete deliverables that you need.  
+Me: And then we  
+Them: And then we build. We build something tangible that you can test, integrate into your agent.  
+Me: we built like, integrate.  
+Them: Test over maybe some proxy data that you have. It looks like you have some already.  
+Me: And then  
+Them: And then work on to, like, the next phase.  
+Me: and so  
+Them: And so it might be something like  
+Me: it might be some like versatile  
+Them: we first build a, like,  
+Me: a Hector,  
+Them: connector, like, let's say for the top three you care about, give you the interface, make sure that all works,  
+Me: three And then that works  
+Them: And then that works. We get  
+Me: Yeah. You know,  
+Them: you know, some amount of design partnership unlock. And the next thing we would work on  
+Me: I don't know. Don't It's been working  
+Them: essentially working on, like, let's say, the policy enforcement and then finally, we make it production ready. Okay. How much how much do you guys want? For something like that? So, like, so, like, we can probably do this around, like, one integration or something like that. Right? How much do guys want  
+Me: need the ball.  
+Them: I'm in the ballpark. We're not looking to make  
+Me: A ton of  
+Them: a ton of money on this, but I think the whole thing probably, 10,000. No. 10 k. Okay. That that's frankly not unreasonable. So let me bring it back to the team. You thank you for keeping them looping all the emails. So so Bob, the guy you've had in the email, like, he's the guy who's like, he he leads our he write the integrations himself. But he leads the we we have a subcontracting team in Ukraine. That is basically integration monkeys right now. Yes. Things out. And he's the one that that also the next person you'd wanna talk to, just around, like, clicking more information from. So let me bridge the discussion with them. But but at that price point, that I think we I think that would be guess, like, from my perspective, I think that'd be feasible. There's also the perspective of just, like, I need to get the last time we talked with Bob was, like, a month and half ago. I need to get Bob on board. Because guys you guys have been the only ones who've actually been serious in following up here. And, again, like, we're building out more of these, literally. So we're doing a big big round well, not big round. We're doing a strategic round right now where, like, literally one of the side letters on the round was more integration So it's just like it's it's a real thing. Okay. No. Thank you so much for your time. Yeah. Really well. I appreciate it.  
+Me: okay.  
+Them: Okay. Send send over that that info, and I will make Bob hop a call with you guys in the next week. Okay? You. Bye. Really appreciate it. Talk to Actually, before you guys hop, hold on. So, like, you've had this product that you guys have been building out. And you guys are, like,  
+Me: Yeah. For  
+Them: like, wholesomely considering a pivot right now? Yeah. Pretty much. I mean, the I guess the position where we're at is, like,  
+Me: we've built  
+Them: we've built this  
+Me: built you know, I was  
+Them: obviously, successful open source project, like, around, like, large scale distributed processing. So  
+Me: with these projects, like, large pretty much  
+Them: pretty much helping folks run things like large scale embedding or our scale and transformations. Like, over your datasets. But  
+Me: commercially,  
+Them: commercially, it's been kind of hard to translate  
+Me: kind of hard to It was, like,  
+Them: those ICPs into commercial ICPs. Yeah. They're like research just research org.  
+Me: into commercial ICUs. Yeah. Like,  
+Them: Right? Well, like, we're like, I think we're at the point where, like, we're getting paid to do support contracts. So it's,  
+Me: like, I didn't 400. To today. You know,  
+Them: you know, the same Redacto customer that, you know, that you talked about.  
+Me: and also,  
+Them: And, also, like, you know, folks like Amazon, and we're using, like, China a lot. But  
+Me: China a lot. But  
+Them: not people who would pay.  
+Me: And so now we're like, okay. We have time for  
+Them: So now we're like, okay. We have to kinda find a new angle that leverages, like,  
+Me: go that way. That's like okay. Our skills  
+Them: our skills, which is systems experts, but in, like, a new market  
+Me: system that's where But and, like, market,  
+Them: that people are getting is not unfortunately viable. And and, really, the story is, like, over the last  
+Me: that we're as well.  
+Them: four months or so, we've been exploring, hey. What does it mean to build these, like,  
+Me: And then  
+Them: embedding pipelines? Like, as data comes in, embed it embed it and then put it in vector store.  
+Me: And then  
+Them: And it almost felt like too much of an infer product. I didn't deliver enough  
+Me: And then And then all  
+Them: like, high level value.  
+Me: So then  
+Them: So then we were already kind of considering going upstream to, like, the data sources. So we're like, oh, what does it mean to, like, index Slack or, like, Notion?  
+Me: And that's  
+Them: That's when really kind of jogged emails. I mean, this is kinda perfect. Right? Yeah.  
+Me: Yeah. And I I  
+Them: And I I think your insight was like,  
+Me: think I actually wanna get  
+Them: think actually one of you I think it was a a call with you guys. Right? I was like,  
+Me: I think we  
+Them: think we realized that, like, this idea of doing, like, batch processing in the form of, like,  
+Me: idea of like, processing like, you have all the data.  
+Them: you have all the data everywhere, and you wanna just embed everything or parse everything and put it here.  
+Me: Everywhere. Right?  
+Them: Right?  
+Me: At was kind of an  
+Them: That was kinda like an older  
+Me: Right? I and then now we're thinking  
+Them: trend, and now we're seeing it because things are more argentic. It's kinda like exactly how you described it. It's,  
+Me: because we weren't touching like, you make a request. You make  
+Them: you make a request. You parse it. And then whether you do it once or many times, it's  
+Me: parts it. And then whether you it once or many times,  
+Them: a good implementation of caching.  
+Me: be 20 visual cache. Right? I think  
+Them: Right? But I think in the agenda future, I don't know, like, the same pattern of batch  
+Me: know, like same pattern  
+Them: processing will exist.  
+Me: Like, especially  
+Them: Like, especially with these assets.  
+Me: Yep.  
+Them: Yep. Yeah. I know. For sure. Well, it also depends who you're talking to. Right?  
+Me: Yeah.  
+Them: Like, if you're talking to a big company, they might have more better processing to do. So Yeah. I, like and I I don't know if you looked at little bit of our car company history. We've been through a couple of pivots. But our our our we we raised our big round in twenty three. Also, off of a lot of open source adoption, we have, like, this, like, local language model we got running under my GPT for all. We literally got to, like, 100,000, 300,000 monthly active users for, like, a seven month period. And then we were not able to commercialize. So I feel you very open source. I would Of course. Give to everyone now. The month.  
+Me: Do not  
+Them: Yeah. Build an open source. You know? I like, look at TopoPuffer. They need open source. You know? Everyone's kinda doing that. But yeah. Wait. Did they do open source? What the fuck did they open source? Hello.  
+Me: No.  
+Them: No. No. No. It's so funny. Right? Because every  
+Me: Every  
+Them: company was like, open source says, look how easy to start your laptop. And is like, no. That. I'm gonna just make something. I'm gonna make it good. Yeah.  
+Me: yeah.  
+Them: Yeah. Yeah. See, I think we're taking the same approach. Like, he, like, will be opinionated about the hardware, the the back end, and, like, the networking, and that lets us actually build out the system. So  
+Me: Yeah. So  
+Them: And we're gonna give you low latency and a higher liability. Like, you probably don't care beyond that.  
+Me: we gonna all, like like, if I don't Yep.  
+Them: Yep.  
+Me: Yeah.  
+Them: Yep. Yeah. Okay. Frankly, like, we've never done a design partnership with somebody, but, like, you guys are really put together, and I see you guys have thought through this really carefully. And from from my perspective, like, sign off on the 10 k if my team if if my team was onboard just because, like, I know how big of a like, business risk this is gonna be for us, like, maintaining all this shit in six months. And I like you guys. So I'll give Bob a call with you, talk talk with him through it. You can get him on board, and I'll, like, throw in my 2¢ there as well. I can definitely see a path for you do this.  
+Me: Alright. So  
+Them: Alright. Awesome. Thank you. Appreciate it. Yep. Yeah. Looking forward to it.  
+Me: you. Yeah. I look forward to it. Hope you like it.  
+Them: Thanks, guys. One.  
+Me: Bye.  
+Them: Bye bye.  
+Me: Okay. 

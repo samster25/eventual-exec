@@ -1,0 +1,1842 @@
+WEBVTT
+
+1
+00:00:33.380 --> 00:00:35.120
+Technologic: Reporting in progress.
+
+2
+00:00:43.470 --> 00:00:46.630
+Technologic: Looks like the link changed. That's YK.
+
+3
+00:00:47.740 --> 00:00:49.690
+Technologic: Oh. The link?
+
+4
+00:00:52.500 --> 00:00:53.930
+Technologic: Well, they made it.
+
+5
+00:00:57.710 --> 00:01:02.320
+Varun Madan: I'm going to be very emotional in this meeting, not because… And…
+
+6
+00:01:02.490 --> 00:01:08.810
+Varun Madan: emotional about what you guys are talking about, what happens? I'm just gonna be crying. Oh, no.
+
+7
+00:01:10.590 --> 00:01:13.490
+Technologic: We're still waiting on a lot of people,
+
+8
+00:01:13.820 --> 00:01:19.529
+Technologic: Even though I sent… Drops, Chris, you're the only engineer. What?
+
+9
+00:01:19.880 --> 00:01:24.579
+Technologic: I heard it's half. Got one and a half engineers.
+
+10
+00:01:24.710 --> 00:01:32.830
+Technologic: Sure, give people a few minutes. Yeah. Unless we need… we need to. There is one half. Desmond. Talk, everybody.
+
+11
+00:01:33.020 --> 00:01:35.340
+Technologic: Where is everybody? Start adding people.
+
+12
+00:01:35.620 --> 00:01:37.519
+Technologic: Hi, Channel.
+
+13
+00:01:39.290 --> 00:01:40.879
+Technologic: At Channel Angry Face.
+
+14
+00:01:41.210 --> 00:01:52.059
+Technologic: Yep. I was for you riding the other direction. Booking at home? I don't know, they forgot something?
+
+15
+00:01:52.910 --> 00:01:54.470
+Technologic: I'll reserve.
+
+16
+00:02:03.670 --> 00:02:07.010
+Technologic: Mugs left.
+
+17
+00:02:09.180 --> 00:02:09.930
+Technologic: Bruno.
+
+18
+00:02:11.160 --> 00:02:14.169
+Technologic: We found two. I feel like we're missing, like, four.
+
+19
+00:02:14.580 --> 00:02:16.080
+Technologic: souvenirs.
+
+20
+00:02:18.570 --> 00:02:19.620
+Technologic: Thank you.
+
+21
+00:02:20.830 --> 00:02:21.500
+Technologic: Cracked.
+
+22
+00:02:43.070 --> 00:02:47.139
+Technologic: Alright, so Srinu, I'm bidding on Sri New, and…
+
+23
+00:02:47.240 --> 00:02:51.109
+Technologic: It was riding the other way, I think something happened, so I'm not sure.
+
+24
+00:02:55.930 --> 00:02:57.779
+Technologic: I think just for you and Connor, right?
+
+25
+00:02:58.500 --> 00:03:09.300
+Technologic: Actually, for the KPIs, since I was out last week, and then, yeah, go through the updated stuff, so maybe… Yeah, we're just gonna go through all those stuff. Okay, alright, sounds good. Don't worry about it.
+
+26
+00:03:09.560 --> 00:03:12.590
+Technologic: Do I need this page, or… No, that's fine.
+
+27
+00:03:30.640 --> 00:03:32.869
+Technologic: Like, I've already seen Sam on the screen before.
+
+28
+00:03:33.160 --> 00:03:34.670
+Technologic: First time. Yeah.
+
+29
+00:03:34.670 --> 00:03:35.450
+Sam Stokes: Really?
+
+30
+00:03:38.890 --> 00:03:43.829
+Technologic: The angle kind of looks like the chat photo. The chat photo? Oh, it's good.
+
+31
+00:03:43.830 --> 00:03:45.030
+Sam Stokes: Standing up.
+
+32
+00:03:45.030 --> 00:03:51.400
+Technologic: That's what we should do on our Zoom. Yeah.
+
+33
+00:03:52.590 --> 00:03:55.399
+Technologic: I'll have to send that out this week.
+
+34
+00:03:55.930 --> 00:03:58.150
+Technologic: I just go on to the side, but I'm…
+
+35
+00:04:03.900 --> 00:04:06.239
+Technologic: And now we're waiting for Connor?
+
+36
+00:04:18.019 --> 00:04:19.569
+Technologic: Give one more minute.
+
+37
+00:04:28.990 --> 00:04:30.270
+Technologic: Second library.
+
+38
+00:04:30.570 --> 00:04:35.909
+Technologic: Neither, what precise are you guys?
+
+39
+00:04:39.560 --> 00:04:43.719
+Technologic: Windows 26? Oh, that's funny. It's so funny.
+
+40
+00:04:54.740 --> 00:04:56.990
+Technologic: Okay, one more?
+
+41
+00:05:09.450 --> 00:05:12.599
+Technologic: Hey, Corey, hope everything's okay in Minnesota.
+
+42
+00:05:13.960 --> 00:05:18.679
+cory grinstead: Mmm… it's not great here, but… You can do.
+
+43
+00:05:30.430 --> 00:05:35.590
+Technologic: Okay, I think we should get started now? Yeah, let's do it. It's recorded already, right? Yeah, yeah.
+
+44
+00:05:36.300 --> 00:05:38.929
+Technologic: Okay, so we're doing a little bit different of a…
+
+45
+00:05:39.240 --> 00:05:49.569
+Technologic: format this time around, just for kickoff. Just a little bit of background, Jay and I spent some time over the break, just kind of, like.
+
+46
+00:05:50.020 --> 00:05:53.029
+Technologic: Conducting a lot more,
+
+47
+00:05:53.320 --> 00:06:07.349
+Technologic: like, talking to a lot more folks, especially in this space, and so we wanted to consolidate some of the thoughts that we have there, as well as some of our internal thoughts, so we wrote a memo. It'd be useful to kind of go through it, and then we can kind of pause halfway through it and then, kind of talk through it.
+
+48
+00:06:08.030 --> 00:06:09.909
+Technologic: So I'll share that right now.
+
+49
+00:06:25.470 --> 00:06:31.750
+Technologic: So, let's get everyone, like, maybe 34 minutes? Where is it? I just linked it in general.
+
+50
+00:08:06.230 --> 00:08:08.289
+Sam Stokes: We're reading just up to the pause.
+
+51
+00:08:09.000 --> 00:08:10.810
+Technologic: Yeah, I think that'll be good, sure.
+
+52
+00:09:11.350 --> 00:09:27.380
+Technologic: Yeah, before we start, I wanted to, like, talk a little bit about what motivated, you know, us to write this. I was actually listening to some stuff over the weekend, and one story resonated, right? It was about the Falcon War, and what it was like living in Argentina at the time.
+
+53
+00:09:27.380 --> 00:09:43.980
+Technologic: And if you're in Argentina, Argentina was fighting, you know, at the British at the time, and all the news in Argentina were like, oh, we're winning the war, we're winning the war, we're winning the war, right? And then all of a sudden, one morning at 6 AM, it was still like, we're winning the war, and at 6 AM, they were like, we lost the war.
+
+54
+00:09:44.340 --> 00:09:48.679
+Technologic: And I think it's important for us to not live…
+
+55
+00:09:49.110 --> 00:10:04.339
+Technologic: like, not… I think it's important for us to not operate like that, right? Let's be very clear-eyed about what battles are we winning, what are we learning, and then how do we go from here? And I think, I need to do a better job, too, from the GTM perspective, so this is my first stab at it.
+
+56
+00:10:04.780 --> 00:10:18.879
+Technologic: And yeah, I think it's a very good time right now at the start of this year, to take a pause and think about everything that we've done, given that, I would say, this is all almost 4 years of materialization of everything we've been working on, and the world is very different.
+
+57
+00:10:18.880 --> 00:10:28.719
+Technologic: Right, so I think that motivated a lot of, what Sammy and I have been, you know, working very hard on, over the last couple of weeks. Yeah.
+
+58
+00:10:29.190 --> 00:10:34.450
+Technologic: Yeah, no, I think… I think that's right. I think fundamentally, I think…
+
+59
+00:10:36.320 --> 00:10:38.250
+Technologic: The problem that we set off to solve
+
+60
+00:10:38.390 --> 00:10:50.459
+Technologic: is a real problem, but fundamentally, like, the world is very different than 4 years ago, when we started, taking this problem on. The world's very different than 2 years ago, and the world's very different than 6 months ago.
+
+61
+00:10:51.070 --> 00:11:07.569
+Technologic: And, you know, I think Jay and I spent a lot of time, especially in, like, the last quarter, and over the break, it was, like, talking to a lot of people, not necessarily just to, like, sell what we're building, but also just learning about what… learned some of the problems out there today, and what are people,
+
+62
+00:11:07.870 --> 00:11:09.150
+Technologic: Strongly with.
+
+63
+00:11:09.320 --> 00:11:13.670
+Technologic: And… you know, I don't know, I think this is, like.
+
+64
+00:11:14.070 --> 00:11:29.699
+Technologic: something that's, like, actually really exciting, because I do feel like, I think the way that Jay put it is, like, we are kind of at another internet moment, like, the, you know, kind of like the dot-com boom. Maybe not the crash, but… or kind of like, the rise of internet 2.0, and
+
+65
+00:11:29.820 --> 00:11:38.249
+Technologic: I think it's fair to say, I think fundamentally, we're not going to go back to how we used to work, right? I think we all work in a new workflow, we're using tools in a different way.
+
+66
+00:11:38.650 --> 00:11:41.220
+Technologic: And… I think…
+
+67
+00:11:41.320 --> 00:11:49.519
+Technologic: The biggest mistake we can make right now is not actually taking a second and actually exploring and learning more about what's going on out there.
+
+68
+00:11:49.750 --> 00:11:52.649
+Technologic: And just seeing, like.
+
+69
+00:11:52.960 --> 00:11:58.050
+Technologic: are there these opportunities that we can take that didn't exist a few months ago?
+
+70
+00:11:58.550 --> 00:11:59.410
+Technologic: Right.
+
+71
+00:11:59.550 --> 00:12:05.109
+Technologic: And so I think that's kind of, like, the big theme that we have here, which is we have a lot of expertise that we've developed.
+
+72
+00:12:05.200 --> 00:12:24.169
+Technologic: But, you know, are we doing the correct form factor? Are we solving the right pain points? So, we kind of want to just take a pause, not just here, but just take a pause and actually kind of evaluate that. So, I think one thing that would be good for us to do before we continue on is just, like, kind of talking about, you know, maybe the last
+
+73
+00:12:24.300 --> 00:12:33.809
+Technologic: I don't know, half a year, and summarizing that, and then also just having a conversation there, and then kind of going on to, like, you know, what we plan to do next. Yeah.
+
+74
+00:12:35.360 --> 00:12:44.709
+Technologic: Yeah, so I guess first questions? Yeah. Might be a good time to, place to start. Anyone have any kind of questions or comments, that we can talk about?
+
+75
+00:12:48.830 --> 00:12:56.110
+YK Sugi: No question per se, but quick comment. I definitely resonate with what's written there, you know.
+
+76
+00:12:56.240 --> 00:13:05.539
+YK Sugi: So, like, I guess they were saying, you know, the fact that DAFT did resonate, but also the fact that it's much harder to build a vector database than
+
+77
+00:13:05.640 --> 00:13:14.759
+YK Sugi: the data pipeline, and people are okay with good enough solutions sometimes. Embedding point 2, I totally get that. I'm… I'm curious about, like, embedding…
+
+78
+00:13:14.930 --> 00:13:26.780
+YK Sugi: I think embedding started with text in most of the time, but it seems like there's still value for, you know, embeddings for, like, images, videos, audio, so I'm curious about that, too.
+
+79
+00:13:27.300 --> 00:13:27.980
+Technologic: Yeah.
+
+80
+00:13:28.340 --> 00:13:33.189
+Technologic: I, I… No, what's going on? Is it on our lives? Yeah, go ahead.
+
+81
+00:13:33.920 --> 00:13:46.400
+Technologic: I think the fundamental thing is, like, I think it is a problem, right? Like, it is a problem. It is not working great in some organizations, but the fundamental thing that we've kind of picked up is that
+
+82
+00:13:47.290 --> 00:14:03.799
+Technologic: talking to these companies, and we did a lot of exploration over, over the break, and just talking about, like, hey, what are your problems, and where is your compute spending even going? It seemed like it is, on an absolute scale, it is a big problem, but as a relative problem, it is small for them.
+
+83
+00:14:05.220 --> 00:14:06.899
+Technologic: Right? Because they're like, hey, like.
+
+84
+00:14:07.040 --> 00:14:14.250
+Technologic: even if I spend 5 times more on embeddings, it still is dwarf for the cost that they're using for generative workloads.
+
+85
+00:14:14.620 --> 00:14:20.950
+Technologic: Like, I think we talked to Harvey, and they were saying, like, hey, like, this one, like, they essentially run, like, a deep research on all these, like, legal contracts.
+
+86
+00:14:21.030 --> 00:14:39.030
+Technologic: And the amount of money they spend on that in terms of tokens and compute is just, like, astronomical compared to, like, the embeddings that they have, and that workflow. And so I think that's kind of one of the things we learned, which was, like, we looked at it as an absolute problem rather than, like, a relative problem for these folks.
+
+87
+00:14:39.220 --> 00:14:44.069
+Technologic: What we kind of picked up, too, is that folks kind of just saw whatever the relatively
+
+88
+00:14:44.360 --> 00:14:49.099
+Technologic: most painful thing is in their organization, rather than, like, on an absolute level, drinking across.
+
+89
+00:14:50.340 --> 00:14:52.539
+Technologic: Does that kind of answer your question, YK?
+
+90
+00:14:53.790 --> 00:14:57.029
+YK Sugi: Yeah, I think so, I guess that's true for, like.
+
+91
+00:14:57.130 --> 00:15:00.649
+YK Sugi: Either it's text embeddings or multimodal embeddings.
+
+92
+00:15:01.060 --> 00:15:17.879
+Technologic: Yeah, yeah, like, an exact quote we had from, Harvey was that they said, yeah, we evaluated Voyage, and the performance was much better, but we just don't have time for that right now. Like, it's just not a priority. Like, what they… what they fundamentally care about is, like, actually
+
+93
+00:15:18.610 --> 00:15:28.730
+Technologic: Scaling to many more lawyers, and actually becoming ubiquitous as a tool, rather than chasing performance of their embeddings or making that a little bit more performant.
+
+94
+00:15:34.010 --> 00:15:36.450
+Technologic: I feel like…
+
+95
+00:15:38.230 --> 00:15:43.259
+Technologic: when I try to take a step back and I think about the larger AI race and what's at stake.
+
+96
+00:15:43.530 --> 00:15:45.870
+Technologic: I feel like…
+
+97
+00:15:47.220 --> 00:16:02.909
+Technologic: I feel like this conversation gives us a chance to, like, try to take a look at what piece of that pie we could participate in. Yeah. And when I think about the companies that are still going to be around in 10 years.
+
+98
+00:16:03.150 --> 00:16:09.929
+Technologic: Which is a crazy amount of time to even try to prospect or think about. I think it's…
+
+99
+00:16:10.150 --> 00:16:11.669
+Technologic: Pretty clear that there are…
+
+100
+00:16:11.940 --> 00:16:28.569
+Technologic: Massive companies, raising a lot of funds and building frontier models that will continue to succeed, but just a tremendous number of companies that'll be upset by newer business models, newer technology that aren't going to be able to adapt.
+
+101
+00:16:28.800 --> 00:16:31.939
+Technologic: And I think, I mean.
+
+102
+00:16:32.050 --> 00:16:48.280
+Technologic: you know, our roots are, you know, pretty firmly in, like, data engineering, and that's going to get upset, too. So I'm very excited to, you know, think about, like, what this really means, whether we can genuinely think about
+
+103
+00:16:48.670 --> 00:16:55.770
+Technologic: How agents play in the role of data engineering and what that really means.
+
+104
+00:16:56.020 --> 00:17:09.720
+Technologic: Yeah, yeah, to that point, and also, I guess, to the embeddings point, right? Like, when we went out and said, hey, we're doing embeddings and indexing pipelines, that's actually just one way to solve the problem, right? What is the overall problem that they want to solve?
+
+105
+00:17:09.720 --> 00:17:28.439
+Technologic: I think, Desmond said this thing that resonated with me, right? We are long information retrieval. What does that mean? Like, it doesn't… the word embedding doesn't exist in that statement, right? But we know for a fact that information retrieval and, like, having agents retrieve the right data at the right time, and with the right amount of granularity is going to be really, really important.
+
+106
+00:17:28.630 --> 00:17:41.330
+Technologic: the implementation detail today, people are struggling with, like, figuring out what that means. Is it embeddings? Is it agentic search, whatever, doesn't matter, right? But it is our job to make that reality better for people.
+
+107
+00:17:41.630 --> 00:17:53.629
+Technologic: And it does seem like people are going to move off embeddings and explore other things, and so it is also our job to understand, what is the best way to do this, and kind of pave that future for folks, right?
+
+108
+00:17:53.630 --> 00:18:04.920
+Technologic: Yeah, I mean, I would even… I would add a little bit there, which is, like, I don't… you know, like, I guess, like, embeddings may stay, or they may not stay, right? We don't… we don't necessarily know that yet, but…
+
+109
+00:18:05.130 --> 00:18:08.349
+Technologic: one thing I know for sure, like, I… I, like…
+
+110
+00:18:08.780 --> 00:18:14.149
+Technologic: what we're very confident on is that I think embeddings as an abstraction will likely go away.
+
+111
+00:18:14.650 --> 00:18:28.220
+Technologic: Right? Because, like, I think as tools get better, you can even imagine, as Turpofer gets better, they might just connect directly to your data source, right? We might connect directly to your data source, and the information's been there, maybe through a search API, maybe it's through, like,
+
+112
+00:18:28.460 --> 00:18:39.039
+Technologic: something where you can, like, give it, like, a similar document and just find it. But I think as time goes on, and we learn more about what the form factor of these agents are, I think a lot of the intermitters will disappear.
+
+113
+00:18:39.100 --> 00:18:53.659
+Technologic: It's an implementation detail, and you just want, like, semantics. Exactly. Like, you don't, like, tell Google to search by DM25 or Coastal, right? You just type in your butt. I think she… that is a Google power user tool. Right.
+
+114
+00:18:53.810 --> 00:18:59.910
+Technologic: And so, I think a big question of this is, like, yeah, I think we're sol… we're in the right vein of a problem we're solving, but, like.
+
+115
+00:19:00.790 --> 00:19:08.039
+Technologic: what is the correct form factor here? Because the new consumers are not just… like, we kind of built our systems for data engineers.
+
+116
+00:19:08.440 --> 00:19:25.770
+Technologic: But they don't even know how to use it now. They don't even know what's ahead. And so the question that I have is, like, okay, what is the correct form factor? What is the correct abstraction? And how do we hide away the implementation detail just to give people the best product, right? That's kind of, like, how I'm thinking about it.
+
+117
+00:19:25.940 --> 00:19:40.569
+Technologic: Combo actually has a similar problem in that, well, they're really successful, but they also… Roko also mentioned once that they struggle to, like, teach customers, their customers, how to, like, generate the right embeddings and everything, right? Like.
+
+118
+00:19:40.780 --> 00:19:50.619
+Technologic: you know, dimensions and, like, what model to use, whereas I think if they could just, like, build one layer on top as well, the results would be much better, right? Yeah. Yeah.
+
+119
+00:19:50.930 --> 00:20:02.459
+Technologic: No, it's true. And I think the reason that Turpopper is, you know, doing well in that vein is because they're kind of just better than the vector DB companies, but…
+
+120
+00:20:02.570 --> 00:20:14.480
+Technologic: you know, after they kind of saturate that, then what… then what's happening? They're gonna compete against Glean, they're gonna compete against, like, everyone else who's got essentially the information and knowledge layer. Yeah. Right? And I think that is going to be, like, an interesting challenge, right?
+
+121
+00:20:14.610 --> 00:20:25.150
+Technologic: because technically, I don't know, if you had something on top of VectorDB, and you had all the embedding, you picked the right one, then you picked the right indexing, like, it should be a better product, right? Yeah.
+
+122
+00:20:27.970 --> 00:20:34.390
+Technologic: Yeah, that's kind of how we're thinking about it. And so the question, I think, you know, that Jay and I have is that, like.
+
+123
+00:20:34.510 --> 00:20:46.580
+Technologic: I don't know, if we kind of look at who we're targeting today, right? Like, let's say these data teams, these teams that are running these intermediates, are they going to exist in, like, 2 years from now? 18 months from now?
+
+124
+00:20:47.610 --> 00:20:50.179
+Technologic: Right? As there's better products, products that are…
+
+125
+00:20:50.180 --> 00:20:51.490
+Audio shared by Sammy Sidhu: Lord.
+
+126
+00:20:51.490 --> 00:20:59.149
+Technologic: Oh, shit, sorry. Products that have more of, like, a more ergonomic form factor for these downstream systems.
+
+127
+00:20:59.600 --> 00:21:04.460
+Technologic: he seems really gonna have to, like, do the same things they're doing today. And I think the answer's kind of no.
+
+128
+00:21:04.700 --> 00:21:18.790
+Technologic: Like, we're already kind of seeing that, like, the amount of, like, teams managing Spark and managing all this stuff is going down over time. I think the teams that are managing, like, manual ingest, and the amount of teams that are managing, like, I don't know, ray clusters and stuff, will also go down over time.
+
+129
+00:21:20.370 --> 00:21:23.090
+Technologic: Yeah, and also, like, if you talk to the AI teams.
+
+130
+00:21:23.200 --> 00:21:32.289
+Technologic: they get there eventually after many, many years, but the thing they start with and, you know, the products that they use today are not Ray and Spark and all that, right?
+
+131
+00:21:32.550 --> 00:21:35.629
+Technologic: They need to move fast, and these platforms kind of, like.
+
+132
+00:21:36.010 --> 00:21:46.529
+Technologic: are sold to platform teams internally. And when you're an AI engineer, and you're kind of building an AI product, you don't have a platform team. You just kind of build with TurboCuffer, build with whatever you got, and…
+
+133
+00:21:46.680 --> 00:21:54.079
+Technologic: make sure that it works really well. And that's, I think, an opportunity for us to actually be able to, like, almost,
+
+134
+00:21:54.360 --> 00:21:58.970
+Technologic: Fast forward past that point of needing to sell to an intermediate team. Yeah. Yeah.
+
+135
+00:21:59.250 --> 00:22:03.360
+Technologic: Okay, Jay, do you want to walk us through the rest of this? Sure, yeah.
+
+136
+00:22:03.540 --> 00:22:21.969
+Technologic: So, where does that leave us? I think, like, one of the things that… I think Lesson 3 is more of a hypothesis, rather than a hard statement. I think that, like, for these embedding workloads, yes, it was very… a very hot topic in 2023, right, when RAG was a hot topic. In 2025,
+
+137
+00:22:21.980 --> 00:22:37.950
+Technologic: I think some of the biggest things that we saw that really moved the needle for AI systems and agents were… was this whole narrative around, okay, for a coding agent, a file system is all you need, there's this agentic search thing, and it almost felt as if every team was looking for the next, like, powerful, right? All these…
+
+138
+00:22:37.950 --> 00:22:51.869
+Technologic: companies are putting out blog posts on Twitter, not even, like, on the company blogs, and they're, you know, talking about how, like, oh, like, here's what we tried, and, you know, here's the secret sauce behind cursor, here's the secret sauce behind clock code. And when teams talked to us.
+
+139
+00:22:51.870 --> 00:23:05.070
+Technologic: they weren't necessarily interested in the embeddings pipeline, but they were interested in what we had to say about what we could bring to the table, right? What additional alpha could we bring? So some of the conversations there that we had with, like, Cursor, for example, they told us, hey, we're struggling.
+
+140
+00:23:05.070 --> 00:23:22.119
+Technologic: we were really, really good at codebases, but we were really struggling with, like, agent conversations, right, and being able to use that, again, for the subsequent agent conversation. And these are all almost the second-order problems that these teams are now facing, and I actually have no idea what to do. It's a kind of a green field for them.
+
+141
+00:23:22.240 --> 00:23:23.260
+Technologic: And so…
+
+142
+00:23:23.410 --> 00:23:33.849
+Technologic: I think the opportunity here for us is quite clear. If you think of, you know, what we've built as kind of being on the infrastructure layer, kind of the pipes in the middle, there are two directions for us to go, right?
+
+143
+00:23:33.850 --> 00:23:56.290
+Technologic: We can go upstream, which is help teams not just access data in S3, like, cleaned data that they have in S3, but actually go all the way upstream and help them connect to the data sources that they might care about on their customers' accounts, right? Things like Notion, SharePoint, OneDrive. I learned about this new one called Ignite with an E, my gosh. But yeah, but it's actually really high value, because
+
+144
+00:23:56.290 --> 00:24:00.659
+Technologic: You know, these companies don't want to maintain these connectors themselves, and they have to build them again and again.
+
+145
+00:24:00.660 --> 00:24:08.739
+Technologic: and actually do the ingestion in a repeatable and kind of, like, production-ready manner, and in a privacy-preserving manner. So that's a hard problem.
+
+146
+00:24:09.120 --> 00:24:13.169
+Technologic: The one that I think we're really excited about is how can we go downstream?
+
+147
+00:24:13.300 --> 00:24:21.060
+Technologic: Right, and what does that even look like today? I think if you were to ask me about this maybe a year ago, I would go like, yeah, like, VirtuDB, right, something.
+
+148
+00:24:21.100 --> 00:24:37.079
+Technologic: If you have to ask me now, I actually don't know anymore. Because, you know, we've seen these agents come online, and they don't really use VectorDBs anymore for codebases. They actually just do grep and… grep and, you know, head, and kind of use Bash to navigate the codebase.
+
+149
+00:24:37.120 --> 00:24:46.300
+Technologic: And maybe that looks very different, right, for navigating conversation, like on Slack. Maybe that looks very different from navigating Notion. I don't know.
+
+150
+00:24:46.370 --> 00:24:59.540
+Technologic: At the end of the day, I think, how do we move downstream and own that end upcome, which is like, hey, I want my agent to operate with more knowledge and context, and what does that look like? I think that's something that we have a chance here to actually go discover
+
+151
+00:24:59.540 --> 00:25:09.090
+Technologic: And figure out what's… first of all, what's wrong with the agents today, right? What's wrong with you? And then second of all, how do we build something that, you know, can actually help these agents navigate this stuff?
+
+152
+00:25:09.210 --> 00:25:09.900
+Technologic: Yeah.
+
+153
+00:25:10.340 --> 00:25:15.560
+Technologic: And we'll go a little bit more about, like, some of the lessons that we learned along the way. For context.
+
+154
+00:25:15.680 --> 00:25:21.170
+Technologic: when… after we came back from, you know, the break last week, Jay and I kind of just ran, like, a…
+
+155
+00:25:21.500 --> 00:25:37.069
+Technologic: I guess a semi-secret hackathon? Is it capable? Yeah, the secret is out on the bag. But me and Jay were just like, okay, can we learn a little bit, and, like, kind of just get more informed about what's working, what doesn't work? And that just involved a lot of just, like, using these agents, and actually…
+
+156
+00:25:37.360 --> 00:25:55.269
+Technologic: trying to see where we can actually improve them, and I'm excited to kind of show, like, some of the stuff that we do, and kind of, like, how that seeds into some of the other ideas that we have. Yeah, I think Connor sent Sammy a message of, like, the clod usage, and he was like, the boss is cooking. Restore this, restore this!
+
+157
+00:25:55.680 --> 00:26:09.779
+Technologic: So, like, this is my Cloud usage in the day. And then, yeah, Connor was like, yeah. That's why my, BRICS emails were blowing up. Yeah, but even with that, right, think of it, we just did, like, a one-week
+
+158
+00:26:09.860 --> 00:26:28.960
+Technologic: experimentation thing, and we spent, I think, total, maybe $200? Yeah. And I just, like, connected that to embeddings. I'm like, yeah, how many embeddings is that? That's actually a crazy amount of embeddings, right? Yeah, no, it's like running these coding agents, crazy. So… And the thing is, it was incredibly high value. That was the other part, too, right? Whereas, like.
+
+159
+00:26:29.180 --> 00:26:31.580
+Technologic: When you compute embedding, you don't actually know if you're gonna use it yet.
+
+160
+00:26:31.680 --> 00:26:36.719
+Technologic: But when you actually, like, generate tokens, you're compiling that, you're using that, you're actually testing that out.
+
+161
+00:26:36.860 --> 00:26:40.549
+Technologic: But yeah, I think overall, like, let's see. So…
+
+162
+00:26:40.640 --> 00:26:57.190
+Technologic: given that, what we wanted to do is say, okay, you know, Jay and I are still having a lot of conversations with folks like Cursor, Notion, externally, kind of, like, learning what their problems are. They actually have given us, like… I think some people have sent us, like, literal specs of what product they want in this space, which is kind of crazy.
+
+163
+00:26:58.150 --> 00:27:14.220
+Technologic: I think the… in parallel, I think we kind of need to learn a lot more about how these systems work, where they fail, kind of become the experts in, like, how do we actually integrate in these agents? What kind of knowledge do we want to feed them? How do we get them away from, like, using just things like graph? How do we actually make them smarter, more knowledgeable?
+
+164
+00:27:14.220 --> 00:27:23.610
+Technologic: And just faster overall. Because in the end of the day, if you do, like, these simple problems in cloud code, you wait there for, like, 10 minutes, and then you have to then intervene, stare at the right direction.
+
+165
+00:27:23.610 --> 00:27:27.099
+Technologic: Is there a way that we can just make this whole process quicker?
+
+166
+00:27:27.260 --> 00:27:37.459
+Technologic: It's kind of the theme we want to do. So, what we want to do starting today is actually put pause on everything we're doing right now in the company, and spend two weeks just exploring.
+
+167
+00:27:37.580 --> 00:27:50.650
+Technologic: on different ways to make agents better. Yeah. And there's a cost engineering, and also I want, like, Steven, the super agent, to help out. Sometimes with engineering, it's the whole company. So, include OSS… Everything, yeah.
+
+168
+00:27:50.770 --> 00:27:56.409
+Technologic: So we're just pausing everything, and we're gonna just go keep on this, and I'm someone who's a big believer of, like.
+
+169
+00:27:56.900 --> 00:28:10.859
+Technologic: I think knowledge really compounds the longer you get to simmer in it, right? And so I think two weeks is a good time for us to actually, like, you know, we're using… we're practitioners of these tools, but then how do we actually learn how to make these tools better? Yeah. Right? Yeah. So,
+
+170
+00:28:10.920 --> 00:28:28.699
+Technologic: who was the guy that's supposed to say it? It's also a difference between, like, spending time on it and it being, like, the top thing on your mind. Wow, yeah. Yeah, and so that's kind of, like, the role. Like, me and Jay are going to continue having these external conversations, where we might even just grab what you have right now and show it out, and even get external feedback.
+
+171
+00:28:28.700 --> 00:28:34.600
+Technologic: Right? We'll also be your guinea pigs. I'll be jump… we will both be jumping in and helping out on projects where we can.
+
+172
+00:28:34.740 --> 00:28:36.879
+Technologic: And the role of everyone else is just…
+
+173
+00:28:37.020 --> 00:28:49.899
+Technologic: be involved in your loop, and also unblock things. If you need a new vendor, you want to, like, bring up some new agent tool and some new AI tool, like, we'll unblock you as fast as we can. That's kind of what we're doing. So, that's kind of, if you go into the next page…
+
+174
+00:28:50.060 --> 00:28:52.329
+Technologic: That's kind of what we're doing here.
+
+175
+00:28:53.730 --> 00:28:55.130
+Technologic: So,
+
+176
+00:28:55.610 --> 00:29:05.940
+Technologic: the idea that, like, we kind of talked about, like, how just better infrastructure isn't enough. Users want N outcomes, they want it directly from where their data is to whatever is the end system. In this case, it's
+
+177
+00:29:06.090 --> 00:29:13.130
+Technologic: essentially coding agents is one that we see a lot. The thing that was really interesting here, that was an observation that Jane had, is
+
+178
+00:29:13.870 --> 00:29:19.839
+Technologic: Even companies that are building, let's say, financial agents, companies that are building healthcare agents.
+
+179
+00:29:20.230 --> 00:29:24.569
+Technologic: the… the orchestrator of it is still a coding agent.
+
+180
+00:29:24.950 --> 00:29:30.059
+Technologic: Which is kind of crazy, like, if you're having something that's parsing over PDFs, and like, you know, or navigating over PDFs.
+
+181
+00:29:30.190 --> 00:29:43.469
+Technologic: That agent is actually just, like, writing code or, like, running commands to actually figure out how to navigate this. You can do, like, a file system or something. It turns out, in order to do a good job, you need to use a computer. Yeah. And coding agents are really good at using computers. Yeah.
+
+182
+00:29:44.590 --> 00:29:45.710
+Technologic: And so…
+
+183
+00:29:45.720 --> 00:29:58.459
+Technologic: I think you already know that me and Jay are agent-pilled now, like, they're here to stay. I don't think we're gonna go back to the world without them. We're seeing that coding agents are kind of like the, like, pillar of all workflows, like, I continue seeing that.
+
+184
+00:29:58.460 --> 00:30:06.329
+Technologic: If you actually look at, like, plot co-work and what's gonna happen with, like, all of these other workloads, I do think, like, a computer use agent will be in the middle of that.
+
+185
+00:30:06.510 --> 00:30:12.190
+Technologic: And the biggest bottlenecks for this performance is essentially how big the model is.
+
+186
+00:30:12.190 --> 00:30:26.719
+Technologic: is that do they have the right context? Are they able to remember things where they tripped up on? And how do you actually coordinate across multiple different agents? Yeah, so just to take a pause there, I think that's really interesting, because as a conversation, the entire industry has been centered around, like.
+
+187
+00:30:26.720 --> 00:30:31.280
+Technologic: Building more intelligent models, which is the domain of the AI lab, right, and topic OpenAI.
+
+188
+00:30:31.280 --> 00:30:48.629
+Technologic: I think this is a very interesting moment where startups can actually come in with external products and, you know, form factors of things outside of just the model itself to provide these things, right? Context, memory, coordination, to actually make the overall product experience better. Yeah, yeah. It's a very viable kind of wedge.
+
+189
+00:30:48.960 --> 00:31:06.619
+Technologic: I think so, and if you think about today, we're kind of, like, in a very manual era, where, like, we rely on the user to, like, get the correct design docs in your org, and cut out the correct things, and write, like, this beautiful initial prompt, and then also just steer the model as it makes, like, these wrong assumptions.
+
+190
+00:31:06.840 --> 00:31:11.149
+Technologic: And I think that's still very much, like, in the Stone Age of what it could be.
+
+191
+00:31:12.200 --> 00:31:14.390
+Technologic: Great candidate. Oh, okay.
+
+192
+00:31:16.030 --> 00:31:24.720
+Technologic: Okay, cool. So, what are some things that we observed? This is both from folks we've talked to externally and things that, you know, we've learned in our hackathon.
+
+193
+00:31:25.300 --> 00:31:42.000
+Technologic: One is, like, conduct starvation. Currently, agents rely on skilled drivers, which, in this case, it's kind of correlated with how, you know, if you're, like, a… if you're, like, a talented and senior engineer. Like, if you have… if you're generally good at defining the problem and getting the right contacts.
+
+194
+00:31:42.290 --> 00:31:49.380
+Technologic: the agent as well. But when you don't, or you miss something, or something changes, these agents derail, and that's kind of when you have to intervene.
+
+195
+00:31:50.060 --> 00:32:02.359
+Technologic: The next thing is… I don't know, I'm not sure if you guys have seen this, but something I've seen a lot is, like, the agents make the same mistake again and again. Like, if the agent gets stuck in the borrow checker one time, it will get stuck in the borrow checker the next time.
+
+196
+00:32:03.220 --> 00:32:19.570
+Technologic: And so there's not really a way to have an agent learn from its previous mistakes, and also have multiple agents, like, learn from each other. Every session essentially starts cold based off context, maybe you have to update a ClaudeMD, but this is still very much, manual.
+
+197
+00:32:20.700 --> 00:32:23.469
+Technologic: The next one is dumb retrieval.
+
+198
+00:32:23.610 --> 00:32:31.839
+Technologic: In our hackathon project, one of the things we did is we actually curated a massive library of knowledge from our company, so we actually…
+
+199
+00:32:32.400 --> 00:32:37.419
+Technologic: actually scraped all of our company knowledge from, like, Notion, Slack, everything.
+
+200
+00:32:37.440 --> 00:32:52.030
+Technologic: But, you know, we curated it in a way that was, like, a really nice knowledge graph, where you can actually, like, understand how the different concepts in the company map to each other. So that's kind of one of the things that Jay, me, and Colin built over last week, but…
+
+201
+00:32:52.030 --> 00:33:03.039
+Technologic: No matter… but in the end of the day, the agent still just grepped for random keywords and took the top 50 lines, which meant it missed a lot of context. This is hyper-optimized for, like, things like code search.
+
+202
+00:33:03.040 --> 00:33:13.739
+Technologic: Where you can kind of, like, follow the trail based off… based off, like, a function name or, like, a class name. But for all other types of knowledge that are really relevant to these workflows, like, this is actually pretty terrible.
+
+203
+00:33:13.870 --> 00:33:16.000
+Technologic: So, we're still seeing DOM retrieval.
+
+204
+00:33:16.810 --> 00:33:21.829
+Technologic: And yeah, like, just going off of that, these agents, even though…
+
+205
+00:33:21.990 --> 00:33:39.089
+Technologic: they're now being used for everything else, are still just hyper-optimized for both doing, like, let's say web search for your docs, and code search. Everything else, like, things like, you know, your internal documents, your internal company data, historical conversations, conversations from other folks having with agents.
+
+206
+00:33:39.210 --> 00:33:43.749
+Technologic: It's not really able to leverage that at all, and if it does, it's usually very poor.
+
+207
+00:33:44.270 --> 00:33:56.169
+Technologic: And so, some of the themes that we had, for the Sakathon, like, you don't have to go at any of these angles, but some of the ones that we had and we're really excited about are, the following.
+
+208
+00:33:56.660 --> 00:34:01.549
+Technologic: One was librarian, which is kind of the project that I can also share with everyone else.
+
+209
+00:34:01.550 --> 00:34:04.769
+Technologic: But the idea here is, like, can we actually build a…
+
+210
+00:34:04.770 --> 00:34:23.300
+Technologic: knowledge curation agent, right? So think of it as, like, you have your end agent, or it's actually doing, like, the coding, and you're steering that, or you're working with that, but, like, can we actually have something that runs asynchronously, that's constantly pulling knowledge across the company? Let's say it's monitor your Slack, email, Notion, Google Docs, GitHub, and it's…
+
+211
+00:34:23.510 --> 00:34:30.139
+Technologic: constantly curing that knowledge so that these downstream agents can actually navigate it better. And that was kind of the project that we built.
+
+212
+00:34:30.570 --> 00:34:33.020
+Technologic: And I actually think that, like, this automatic
+
+213
+00:34:33.510 --> 00:34:47.959
+Technologic: context layer is really powerful, and I think there's a lot of ways to take it from where we took it. And the end outcome you should see here is, like, the example problem we use is, like, hey, can you make an arrow 2PR? Right? And…
+
+214
+00:34:47.960 --> 00:35:02.469
+Technologic: If you think about it, what it should do is actually be like, okay, let me navigate, you know, the dots, let me find related PRs, actually learn from, like, okay, what things worked for people, what things didn't work for people, and then actually know the next step of what to do.
+
+215
+00:35:02.470 --> 00:35:10.879
+Technologic: Right? This should be almost like an automatic thing. Today, what you have to do is, like, reference… almost create, like, a perfect prompt of it first.
+
+216
+00:35:11.270 --> 00:35:19.700
+Technologic: reference the exact thing, link all the examples manually, and then maybe we'll go. So this idea was, like, can we actually automate this curational error?
+
+217
+00:35:20.680 --> 00:35:29.239
+Technologic: I guess, Colin, do you want to put any thoughts there about what we worked on here? If you saw the Arrow 2PR I made last week, that was actually made with Librarian.
+
+218
+00:35:29.530 --> 00:35:33.960
+Technologic: I think the prompt I used was, make an arrow to appear.
+
+219
+00:35:34.230 --> 00:35:38.929
+Technologic: That was it. It didn't even clone the DAF repo, it was… it didn't have anything.
+
+220
+00:35:39.300 --> 00:35:44.189
+Technologic: it looked through our Notion, it looked through our Slack, it looked through our GitHub, it looked through our…
+
+221
+00:35:44.410 --> 00:35:49.670
+Technologic: Looked through everything, and it basically found everything we talked about here, too, or a design doc.
+
+222
+00:35:49.850 --> 00:35:53.829
+Technologic: our code, and it actually just made the PR. That's all I said, make an arrow to PR.
+
+223
+00:35:54.060 --> 00:35:56.709
+Technologic: It worked. It worked, not bad, the PR got merged.
+
+224
+00:35:57.230 --> 00:36:10.160
+Technologic: It was pretty cool. Yeah, we ran it without any context, and with some context, and yeah, all the context that went into that library was automatically curated by agents.
+
+225
+00:36:11.480 --> 00:36:20.190
+Technologic: The next one is agent steering, and I think the one that we see this is, like, or the one that we, the way I think about this one is, like, oftentimes.
+
+226
+00:36:20.350 --> 00:36:35.019
+Technologic: we don't know where agents, like, go off the rails until it's too late. Oftentimes, you have to just see, oh man, this guy is, like, spiraling, or this guy is, like, not doing great, and then you control-C it, and you kind of have to, like, go backward manually, and maybe it happens again.
+
+227
+00:36:35.360 --> 00:36:45.519
+Technologic: And so I think our angle here is, how do we actually just collect all these traces from these agents, the tests that they're running, the outputs of, let's say, the file system commands that they run?
+
+228
+00:36:45.540 --> 00:37:01.869
+Technologic: Whatever skills they end up using, and collect all this information, and start understanding where these agents get stuck. Like, yeah, are they constantly getting, you know, stuck on the Russ Borrow checker on a specific trait pattern, or are they getting stuck with, like, I don't know, using the wrong syntax for grep on a MacBook, which was the case for me.
+
+229
+00:37:02.170 --> 00:37:19.989
+Technologic: And how do we actually then get that information from a lot of different users and different agents, and then aggregate learnings to then curate guardrails, or hints for these agents to make them better over time? Like, how can we make more, like, collective intelligence? And so, for this angle, what we could potentially do as well
+
+230
+00:37:20.170 --> 00:37:24.830
+Technologic: As whoever works on this, is that the first thing we can do, the first thing we do is
+
+231
+00:37:25.010 --> 00:37:31.749
+Technologic: build this instrumentation layer, and it's all in everyone's cloud code. And so you can start collecting the information from everyone.
+
+232
+00:37:31.970 --> 00:37:51.939
+Technologic: From the very beginning, and start creating that data set to work on and actually try to improve. And so, the way I see a lot of these projects is, like, how do we actually not just, like, go, you know, put our head down for two weeks and produce an output, but it's actually how do we actually make them fold in with each other? How do we actually improve our productivity in the loop as we're working on these different things?
+
+233
+00:37:53.260 --> 00:37:56.230
+Technologic: Okay. Before we go to the next two, I guess…
+
+234
+00:37:56.420 --> 00:38:03.090
+Technologic: I kind of just went straight into it. Any questions, or thoughts, or concerns, or anything like that, before I continue?
+
+235
+00:38:03.520 --> 00:38:15.680
+Technologic: I mean, I think there's an even more fundamental problem here, where you're, like, saying, collect traces and everything so we can, like, understand what's going on with the agents and, like, make them, you know, steer them better.
+
+236
+00:38:15.680 --> 00:38:26.879
+Technologic: But, like, I think we could do a… you know, you did mention this at the start, where, like, agents don't share knowledge, or, like, our agent use is all, siloed. Like, I think simply just, like.
+
+237
+00:38:26.950 --> 00:38:44.089
+Technologic: keeping a log of, like, what each cloud code session was, like, including the output and, like, what we said, and then summarizing that, and then put it… dump it all in some central location, whether that's Notion or something, and then that's accessible to everyone, that could already, like, do much better, right? So…
+
+238
+00:38:44.090 --> 00:38:57.799
+Technologic: doing the internals, we can just, like, do this very low-hanging fruit, you know? Yeah, yeah. I mean, the first step is logging through our database, right? Yes. Well, one comment that I would have here is, if you look at, like, all the examples that we had, right.
+
+239
+00:38:57.830 --> 00:39:11.400
+Technologic: It's a lot of data processing, a lot of unstructured data processing. And that's kind of, like, what tickled my brain a lot. I was like, hey, like, you know, where is unstructured data processing happening? And I think there will be a lot of it happening in these, like, agent, flight.
+
+240
+00:39:11.500 --> 00:39:24.569
+Technologic: So, like, what is the new clickstream data, right? The agent traces? We get really good at it, I guess, yeah. I have one thought, just from my own use. I feel like when you tell the agent to, like, write tests and
+
+241
+00:39:24.820 --> 00:39:31.270
+Technologic: keep working on something until the test pass. If it's something that is, like, testable, it does pretty well, but…
+
+242
+00:39:31.780 --> 00:39:44.979
+Technologic: for things that especially involve front-end or, like, user behavior, it's not great, because I think the best solution, at least in cloud code right now, is it uses Playwright, which is, like, an old open-source thing that was made for humans.
+
+243
+00:39:45.170 --> 00:39:49.040
+Technologic: And so, like… I feel like the AI's struggling to, like.
+
+244
+00:39:49.150 --> 00:39:58.519
+Technologic: take a screenshot of, like, different moments in time as it's testing the tool. It's, like, clicking really slow, there's probably a ton of context bloat and stuff in there.
+
+245
+00:39:58.630 --> 00:40:03.700
+Technologic: And I think if it… Had a better ability to…
+
+246
+00:40:03.800 --> 00:40:07.069
+Technologic: visually see what it was doing, it could probably…
+
+247
+00:40:07.340 --> 00:40:19.869
+Technologic: do more without needing a human to, like, constantly tell it, like, hey, you've, like, misplaced the button, you've misplaced the button, like, it's overlapping, it's messed up. I mean, that's really interesting, right? You're kind of pointing out this idea of, like, agents do well when they can close the loop themselves.
+
+248
+00:40:19.870 --> 00:40:31.040
+Technologic: But what happens if closing that loop involves still a human needing to, like, look at a website? Tell them what happened. Yeah, right. It's Playwright, and it's, like, Microsoft runs it, so it's open source. I don't know if they're gonna really, like.
+
+249
+00:40:31.040 --> 00:40:43.400
+Technologic: make it way better. Yeah. Maybe that's an area of opportunity? No, that is. I think that is pretty promising. I do view it in the same vein, where it's like, I remember, you know, I guess an example of me using one of these tools is that, like.
+
+250
+00:40:43.540 --> 00:40:49.809
+Technologic: I'm, like, looking at it, I'm like, dude, I remember there was a button here, but now the button's gone. Where did my button go?
+
+251
+00:40:49.940 --> 00:41:08.100
+Technologic: And so you should even be having a log of, like, screenshots over time, and the agent can reference back to that. That could dramatically improve things. The Playwright, you can actually… it's actually, like, the debugger for the front end, so you stop at a line of code, and it shows you the state of the front end at that point in time that you can execute your next line, and it shows you the next state.
+
+252
+00:41:08.160 --> 00:41:14.479
+Technologic: So, yeah. There's entire open source projects that will log every action that you take on your computer.
+
+253
+00:41:14.710 --> 00:41:28.110
+Technologic: And we'll store it in, like, SQLite for you. It'll include screenshots, videos, meetings, what you type in, what… everything. Which would be, you know.
+
+254
+00:41:28.450 --> 00:41:31.839
+Technologic: Like, everything that you interact with on your computer.
+
+255
+00:41:32.040 --> 00:41:50.969
+Technologic: I will say also one thing about, like, the data processing for all this thing, like, we don't just need to think of, like, large-scale data processing. I'm like, I think the interesting thing about DAF that, you know, did catch my interest when I first, like, learned about it was that you're saying it's good local, it's good distributed. Like, imagine if, like.
+
+256
+00:41:51.020 --> 00:42:06.800
+Technologic: all this data processing, you know, maybe, like, what makes it faster, what makes it more usable, is that you're doing all this summarization of, like, data processing, everything literally in a machine, and then, like, as you go along, like, you don't need to wait for some desktop in the cloud to, like, do it, like.
+
+257
+00:42:06.800 --> 00:42:11.500
+Technologic: is in the loop with you. Maybe that's, like, the difference, right? Yeah.
+
+258
+00:42:11.500 --> 00:42:26.759
+Technologic: Potentially. Yeah, one thing that I think Sammy mentions it somewhere later on in the doc is, I think we really want to encourage folks to, like, optimize for learning first, so rather than saying, oh, I have this, like, you know, fancy idea in my head, which I kind of did with a knowledge-based project, I will admit.
+
+259
+00:42:26.760 --> 00:42:34.369
+Technologic: It's about, like, you know, how can we, like, look at… first, learn how to look at these agents, and, like, really deep dive into what they're doing.
+
+260
+00:42:34.370 --> 00:42:56.879
+Technologic: Right? And then learn first about what's going on, what are… what are metrics that you care about improving? Right, so I think that's in the measuring progress section. I mean, I wrote this here, like, I'll just go over it again, but, like, yeah, the idea that, like, we want to, like, learn what actually brings these agentic workflows, and how do we leverage our unfair advantage? Which, in my opinion, is, like, we spent so much time thinking about, like, large-scale unstructured data and processing.
+
+261
+00:42:56.950 --> 00:43:05.259
+Technologic: Right? But we should take this moment to acknowledge that the problem, you know, that the problem exists, right? We have expertise in there.
+
+262
+00:43:05.580 --> 00:43:09.690
+Technologic: I would say, like, yeah, for any team, like, we're pretty good at running, I don't know.
+
+263
+00:43:09.740 --> 00:43:26.519
+Technologic: models over images and embeddings and videos and all of that. But I think the thing we should also do at this time is question the form factor we've built so far, right? The goal of this exercise is learning, not essentially validating what we already built. So if… I think I call it out here, where it's like.
+
+264
+00:43:27.240 --> 00:43:34.639
+Technologic: feel free to use whatever tools make sense that make you move the quickest, right? You're encouraged to use tools and platforms that weren't built here.
+
+265
+00:43:34.920 --> 00:43:53.819
+Technologic: So it's not a requirement to use DAP or DAF, I would just… honestly, just do what it makes sense. Yeah, and honestly, it's probably good to use other tools, because then you learn about, like, what other people have been building, and you also learn their failure modes, right? And if it turns out that, yes, like, this idea of local processing versus, like, remote processing and big batch processing is one
+
+266
+00:43:53.820 --> 00:43:58.049
+Technologic: Kind of secret weapon that we can use to solve a very specific problem, then we can deep dive together.
+
+267
+00:43:58.060 --> 00:43:59.060
+Technologic: Yes.
+
+268
+00:43:59.350 --> 00:44:03.020
+Technologic: So, if anything… Don't use Daft.
+
+269
+00:44:03.660 --> 00:44:11.230
+Technologic: I want to put it so strongly, if you think that, like, oh, like, yeah, the best tool I'm using right now is DAF, I use it, right? But I think…
+
+270
+00:44:11.430 --> 00:44:30.600
+Technologic: TLDR, optimized for learning, and, like, do whatever it takes to do that. So, like, an example of this is, like, when I was doing the, the knowledge project last week, is that there was a portion where I was running batch inference, and summarization over all of our, like, documents, which is thousands of, like, tens of thousands of documents.
+
+271
+00:44:30.660 --> 00:44:50.329
+Technologic: And my… the naive code that, you know, Claude wrote was doing one at a time. And the estimated time was, like, 12 hours. And that was an example where I'm like, okay, honestly, I just kind of want to use Daft right then and there to do this one step there. So I think that was a use case where I'm like, okay, this, like, I got a version that just, like, does request after request.
+
+272
+00:44:50.330 --> 00:45:02.370
+Technologic: And this is an area where I'll probably use DAF. So, I think in that case, like, that does make sense. We're not saying, like… I'm saying, don't grab DAF and say, how do I use this? We're saying, solve the problem, and DAF makes sense, pull it in. Yes.
+
+273
+00:45:04.140 --> 00:45:15.740
+Technologic: Okay. The next two themes that we can go into, I think we're… I know we're running a little on time, so I'll try to go through a little quicker, is this idea of async exploration.
+
+274
+00:45:16.020 --> 00:45:18.720
+Technologic: Or just, like, I guess the asynchronous tasks in general.
+
+275
+00:45:18.840 --> 00:45:38.039
+Technologic: So if you actually look at, like, how the coding agents work today, is that what they typically do is that when you give it a task, it'll send off, like, a couple of, like, I call them, like, spelunking agents, but they kind of, like, just read through your… read through the knowledge, read through your code, they do some web search, and they kind of, like, spend, like, a couple of minutes just to kind of, like, using these really cheap models
+
+276
+00:45:38.040 --> 00:45:43.890
+Technologic: to figure out what to do. And because these agents are kind of designed around human in the loop.
+
+277
+00:45:44.050 --> 00:45:53.199
+Technologic: they don't take very long. So you notice that it will almost always come back from, like, you give it a task to do to, this is what I'm gonna do, in the order of, like, a few minutes.
+
+278
+00:45:53.940 --> 00:46:11.170
+Technologic: Now, what this can do is that it could have just missed the right context because of trying to be fast. It could have, like, not looked into a different trove of data because of trying to be fast. And so this idea is, like, we can introduce a new pattern, right? Which is almost like this async batch exploration over a large corpora.
+
+279
+00:46:11.410 --> 00:46:18.860
+Technologic: So, the idea is that, hey, maybe you can still make a good human-in-the-loop experience, but then what if we can continue to explore?
+
+280
+00:46:18.880 --> 00:46:24.369
+Technologic: And then intervene when our ASIC agents actually determine that things are going off the rails.
+
+281
+00:46:24.380 --> 00:46:41.859
+Technologic: And so, imagine that, like, you know, we are going over our company knowledge base, and yeah, it does a couple of quick reps, and then maybe beginning and says, okay, this is the path I'm going down. But, it just goes a lot more in-depth async, so it might be cheaper, and it's not going to block the human flow, and we run it in batch, so it's actually, like, it can actually access a lot more data.
+
+282
+00:46:41.860 --> 00:46:49.080
+Technologic: So the idea is, like, how can we still get the fast user bleep experience, but then also still have the automatic intervention?
+
+283
+00:46:49.080 --> 00:46:53.760
+Technologic: That will correct the agent from going off the rails.
+
+284
+00:46:54.360 --> 00:47:00.039
+Technologic: And the last one is kind of related, but this idea of a knowledge co-pilot.
+
+285
+00:47:00.390 --> 00:47:07.990
+Technologic: Because this is actually an interesting conversation that Jay and I had, which is, I asked, like, when you actually use Clock Code or one of these coding agents.
+
+286
+00:47:08.260 --> 00:47:12.060
+Technologic: what do you do, right? Like, are you watching it, or are you doing something else?
+
+287
+00:47:12.350 --> 00:47:28.330
+Technologic: Right? And I think the answer was, for both of us, was very different, right? Jay was like, oh, I actually watch it, and make sure it's, like, doing the right thing. I'm, like, watching the commands, I'm, like, seeing that it's, like, doing the right thing. And I was, like, I, like, I literally just alt-tab, right? I just, like, I put a notification in my terminal, and I just go do something else.
+
+288
+00:47:28.330 --> 00:47:35.770
+Technologic: Yeah. Right? I just run another agent. I'm the micromanagement, so I'm just like, oh, delegate! Right.
+
+289
+00:47:36.290 --> 00:47:40.099
+Technologic: And so, for me, I'm just like, too harsh, too harsh. For me, I'm like.
+
+290
+00:47:40.240 --> 00:47:47.589
+Technologic: for the role I'm playing, which is just, like, you know, the role that… or, like, the role that Jay's playing, which is, like, supervising and intervening when necessary.
+
+291
+00:47:48.070 --> 00:48:11.029
+Technologic: can this not itself be an agent or some other system that actually has access to all this different knowledge and historical information? Like, why do I have to manage this agent myself? Or it could be multiple agents, right? Maybe some that have expertise in certain areas, kind of intervene when necessary. Like, I think what Rune does, right? Like, if two engineers are working the same task, he intervenes. Right? Like…
+
+292
+00:48:11.030 --> 00:48:26.989
+Technologic: Yeah, maybe. Actually, so, like, I do think running multiple agents simultaneously is, like, becoming pretty big. Yeah. But yeah, like, they don't have awareness of what the other agent is doing. Like, if you set up Git work trees and try to get them to merge, it's built for, like, a human, kind of.
+
+293
+00:48:26.990 --> 00:48:32.299
+Technologic: way of doing things. It's just like, why don't you know what the other one's doing? Why don't you just handle all the…
+
+294
+00:48:32.300 --> 00:48:33.960
+Technologic: You know, environment.
+
+295
+00:48:33.970 --> 00:48:42.290
+Technologic: local, whatever variables, like, why can't you just do that? Why do I have to, like, get in the way and, like, do this? So it's Gastown as a service.
+
+296
+00:48:43.470 --> 00:48:58.710
+Technologic: You laugh, but that's, like, totally, I feel like, the… like, so, these, like… Yeah, but I, I think we can… we can… I can talk about the next steps after, after all this. So, the next one is, how do we measure progress?
+
+297
+00:48:59.990 --> 00:49:06.110
+Technologic: I think one of the things that… one of the learnings that I had over our experiment is that we actually ran everything over…
+
+298
+00:49:06.410 --> 00:49:26.090
+Technologic: our own internal company knowledge, right? We tested our own Slack and Notion and GitHub, and we actually did a PR, which is Arrow 2, that only, like, we really care about. But the question about that is, how do we actually share progress? Like, if I was to go tell someone, hey, we were successful for Colin's PR,
+
+299
+00:49:26.180 --> 00:49:40.930
+Technologic: think about how much context and lore I have to give about, like, Arrow, Arrow 2, why the migration's important, what our company knowledge is, how is it structured, before they actually get it, right? And so I think for this, I think it's really important that we demonstrate our results on, like.
+
+300
+00:49:41.020 --> 00:49:51.619
+Technologic: things that are publicly available, where there could be a subset of a dataset, a subset of an eval, and we can objectively measure improvement. We can say, hey, this is cloud code working on this task that's publicly available.
+
+301
+00:49:51.620 --> 00:50:03.720
+Technologic: And this is it once we add this plugin, right? Or add this, like, different feature that we're building out. I think, like, an example I gave, like, SweetBench, or a subset, or some other codebook benchmark, or,
+
+302
+00:50:04.060 --> 00:50:12.960
+Technologic: specific task, and I think the idea here is that it will keep us honest, and also make it a lot easier to share what we're working on, and be able to compare against each other.
+
+303
+00:50:13.210 --> 00:50:21.519
+Technologic: So, we should work on the same data, and also make sure we, like, measure it the same way, in a way that's, like, very objective.
+
+304
+00:50:22.730 --> 00:50:27.309
+Technologic: So I think it's a little bit different than what we used to do, but I think this is important that we introduce.
+
+305
+00:50:27.920 --> 00:50:28.510
+Technologic: Okay.
+
+306
+00:50:28.510 --> 00:50:32.289
+Sam Stokes: Does that… sorry, Sammy, does that mean…
+
+307
+00:50:32.920 --> 00:50:38.900
+Sam Stokes: I'm having a bit of trouble with, like, the concrete framing of this, it…
+
+308
+00:50:39.200 --> 00:50:45.820
+Sam Stokes: SweetBench and code-focused benchmarks, does that mean we're working on coding agents, specifically, in this hackathon?
+
+309
+00:50:46.170 --> 00:50:49.559
+Technologic: Oh, this whole hackathon is on coding… improving coding agents.
+
+310
+00:50:49.560 --> 00:50:51.780
+Sam Stokes: Okay, not just any agents, but coding agents specifically.
+
+311
+00:50:51.780 --> 00:50:57.809
+Technologic: Yeah, so the idea is, like, can we improve coding agents by making them more knowledgeable?
+
+312
+00:50:58.100 --> 00:51:01.210
+Technologic: faster, or intervening better? That's kind of the overall thing.
+
+313
+00:51:02.410 --> 00:51:18.810
+Technologic: Yeah, and again, where that stems from is, I guess two hypotheses, right? One is that coding agents are going to be the foundation for a lot of other different kinds of agents. Number two, actually, is that coding agents make money, honestly. Like, today, that's probably the only agents out there that really make money are the coding agents, so…
+
+314
+00:51:19.190 --> 00:51:24.799
+Technologic: And just anecdotally, we made all your clog codes twice as fast. How much would you pay for that?
+
+315
+00:51:26.590 --> 00:51:37.560
+Sam Stokes: And I guess related it, we're not necessarily trying to build novel agents, we're trying to find pain points in existing agent workflows and solve them.
+
+316
+00:51:38.110 --> 00:51:48.020
+Technologic: Exactly. Exactly. Right? So we're not going to create cloud code, like, three, you know, DAF version, right? That's not really the goal of this. So, in the ground world, we kind of talk about
+
+317
+00:51:50.150 --> 00:52:07.439
+Technologic: integration. Our solution should be able to plug into cloud code, cursor, or codecs via skilled or plugins. I think at this point, things are becoming a little bit more ubiquitous, so then, like, it will be much easier to be like, okay, we're gonna build a service in the cloud, we're gonna build a local service in our laptop, but to integrate could just be a skill.
+
+318
+00:52:07.440 --> 00:52:13.780
+Technologic: Which often, I, we can show some examples of that, and typically that's just, like, some Python code that I can talk to whatever system you have.
+
+319
+00:52:14.320 --> 00:52:34.000
+Technologic: So the ground rules are, we're doing teams of two to three. Also, there's no, like, hard rules here. I think I was even thinking, like, hey, in, like, a week, if, like, two of the, like, some of the projects look kind of similar, we can also, like, merge teams and stuff, too. So, we can play with that with time. But currently, we'll do teams of two or three.
+
+320
+00:52:34.230 --> 00:52:39.240
+Technologic: Each team, will have a budget of 3,000 tokens.
+
+321
+00:52:39.330 --> 00:52:58.980
+Technologic: $3,000! Sorry, it's $3,3rd, my message. $3,000 worth of tokens per team. And the idea is, like, be scrappy, optimize over learning, have some fun, and don't worry too much about the budget. So if you guys blow out your budget, that's okay. Come talk to us, and we'll figure it out. We talked about the integration requirement.
+
+322
+00:52:59.240 --> 00:53:02.469
+Technologic: The next one is document everything. This whole goal is, like.
+
+323
+00:53:02.570 --> 00:53:12.629
+Technologic: the whole goal of this exercise is to learn and see where things fail. So write things down, understand what works and what doesn't work. This compounds, and we want to compound from each other.
+
+324
+00:53:12.630 --> 00:53:23.269
+Technologic: I remember, like, anecdotal, but, like, I remember my first internship was in a lab, in, like, when I was, like, 15 or something, in, like, a biotech lab.
+
+325
+00:53:23.270 --> 00:53:36.730
+Technologic: And I just remember my PI being like, this is your lab journal. You have to write everything you do here, and we'll go over, like, what worked and what didn't work. And we actually have a log of, like, you know, to build science. And every day, I carry this, like, notebook.
+
+326
+00:53:36.760 --> 00:53:47.829
+Technologic: About, like, everything I was doing that day. And I don't know, even, like, sometimes, like, you know, recently, I've been going back to it and being like, wow, what did I… how was… what was, like, the psyche of Sammy at 15, right?
+
+327
+00:53:47.830 --> 00:54:00.040
+Technologic: But I think it was really valuable, because when you do write that, like, paper, when you do try to figure out what are your next steps, being able to, like, actually look at a log objectively is really important. And so, the thing about this is that we should all have a lab notebook.
+
+328
+00:54:00.120 --> 00:54:15.120
+Technologic: Of, like, what works and what doesn't work. And this could be your personal, like, a Notion or, like, a Google Doc, but it's really important to have, like, an objective measure of, like, what is our hypothesis, and what actually happened. And that's okay if it doesn't work.
+
+329
+00:54:15.910 --> 00:54:33.260
+Technologic: Right? Given that, we're gonna… every day, the goal is, like, for each team to kind of curate some of the learnings based off this rubric below, and then kind of just share. So every day, we'll have an end-to-day sync, and just kind of talk about, like, what are we learning so far, what's working, what's not working, what direction are we getting for next.
+
+330
+00:54:33.700 --> 00:54:42.399
+Technologic: You'll have guinea pigs, so you'll have me and Jay to dogfood your projects throughout. You should dogfood your own product, too. Or for our projects, too, and…
+
+331
+00:54:42.400 --> 00:54:53.909
+Technologic: Yeah, if you also want external feedback, we can grab it and start showing it to the world as well. So we have, you know, friends and people who are very interested in what we're doing. Like, I think as soon as we sort of start sharing what we're working on, we've been getting so much interest.
+
+332
+00:54:53.910 --> 00:55:05.430
+Technologic: people wanting to learn more, what we're doing. The co-founder of Banana.dev, which has a whole, like, you know, would be interested in any new things you're building. So, yeah. This stuff is very interesting to a lot of people.
+
+333
+00:55:06.020 --> 00:55:08.549
+Technologic: We went over the greenfield requirement, which is…
+
+334
+00:55:08.930 --> 00:55:18.060
+Technologic: do what makes you move the fastest. Like, don't really worry about, like, any other, like… we're not adding any additional, like, requirements. Just do whatever makes you move the fastest.
+
+335
+00:55:18.170 --> 00:55:28.850
+Technologic: This is the rubric, things like what did you try today, what worked, what didn't work, what did you learn about how agents feel, and what's your plan for tomorrow. And so this is something that each team will give an update on every day.
+
+336
+00:55:29.060 --> 00:55:32.379
+Technologic: In terms of judging,
+
+337
+00:55:32.880 --> 00:55:40.980
+Technologic: the way that we kind of broke it down, and I'll assemble a judge panel, is this is kind of how, you know, I was thinking about it. One is, like.
+
+338
+00:55:41.340 --> 00:56:00.069
+Technologic: were the results interesting? AKA, did you ship something that measurably improved a coding agent's capability, or the human's workflow using one? So, was it actually better, right? Did this actually speed someone's workflow up? Did it make it a better workflow? Or did it just, like, feel a lot more ergonomic?
+
+339
+00:56:01.130 --> 00:56:02.809
+Technologic: The next one is on the approach.
+
+340
+00:56:03.040 --> 00:56:09.380
+Technologic: did you uncover, like, a novel method that could raise the ceiling for aging performance? I think it's okay if…
+
+341
+00:56:09.610 --> 00:56:23.070
+Technologic: we have some… we explore a path where it's not necessarily something that's better than what's out there today, but something that's a different trajectory that can have a much higher ceiling, given the right investment. And so, what's an interesting approach?
+
+342
+00:56:23.220 --> 00:56:24.840
+Technologic: The next one is a learning dot.
+
+343
+00:56:24.850 --> 00:56:43.959
+Technologic: How much did we learn about why coding agents get stuck today with current tools? But I think this one is, like, the deeper we go, I think we'll uncover more, and just trying these hard workflows on these coding agents, and being able to uncover this is actually really important. And so that's why it's, like, also one of the pillars here.
+
+344
+00:56:44.160 --> 00:56:47.020
+Technologic: And the last one is the it clicks factor.
+
+345
+00:56:47.270 --> 00:56:55.600
+Technologic: How much of this problem resonate with coding agent users? Would someone see this and immediately want it? The idea here is that, like, if you build this.
+
+346
+00:56:56.110 --> 00:57:09.349
+Technologic: are people excited about it? If you say, hey, you know what, like, I have this, like, one plugin that, only, like, a handful of people in the world care about, then it's probably not going to have as much of a click factor, but if I go to you and say, hey, I'm now giving you a plugin that
+
+347
+00:57:09.350 --> 00:57:28.120
+Technologic: gives you, I don't know, index views of, documentation websites by version, and it reduces the amount of focus a code agent has by half. That's something that really clicks for a lot of people. And I think the cool thing is you have, like, 10 people, I guess, like, 10 engineers, engineers, and eventually they can kind of, like.
+
+348
+00:57:28.150 --> 00:57:42.819
+Technologic: tell you whether it clicks, right? And the prize is simple. I know not everyone loves Omocases, as much as, you know… You can choose to use it at Omicas. You can use it. Yeah, so yeah, I guess you want it to spend a different way, but the prize is $100 per person.
+
+349
+00:57:42.970 --> 00:58:02.019
+Technologic: Right. And this could be paid out in omotases, or, like, a trip. Could be paid out in omacase. Yeah, tickets, you know, who knows? Lift tickets, whatever, like, I… And you snowboard? So, I know that was a lot, so we can spend some time to talk about it now. Yes.
+
+350
+00:58:02.670 --> 00:58:03.540
+Technologic: Okay.
+
+351
+00:58:05.390 --> 00:58:09.760
+Technologic: And so, I think one thing I want to acknowledge is, like, I know this seems very sudden.
+
+352
+00:58:10.020 --> 00:58:14.930
+Technologic: And very fast, I guess. Can you guys agree with that?
+
+353
+00:58:15.050 --> 00:58:17.110
+Technologic: But I guess one of the things, like.
+
+354
+00:58:17.240 --> 00:58:27.760
+Technologic: I think it's actually really important to, like, be able to move fast, and I think part of this is moving fast and learning, rather than just, like, spending some time moving slower and…
+
+355
+00:58:28.010 --> 00:58:36.039
+Technologic: Potentially building something that is still going to be successful, but in the wrong form factor for the upcoming era.
+
+356
+00:58:36.750 --> 00:58:38.090
+Technologic: So I think it's just really imp…
+
+357
+00:58:38.720 --> 00:58:47.490
+Technologic: I think it's just really important that, like, we actually just spend a little bit of time and just move as fast as possible when it comes to learning. So, that's partially why we're just putting a pause on everything else.
+
+358
+00:58:49.280 --> 00:58:51.950
+Technologic: Okay, cool. Questions, concerns, thoughts?
+
+359
+00:58:53.630 --> 00:59:05.039
+Technologic: I just want to say that this is very, very exciting, and I'm, like, very much looking forward to it. It feels timely. It feels like something I want to do, and I'm very excited to do.
+
+360
+00:59:05.920 --> 00:59:08.149
+Rohit Kulshreshtha: Sorry, my mic was… can you all hear me?
+
+361
+00:59:08.430 --> 00:59:09.360
+Technologic: Yes, sir.
+
+362
+00:59:09.360 --> 00:59:20.810
+Rohit Kulshreshtha: Yeah, so is SWEbench, like, is that, like, a hard requirement? Because one of the things that it's missing is that every task, you get a snapshot of a repository which has no commit history.
+
+363
+00:59:20.970 --> 00:59:21.970
+Technologic: And…
+
+364
+00:59:21.970 --> 00:59:29.909
+Rohit Kulshreshtha: I… one thing I want to explore is, like, what's the impact of it understanding commit history deeply, right? And, like, should…
+
+365
+00:59:30.590 --> 00:59:33.980
+Rohit Kulshreshtha: Should we just use something else, or, like, what should we do in this case?
+
+366
+00:59:34.260 --> 00:59:41.629
+Technologic: It's not a hard requirement, I was just saying that your, like, whatever results you demonstrate should be on, like, publicly accessible data.
+
+367
+00:59:41.780 --> 00:59:43.110
+Rohit Kulshreshtha: Okay.
+
+368
+00:59:43.110 --> 00:59:48.619
+Technologic: So you could have your own benchmark if you wanted to, right? But I think, generally speaking.
+
+369
+00:59:49.140 --> 01:00:11.839
+Technologic: TLDR, honestly, if our results are interesting, we'll probably publish about it, right, on a blog, or something. Yeah. Maybe even put it out there as a product, right? How can we make the results publicly accessible? Yeah. So, like, the idea is, like, if you want to use Command Street, and you… let's say, I don't know, you use… what's the repo? Chrome. Use Chrome, right? And you're saying, hey, here's the Chromium repo, and we're able to leverage the information from…
+
+370
+01:00:11.840 --> 01:00:16.400
+Technologic: the JIRA and, like, the commits to do XYZ, like, that's also fine.
+
+371
+01:00:17.060 --> 01:00:17.760
+Rohit Kulshreshtha: Okay.
+
+372
+01:00:24.100 --> 01:00:26.899
+Technologic: More questions, concerns, thoughts?
+
+373
+01:00:27.350 --> 01:00:28.850
+Technologic: How are we dividing teams?
+
+374
+01:00:29.230 --> 01:00:36.640
+Technologic: It's up to you guys, I think. So, I was struggling with teams, and I think the way I'm thinking about it is, today.
+
+375
+01:00:36.910 --> 01:00:42.320
+Technologic: I think today, I think it's good for folks to explore.
+
+376
+01:00:42.560 --> 01:01:00.389
+Technologic: So just spend some time today exploring, looking at different concepts, try these other tools out there. Maybe there's already something out there, like, for knowledge or graphs that works. Try it out! So just spend today, everyone just individually explore, right? And then what do you then want to do today? Kind of do, like, an idea kickoff?
+
+377
+01:01:00.750 --> 01:01:04.570
+Technologic: I think we can do tomorrow. Just give folks time today.
+
+378
+01:01:04.940 --> 01:01:18.919
+Technologic: Yeah. So, yeah, I think then tomorrow morning, I think we can kind of then… maybe everyone come up with an idea or two, share, and then we could do team assignment based off of that. Yeah, we can do the first one of your end-of-day thing tomorrow. Yeah. Yeah.
+
+379
+01:01:19.150 --> 01:01:27.350
+Technologic: Okay. The… what is it? The Bell Labs hubs and Spokes model, right? Exactly.
+
+380
+01:01:28.300 --> 01:01:31.999
+Technologic: My moon. Yeah.
+
+381
+01:01:32.000 --> 01:01:36.740
+YK Sugi: So… I had a quick comment about the librarian idea.
+
+382
+01:01:37.040 --> 01:01:37.940
+YK Sugi: Yeah.
+
+383
+01:01:38.130 --> 01:01:55.279
+YK Sugi: like, over the past few months, I've been building, like, a few things for my own workflow in Cloud Code. One thing I built was this simple, like, CLI in JavaScript that would just, like, query my, you know, the Slack server, and what it did was it would just, like.
+
+384
+01:01:55.570 --> 01:02:11.949
+YK Sugi: send a search query directly to, you know, to the Slack API, and Cloud Code would figure out, like, what questions to ask exactly. And that worked really well, like, with no preprocessing at all. And then another thing I built, you know, more recently is more like a
+
+385
+01:02:12.080 --> 01:02:25.329
+YK Sugi: what's going to be an MCP server that crawls through my entire directory for, like, all the images I have locally, and then it embeds everything. So that's more per… you know, more pre-processing using that often.
+
+386
+01:02:25.710 --> 01:02:35.969
+YK Sugi: that… that works well, like, in a different way, just locally, so… I'm curious to see, like, which… which things should be preprocessed, and which things should be, like, just, you know, API calls.
+
+387
+01:02:36.630 --> 01:02:37.320
+YK Sugi: For that idea?
+
+388
+01:02:37.320 --> 01:02:40.070
+Technologic: No, I think that's a good question, and I think what…
+
+389
+01:02:40.310 --> 01:02:42.719
+Technologic: The approach to librarian, the first approach we talk.
+
+390
+01:02:42.870 --> 01:02:49.179
+Technologic: I think it worked okay, but I actually uncovered a lot for…
+
+391
+01:02:49.330 --> 01:02:58.050
+Technologic: I think are… it covered a lot for us about, like, okay, what are… well, maybe not things that don't work well, but what parts of the poem are ill-defined?
+
+392
+01:02:58.230 --> 01:03:02.930
+Technologic: Right? Because, like, how do you actually define, like, what is an objective good
+
+393
+01:03:03.400 --> 01:03:20.499
+Technologic: curated library. And, like, how do you actually… and honestly, the answer is, like, hey, what works for the agent? But then how do you actually incorporate that feedback back and improve it over time? And that was the thing that was the next part we wanted to explore, but it's… I think just starting and trying it out and seeing where it fails, I think, is gonna uncover a lot.
+
+394
+01:03:20.530 --> 01:03:26.790
+Technologic: Yeah, so I don't know. I'm happy to share what we did with Librarian, but that was kind of, like, their take that we had, which is.
+
+395
+01:03:26.820 --> 01:03:41.450
+Technologic: Optimize for what? How do you, like, know… Hard to measure, right? Like, so one thing that we tried with Librarian was that I wrote a little benchmarking script that would run cloud code end-to-end, and it would measure how many tokens, or cross-bitched models.
+
+396
+01:03:41.450 --> 01:03:48.500
+Technologic: And also, kind of, like, roughly divide up how much tokens were used for exploration versus actual execution, and all these metrics.
+
+397
+01:03:48.500 --> 01:04:07.790
+Technologic: And honestly, even with that, it was just hard to see, like, what was going on. Yeah. So just evaluation of the methods were actually… it was actually very challenging, right? And that's where we see, like, some of these projects folding in each other. Like, for example, if the librarian was able to access where the agents were getting stuck based off their commands and what they were searching, maybe it could, like, use that information.
+
+398
+01:04:07.840 --> 01:04:09.399
+Technologic: To then better curate.
+
+399
+01:04:10.290 --> 01:04:14.719
+Technologic: Right? Saying, hey, this guy's only using graph, I should optimize for graphical things.
+
+400
+01:04:14.910 --> 01:04:17.390
+Technologic: So, just an example. Yeah. Okay.
+
+401
+01:04:18.350 --> 01:04:29.160
+Technologic: Cool, cool. Before we launch into more questions, I do want to call out an event on Friday. So on Friday, we are sponsoring, you want to zoom in a little bit, the AI Engineering event in SF.
+
+402
+01:04:29.230 --> 01:04:46.219
+Technologic: It is going to be 2026, it's the year of blank. I think that the link doesn't work. I put a link at the events. Sorry, this is the admin panel. So, I'm an admin now of this event, since we are sponsoring. Put it in the events, like, channel. Yes, so I would highly encourage folks, to attend in SF.
+
+403
+01:04:46.390 --> 01:05:00.569
+Technologic: And yeah, we are… I'm also gonna be pitching a kind of topic, at the event, and we'll see if we get accepted, but this is our chance to, you know, get involved in the mainstream of, like, what people are talking about in engineering, welfare.
+
+404
+01:05:00.780 --> 01:05:01.700
+Technologic: Circles.
+
+405
+01:05:02.890 --> 01:05:20.849
+Technologic: One of you guys on that… on the stage. Yeah, that'd be great. And then on Friday, also, we're chatting with Nomic, which is one of the companies that we've been talking to. They sent us a whole spec about what they want to do with regard to, like, integrating with upstream data connectors, SharePoint, Ignite, and all that, so we'll be chatting with them.
+
+406
+01:05:21.040 --> 01:05:29.119
+Technologic: But that's maybe a little bit orthogonal to the agent story, maybe similar to some of the ideas that we're thinking. They are just, you know, letting folks know.
+
+407
+01:05:29.240 --> 01:05:30.819
+Technologic: Yeah.
+
+408
+01:05:36.390 --> 01:05:39.259
+Technologic: Am I allowed to write a…
+
+409
+01:05:39.620 --> 01:05:43.849
+Technologic: message to OSS saying we're gonna pause activity for 2 weeks.
+
+410
+01:05:44.400 --> 01:05:53.630
+Technologic: And… but we can prioritize P0 bug… big in bugs, but… I think no need for that. I think what we can do instead is…
+
+411
+01:05:53.630 --> 01:06:09.459
+Technologic: maybe informally just put, like, myself on call, and I can be the first filter. If there's truly a P0 that comes in, then sure, we can work on it. Right. But if it's all, like, P1s and P2s, we can kind of ship it. I don't think we want to… because, like, yeah, I mean, it's just, like, for, like, ByteDance to, like…
+
+412
+01:06:09.500 --> 01:06:10.610
+Technologic: But I was like, hey.
+
+413
+01:06:10.690 --> 01:06:18.629
+Technologic: We're not gonna… We can manage dark energy stuff. Just be like, hey, like, our engineers are busy. Yeah, but no need to respond on Slack for now. Okay. Yeah.
+
+414
+01:06:18.890 --> 01:06:21.250
+Technologic: Yeah, I can take the communications.
+
+415
+01:06:24.480 --> 01:06:31.410
+Technologic: Okay. Any other questions? Logistics? Oh, should we… if we're all using plugged code, should we just sign up for, like, a…
+
+416
+01:06:31.410 --> 01:06:54.560
+Technologic: Yeah, yeah, we'll save money that way. Whatever falls into 3K, you know… We'll definitely save… the subscription's cheaper than the API. Sure. Okay. Yeah, whatever makes sense. Throw it on the bricks. Again, we want this stuff to compound, and so if folks have, like, things that they agree on, like, you know, maybe, hey, if Steven, you see that multiple folks are trying to do it, then…
+
+417
+01:06:54.560 --> 01:06:59.220
+Technologic: Should I just get it for everybody participating? Yeah. Yeah. Yeah.
+
+418
+01:06:59.850 --> 01:07:08.819
+Technologic: And then let's figure out a way to actually instrument as soon as we can. Yeah. So I think I would like someone to, like, figure out, not today, about just, like, how do we actually then measure
+
+419
+01:07:08.820 --> 01:07:20.120
+Technologic: well, like, how we're using Cloud Code and the intermediates. Yeah. Like, I would love to be able to do pip install and px install or something, and then automatically, every time I use Cloud Code, all my stuff is going to, like, central telemetry.
+
+420
+01:07:20.210 --> 01:07:25.350
+Technologic: So that we can compound, right? Yeah, it was good. You guys were working on bringing up ClickStack, right?
+
+421
+01:07:25.740 --> 01:07:29.159
+Technologic: Click House or ClickSock? So can we just throw everything in there?
+
+422
+01:07:30.100 --> 01:07:35.770
+Technologic: Yeah. Huh? Yeah, we could try. Do you guys want, like.
+
+423
+01:07:35.860 --> 01:07:53.759
+Technologic: traces and, like, calls, or do you guys want, like, a hook at the end of every, like, interaction that says, like, what did we do? Log it. I think the traces and inter… like, traces and, like, commands and tasks and, like, prompts and stuff. Like, I think we want to understand how… I guess, okay, the…
+
+424
+01:07:53.760 --> 01:07:58.050
+Technologic: Yeah, the router, like, what command did I run? What was the output of that command, right?
+
+425
+01:07:58.050 --> 01:07:58.390
+Sam Stokes: Pick up.
+
+426
+01:07:58.390 --> 01:07:58.760
+Technologic: So…
+
+427
+01:07:58.760 --> 01:08:13.710
+Sam Stokes: Take a quick look at what it supports out of the box, and it's got hooks for events, which would be, like, commands and things. I… I don't know if you get, like, chat contents, I'm guessing not, but it'd probably be, like, the response.
+
+428
+01:08:13.960 --> 01:08:19.790
+Technologic: Yeah, I did try to take a stab at… exactly. So, it doesn't give you the… Actually, it…
+
+429
+01:08:19.810 --> 01:08:35.040
+Technologic: API requests it's sending to Cloud for it, it does give you agent-level, application level, like, okay, after every tool finishes, when I'm gonna send out a new tool. So I think we have to do both. We have to kind of get the agent-level, application-level logs, but also figure out how to hook a little bit lower level.
+
+430
+01:08:35.040 --> 01:08:42.719
+Technologic: to the actual API call. Can you send the endpoint URL of it? Because that… we could reuse our proxy gateway. Yeah.
+
+431
+01:08:42.720 --> 01:08:51.799
+Technologic: That we built for LLM inference for the model stuff. Yeah, so I… that was the next thing I was going to explore, but I haven't really dug into it yet. Okay. I'd expect that you can. Okay.
+
+432
+01:08:54.090 --> 01:09:00.149
+Technologic: You can include anything you want on these hooks. You can just be like.
+
+433
+01:09:00.180 --> 01:09:15.160
+Technologic: what am I working on overall? What was the individual task I'm doing right now? Yeah. Send it to the eggplant. But we need someone to take action over it, right? So who wants to… who wants to take the stab on, plot of durability, or I guess, like, the traceability right now?
+
+434
+01:09:16.170 --> 01:09:21.570
+Technologic: I think there's actually, like, a lot of different things to explore there, so maybe we don't assign yet. It's just, like…
+
+435
+01:09:21.840 --> 01:09:30.700
+Technologic: Yeah, I think, like, you know, we're talking about traces everything, but I think, like, in terms of understanding internally what the agents are doing, I think there's many different, like, directions here.
+
+436
+01:09:30.910 --> 01:09:31.670
+Technologic: So…
+
+437
+01:09:31.670 --> 01:09:55.529
+Technologic: Sure. Well, everybody's going to be exploring that, I think, for today, but I think Sammy and I… at least I'm fairly convinced that, like, this will be a solution that will benefit everybody starting tomorrow. So someone, while doing exploration today, can kind of start building out some of this tooling. Maybe not the central repository, maybe it just gives you a SQLite on your machine that you just send in Slack, right? My first thing I was gonna do after this interview is actually…
+
+438
+01:09:55.530 --> 01:09:59.389
+Technologic: Actually, like, have a way to all of us dump our… like, not even, like.
+
+439
+01:09:59.500 --> 01:10:10.480
+Technologic: not even, like, traces or anything, just dump raw, like, output input into, like, Notion or something, or whatever, right? Yeah. Yeah, so something like that, some mechanism will be…
+
+440
+01:10:10.540 --> 01:10:21.990
+Technologic: So I guess that's what you're saying, leave it unstructured and someone will figure it out? Yeah, I mean, like, I think we're all gonna, like… I think this… I don't know, I feel like this is, like, the first thing everyone's gonna figure out, like, the own inner loop, you know?
+
+441
+01:10:21.990 --> 01:10:39.179
+Technologic: Alright. Is it only Claude, or can you use Codex, or… You are allowed to use anything you want. I would love if folks would also explore other tools, and then we might get a good sense of how these tools start to differ. Oh, I forgot to tell you, I'm wearing my Kodak socks today, look.
+
+442
+01:10:39.190 --> 01:10:49.739
+Technologic: But there's a lot of really interesting tools out there. There's OpenCode, Codex, Claude, right? Someone actually published a… an open source repo on, like, a simple way to build an agent.
+
+443
+01:10:49.810 --> 01:10:53.900
+Technologic: Yeah, I think TLDR, we need to optimize for learning, and not just for code.
+
+444
+01:10:54.110 --> 01:11:04.629
+Technologic: just the overall, kind of, industry and what's happening, so yes. I mean, technically, Clocko supports hotel stuff already. Oh, that's great. Can we just plug this in and turn that on? It's kind of what I was thinking.
+
+445
+01:11:04.630 --> 01:11:07.049
+Sam Stokes: It's not traces, though, it's just events.
+
+446
+01:11:07.160 --> 01:11:12.710
+Sam Stokes: It's what Jay was saying, basically, like, application level, but you won't get the HTTP requests.
+
+447
+01:11:12.710 --> 01:11:19.770
+Technologic: Maybe we just start with logs, then? Logs and metrics, and that's good enough to start? Log everything, right. Yeah, just log everything for now. Yep.
+
+448
+01:11:20.020 --> 01:11:28.780
+Technologic: Yeah, that can be, like, a custom hook that everybody installs. Yeah, yes. Who is, the best at hotel and signals and all that?
+
+449
+01:11:30.290 --> 01:11:31.209
+Sam Stokes: I couldn't do some…
+
+450
+01:11:31.210 --> 01:11:34.459
+Technologic: I can do some initial digging here.
+
+451
+01:11:35.540 --> 01:11:38.989
+Technologic: Okay, yeah. Does anyone not want a subscription?
+
+452
+01:11:40.350 --> 01:11:44.620
+Technologic: Right. Okay, just making sure I'm adding everybody, that's all. Yeah. All good.
+
+453
+01:11:44.770 --> 01:11:46.249
+Technologic: Okay. Okay, cool.
+
+454
+01:11:48.070 --> 01:11:56.920
+Technologic: Thank you, thank you. Thank you, and yeah, grab me, Sami, anytime you're free, if you want to chat. Are you a participant? Are you guys participating? We're gonna be!
+
+455
+01:11:56.920 --> 01:12:08.940
+Technologic: I think we can be parach… like, paratroopers, basically. Let's jump in. I think we can't win, right? Yeah. I think the two of us can't win, because we probably have to, like, judge that stuff. But I'll probably build some stuff outside, and I'll…
+
+456
+01:12:08.940 --> 01:12:24.689
+Technologic: parachute into various teams. Yeah, and I think for me, you guys, like, teams can, like, I guess, leverage me as an IC, so if there's anything you guys want built, then I can just come in and help build it with you guys. Yes, because we also want to learn. Yeah. So if you're like, hey, like, this thing's interesting, like, come help us. Yeah.
+
+457
+01:12:24.880 --> 01:12:42.890
+Technologic: We should have, like, a central board where we can, like, write what maybe we're trying out. Yeah, things that didn't work, things that did work. Feel free! You wanna make… do you want to make, like, a… or I guess for some of the folks who are remote, can you want to make a spreadsheet instead? Yeah, I think it's gotta be on, like, Notion or something.
+
+458
+01:12:43.160 --> 01:12:56.260
+Technologic: That TV thing where, like, a live camera, the whiteboard, and then… It's like the zoo. I want animals running around the zoo. Yeah. They wait for the people in the office. That's men's bacon.
+
+459
+01:12:56.260 --> 01:13:05.850
+Rohit Kulshreshtha: Is everyone just working out of this room over here, or what are you doing? Because it would be nice to stay connected, but it's not mine.
+
+460
+01:13:05.990 --> 01:13:10.649
+Technologic: I'd be happy to report. I'll stop reporting, and we just leave this on. Yeah. Yeah. Is there a way to.
+
