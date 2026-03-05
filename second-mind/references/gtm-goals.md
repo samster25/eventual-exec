@@ -35,7 +35,7 @@ related:
 **Core:**
 - Jay Chia — Outreach to Discovery
 - Sammy Sidhu — Owning deep-dive call to design partnership
-- Stephen Fong — GTM ops (tracking, scheduling, interview synthesis, KPIs)
+- ~~Stephen Fong~~ — Departed Mar 4, 2026. Previously: GTM ops (tracking, scheduling, interview synthesis, KPIs). **Responsibilities need to be reassigned.**
 
 **Support:**
 - Steffi Li — Dev support for marketing

@@ -41,7 +41,7 @@ related:
 
 ### Decisions
 - [[decision-log]] — All strategic decisions
-- Active: [[compressed-timeline]] | [[data-acquisition]] | [[sales-coach]]
+- Active: [[compressed-timeline]] | [[data-acquisition]] | [[sales-coach]] | [[stephen-transition]]
 
 ### Meetings
 - [[board-2026-q1]] — Q1 2026 board meeting (Mar 5)

@@ -2,6 +2,7 @@
 title: Decision Log
 created: 2026-03-05
 updated: 2026-03-05
+
 status: active
 related:
   - "[[hypotheses]]"
@@ -23,3 +24,4 @@ Running log of strategic decisions. Seeded from board deck, all-hands memo, and 
 | Feb 27, 2026 | All-hands: announced Eventual direction | Full team alignment on GTM intelligence product | Sammy |
 | Mar 5, 2026 | Board meeting: $250K data budget requested | Coverage is bottleneck to testing H2 and H3 | Sammy |
 | Mar 5, 2026 | Board feedback: compress timeline to 6 weeks | Need faster answer on product viability | Board |
+| Mar 4, 2026 | Stephen Fong departed | GTM ops, finance, recruiting, HR/SOC2 responsibilities need reassignment — see [[stephen-transition]] | Sammy |

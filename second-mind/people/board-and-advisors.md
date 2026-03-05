@@ -11,7 +11,7 @@ related:
 
 ## Company Background
 - YC-backed company
-- 3+ years runway (as of Mar 2026, inclusive of $250K data budget)
+- 3+ years runway 
 
 ## Board Members / Advisors
 

@@ -57,7 +57,9 @@ When the user says "process intake" or drops files into `intake/`:
 4. **Create or update** the relevant vault pages (see routing rules below)
 5. **Link** the new vault page back to the source: `> Source: [[source-documents/interviews/company-name-date.md]]`
 6. **Remove** the file from `intake/` (it now lives in `source-documents/`)
-7. **Report** to the user: files processed, pages created/updated, items needing review
+7. **Check** `PROCESSED.md` in this folder — skip any file already listed there
+8. **Log** the processed file in `PROCESSED.md` with date, source path, and destination
+9. **Report** to the user: files processed, pages created/updated, items needing review
 
 ### Classification Rules
 
