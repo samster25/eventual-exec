@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intake/lisbon-offsite-input.md",
+                "file": "meetings/lisbon-offsite-agenda.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lisbon-offsite-input"
+              "title": "lisbon-offsite-agenda"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "intake/lisbon-offsite-input.md",
+                "file": "meetings/lisbon-offsite-agenda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for lisbon-offsite-input"
+              "title": "Backlinks for lisbon-offsite-agenda"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "intake/lisbon-offsite-input.md",
+                "file": "meetings/lisbon-offsite-agenda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from lisbon-offsite-input"
+              "title": "Outgoing links from lisbon-offsite-agenda"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "intake/lisbon-offsite-input.md",
+                "file": "meetings/lisbon-offsite-agenda.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of lisbon-offsite-input"
+              "title": "Outline of lisbon-offsite-agenda"
             }
           }
         ]
@@ -185,8 +185,12 @@
   },
   "active": "fd84be97f914a517",
   "lastOpenFiles": [
-    "intake/lisbon-itinerary.md",
+    "intake/PROCESSED.md",
     "intake/lisbon-offsite-input.md",
+    "source-documents/memos/lisbon-itinerary.md",
+    "source-documents/memos/lisbon-offsite-input.md",
+    "meetings/lisbon-offsite-agenda.md",
+    "intake/lisbon-itinerary.md",
     "people/daft-team.md",
     "people/board-and-advisors.md",
     "meetings/offsite-2026-w11.md",
@@ -207,10 +211,6 @@
     "strategy/bets.md",
     "strategy/assumptions.md",
     "strategy/hypotheses.md",
-    "strategy/strategy.md",
-    "customers/interviews/blink-health-ryan.md",
-    "customers/interviews/clickup-borys.md",
-    "customers/interviews/nomic.md",
     "source-documents/interviews/blink-health-ryan-transcript.txt",
     "source-documents/interviews/clickup-borys-transcript.txt",
     "source-documents/interviews/nomic-call-3-2026-02-19.txt",

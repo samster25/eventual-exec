@@ -4,6 +4,7 @@ created: 2026-03-05
 updated: 2026-03-05
 status: planned
 related:
+  - "[[lisbon-offsite-agenda]]"
   - "[[roadmap]]"
   - "[[hypotheses]]"
   - "[[data-strategy]]"
