@@ -1,0 +1,262 @@
+Decagon: Daniel Liem - March 3, 2026
+https://app.bluedothq.com/preview/69a728febc04e8868e771f2a
+
+---
+
+0:00 - Jay Chia
+There. 
+
+12:30 - Jay Chia
+Oh, we can't. 
+
+12:32 - Daniel Liem
+Yeah, I, I did not see your email. 
+
+12:35 - Jay Chia
+Oh, you were just talking about like how we should just move to calendar. We're just cheapos, you know, we're just like, ah, like, you know, we'll, we'll use this Google Calendar thing and so the, the invite link is usually on the description. So that's our bad. Um. 
+
+12:47 - Jay Chia
+Oh. 
+
+12:47 - Daniel Liem
+Oh yeah, dude. Oh, I, I didn't. That, that is not obvious. And then also the link was not a meet or zoom link, so. Yeah, well, I mean, I'm glad. I mean I, I have to go in like 15 minutes but we'll do our, we'll do our best here. It's good to meet you both. 
+
+13:03 - Jay Chia
+Appreciate your time. 
+
+13:04 - Daniel Liem
+Yeah, heard great things from Astasia. I'm, I'll just do quick interest here. I'm Daniel on the Founder's Office team and our, and our role is to like focus on building strategic initiatives and new functions for the business to help us grow. Because our company is growing really quickly and we have like, we've only been around for two years and we need to do all these things in like one year when it generally takes five years to build out these functions and so help out with corp dev and startup ecosystems as well as go to market engineering, which is what she told me about. And then there's also like train data to build our own proprietary models and so many other different functions. So yeah, I would love to hear more about you guys as well. 
+
+13:43 - Jay Chia
+Yeah, yeah, quick intro. Yeah. AI researcher turned data guy, primarily worked in self driving and then started this company to kind of just make it much easier to just do large code data processing and then like along the way learned that actually one of the biggest applications of this is around GTM data. And so now we're building essentially a GTM search engine to empower agents to kind of replace entire sales organs, which is a few super powered GTM engineers. 
+
+14:10 - Daniel Liem
+Yeah, nice. Very cool. 
+
+14:13 - Jay Chia
+Yeah, on my end I'm a data guy turned AI researcher the other way around. But yeah, started this company a while ago really at the start we were focused on like building open source technology for data processing. And right now I think the big focus of ours is one big thesis that we have is that GTM engineering, right, everyone's just going to be on cork I think at some point and how do we then power almost the intelligence layer for something like cowork to work with data in the public, not just through web search, but actually through more powerful conversational APIs. It's kind of how we're thinking about it. 
+
+14:46 - Daniel Liem
+What do you mean everyone's going to be on cowork? You mean cloud cowork? 
+
+14:49 - Jay Chia
+Cloud cowork. Yeah. It feels like everyone we're talking to on the non technical side, more and more they're like, hey, where is my cloud code moment? Right. 
+
+14:57 - Daniel Liem
+Yeah. 
+
+14:59 - Jay Chia
+And it feels like that's starting to become one of those where you know, you have your source of truth, which is like the CRM and then all the GTM engineers are right now building like clay around it and all these workflows and all the data engineering. But more, more so it seems to be one of the trends that we're seeing is folks are gravitating towards their code moment. 
+
+15:17 - Jay Chia
+Yeah. I think the analogy I think about is like I think right now a lot of the existing processes are kind of optimized around efficiency, like hey Ava, sales or disparate functions. And I said you want to do like hey, I want to do a prospecting and export it to a big list, put in my CRM and then the next person picks that up and does the next big batch of scoring and so on and so forth. But I think especially what GTM engineers enable with agents, I think the workflow looks very different. I think we're building for that world. 
+
+15:46 - Daniel Liem
+Yeah. Can you show me? Let's get right into it. I'm just, I'll be curious on your 
+
+15:51 - Jay Chia
+thing that you can show your screen. 
+
+15:52 - Jay Chia
+I'll show you the. 
+
+15:53 - Jay Chia
+It's very initial kind of like style what we're doing. But yeah, Sammy's going to join so he can show you some of the stuff. 
+
+16:00 - Daniel Liem
+I think while you're doing that some of the things that we're building and we're procuring is specific to solving core problems that we see instead of just building it all in one rocks or lighthouse type solution that allows us to do anything intelligent that does xyz that's just to us so far fetched from where we're able to do and like the value is like I think I'll disappoint a lot of people in terms of like the actual output value. And so because the accuracy is still like difficult and you have to have all these different prompt tuning to make it work and all that stuff. And so we are fatigued about like all these different tools. But yeah, I would still like to see. 
+
+16:39 - Jay Chia
+Yeah. 
+
+16:40 - Daniel Liem
+What you guys have. 
+
+16:41 - Jay Chia
+No, that's, that's actually very, I think compatible with how we're seeing it because like we want to enable people to like you can like build your own tools and build your own agents. All VR is an API to access like very rich, intelligent information about the world. Right. And specifically people and companies. I'll let Sami kind of. 
+
+16:56 - Jay Chia
+Yeah, so the way we kind of operate is it's kind of that mental model which is like, I don't think you want another ui. I don't think you want another workflow tool that like do you have to train all your folks on. And so the way we think about it is like we see folks just building new net, new agent workflows. And rather than try to like own that or be like the place you define that agent, the way we think about is we want to augment those agents. And so what we do is essentially just make a plugin or like an MTP server. And behind that is essentially us crawling the web, constructing like all your prospects, prospective companies, understanding each individual that belongs to that org. What blog posts have they written? What are their opinions? Who, what, what do they post about? And kind of building a sales intelligence platform there. And so I can write something like, hey, find accounting companies and give me top three accounts I should focus on to sell a GTM people search product to help the company with sales intelligence. And who would be my champions? And so you kind of get like from all the companies that we have like mind data on, you can actually say, okay, this is why numeric might be the best target and these could be your champions. Here's tabs. And this is why they're a great champion. This is why they would be a great target and who the champions would be. And truly in. And then it says, okay, lead or numeric, they're actively higher outbound GTM roles and already are using competitive tools. 
+
+18:13 - Daniel Liem
+And then I say, hey, these are like integrations that you have with tools or how are you getting this data Again, like, let me see the. 
+
+18:20 - Jay Chia
+Oh, so what we decided is we're not doing like aggregation like clay. We're actually like using our own background with large scale data processing to actually crawl and create our own data sets. 
+
+18:34 - Daniel Liem
+And that's via the connector, via the eventual people. 
+
+18:38 - Jay Chia
+This is going through our servers like this is our hitting on the backend. So think of it like exa, but instead of just like web search, we're actually able to go. You're able to navigate organizations. 
+
+18:50 - Daniel Liem
+Interesting. And the organizations are connected by who, by. By what apps so far for this use case cowork. 
+
+18:56 - Jay Chia
+But you can use the cloud code, you can use it with OpenAI, you can use it with anything that supports MCP. 
+
+19:00 - Jay Chia
+Yeah, you could write, I mean, like. 
+
+19:02 - Daniel Liem
+I mean, like, who are the work. What are the workspaces behind the scene? Like for eventual. That's connected to. You need to be connected to some of the workspaces. Right. 
+
+19:12 - Jay Chia
+What do you mean by that? 
+
+19:13 - Daniel Liem
+I don't understand how you're getting this data, essentially. 
+
+19:18 - Jay Chia
+Oh. So we come up two sources. One is that we're buying data sources and number two is that we're crawling ourselves. 
+
+19:26 - Daniel Liem
+Crawling the web? Yeah. Are you a search API? Like parallel? Yeah, exactly. 
+
+19:33 - Jay Chia
+Except instead of like more broad search, we're going much deeper, specifically focusing on GTM and people. 
+
+19:39 - Daniel Liem
+How do you do that? What data sources have you gotten? How do you get those data sources? 
+
+19:45 - Jay Chia
+We're usually buying them from folks that we have partners who use Daft for a lot of these types of workloads. And so we just work with the same vendors that they use. 
+
+19:54 - Daniel Liem
+Oh, how much do they cost? Must be expensive. 
+
+19:59 - Jay Chia
+They're expensive. Yeah. So we've been buying it and then kind of building our own signals on top of it and then essentially building a search agent to navigate those signals. 
+
+20:08 - Jay Chia
+Yeah. I think examples of those signals are like we, we are under the hood reconstructing like organization structures. Right. Reconstructing like organizational history so that basically we can provide that intelligence to you. We can like pre compute all once upfront. And then when you ask questions about these organizations and people, we can pre compute all that information and serve that back. 
+
+20:28 - Daniel Liem
+May I ask how much you're paying for these sources? 
+
+20:31 - Jay Chia
+It's usually in like the, you know, we're paying like in the tens of thousands per month. 
+
+20:37 - Daniel Liem
+Tens of thousands per month. Oh, wow. Yeah. Like, how do you know if it's comprehensive or not? Because, like, why would I consider you guys over, like Clay, for example, if I could just like, yeah, Unified. 
+
+20:51 - Jay Chia
+So clay I would classify as more of an enrichment tool. Like you can kind of use clay to like, you know, get all these little columns of enrichments. But what we're doing is actually a lot richer than that. We're actually aggregating across all these companies and pre computing the signals. Right. With clay, I think you would still have to manually curate various signals that you care about and care of all the data quality and manage all that yourself. What we're doing is not just aggregating the data, but actually pre computing all the signals to then power analyses like these. 
+
+21:21 - Jay Chia
+And then the next level of it is because we're essentially building this rather than doing former graphics and being a database, it's more of like an active loop. So depending on what your agent is searching for and what things you're like, the types of questions you're asking for, that kind of just starts a flywheel for us to then start collecting more of that data. 
+
+21:37 - Jay Chia
+One example would be, let's say the SaaS apocalypse was happening last week, right? And now you're asking more like, questions related to that you're like wanting to dig deeper into. Like, okay, like, what do enterprise companies care about? Because SaaS valuations are going down. That's something you would spend maybe a week trying to curate various signals and clear to do. But like with our platform, because it's so dynamic and the intelligence kind of baked in, that would be very easy to do with this kind of deep research. 
+
+22:01 - Daniel Liem
+And you're talking more about performance and latency in terms of better, not just. It's not much about quality, right. 
+
+22:11 - Jay Chia
+It's a few aspects of it. One is that the way we kind of see the world is that rather than you fan off a query to us and we run for half an hour and then give you a list at the end, we kind of see it much more interactive, right? So your team's gonna be using an agent, coworker, cloud code or whatever. And that agent has the context of what your business does, right? It knows your icp, it knows what deals have worked, maybe it's connected to your CRM. And so what we do is provide an API to the external context of the world, right? And so it's crucial that we give fast responses, usually in the order of seconds, but then also give very rich answers depending on the context of what you're asking for. 
+
+22:50 - Jay Chia
+So it is quality, right? But like, the key thing is it's quality in your, in your context. Like, your agent understands your context, and so we can kind of keep that session going. And our, our system also is able to integrate with that. 
+
+23:03 - Jay Chia
+And I think the model of like, you just dump everything to us and we figure it out in the cloud, like, I don't think that really works. I think it is ultimately like your agent driven by your team. 
+
+23:14 - Daniel Liem
+Yeah, interesting. I mean, like, how, how? I. I guess this is an easy value prop in the sense that you don't have to migrate people away from things. By the way, I'm in the middle of using Gumloop or Dust in order to build a simple Slack bot that is able to port all the data and all this stuff. So everything's going to live in a Slack ui. You guys set up this pretty Easy. You're basically a provider that didn't just support it into Claude as the UI surface area. Like how are you guys going to build a business long term around that is it's like people are just going to pay you for your data that you've already bought that's more streamlined into one place. Your margins must be really tough. Wouldn't it be? 
+
+24:01 - Jay Chia
+So I think that's where like I clearly agree but if we're being like a zoom info, like yeah, of course like once you actually know value anymore. But I think there's two things. One aspect of it is that like I think the type of data that we're, that we focus on is really fresh data. Like essentially JD opens or if someone makes a move into the company, someone leaves the company, right? That data we want to have fresh as possible. And so the way we kind of see it is rather than like you run the query once, get the list of these champions and just export it, we see it more as like you run this query, you target the champions you want to target and then you can almost set up a watch list, right. And actually invert the direction where like hey, if something happens that affects your timing and it bumps up the priority in this account we send you a signal instead of. Yeah. 
+
+24:47 - Jay Chia
+One of the things that we are being very cognizant of is that most of the companies that we work with are high acv, right? So they do want to splash money at like a deep research problem. And what we, what we provide is not like a white list of people with like a lot of enrichments which is what you would get out of like play Apollo zoom info. What we do instead is like you tell us what your top 100 list is and we go do very, very deep curation and kind of like watching of that list to give you the best possible context. 
+
+25:13 - Jay Chia
+So to be honest, like the, the, the key area we're focusing on are startups who are trying to sell up market. 
+
+25:20 - Daniel Liem
+So. Yeah, yeah, that makes sense. Yeah, for sure. Well that's super cool guys. I mean thanks a lot for sharing. Anything else to share here or like we only got like three minutes and I gotta go here for another call and I definitely wanna like see any materials like to send stuff my way if you want. If it's easy enough for me to like try it out, I can try it out. But like I think also one thing that we're thinking about or I'm thinking about is that we're building the slack bot internally. That's like The MVP for Gumloop or Dust. And I wish we could port this data that you guys already have into Gumloop, but I'm sure you guys don't 
+
+26:01 - Jay Chia
+have an API to Gumloop. It should work out of the box. 
+
+26:05 - Daniel Liem
+Yeah, but who's going to do that, though? 
+
+26:09 - Jay Chia
+We can do it if you want to just plug us in. 
+
+26:13 - Daniel Liem
+I mean, you guys would with Gumloop. Like, you would just like. 
+
+26:18 - Jay Chia
+I mean, if you are a big enough customer of Gumloop to say, hey, I would like to do this and we can handle the integration. Yeah. 
+
+26:26 - Daniel Liem
+What's the benefit to you guys? I mean, they're going to pay you guys or how's that going to work? 
+
+26:29 - Jay Chia
+So, I mean, the benefit for us right now is that. I guess. Let me just walk you through also where we are in the current stage. So we've been working on open sourcing for a while right now. This commercial thing is pretty new for us and we're chatting with our first champions and trying to make sure that folks get a lot of value out of this. And so right now, for the first three months or so, we're giving this away for free and just making sure that folks are successful with it. And so whatever barriers we can knock down to get you access to this and then really just get your hands on it is stuff that we will work on. 
+
+26:59 - Jay Chia
+Yeah. And it should be compatible with Gumloop. We would just give you API key and you could just use it in your existing workflows in Gumloop and show us the vaults. 
+
+27:10 - Daniel Liem
+Yeah, I mean, yeah, exactly. If you could do that, I'll hook you up really easily into our platform because we just want to run everything through one Slack bot. And so if all the data is there, I'll point you in very easily. We're doing like a trial with them right now. And also Dust and so just focus on Gumlu and that'll be pretty interesting. 
+
+27:32 - Jay Chia
+Okay, gotcha. 
+
+27:33 - Jay Chia
+Okay, can we. We'll do some research online for Gumloop and get something working and then would you like to maybe circle back in next week? We have an off site, but like in two weeks maybe. Is that a good timeline for you or how are you thinking about it? 
+
+27:46 - Daniel Liem
+We're probably trialing like next week, but like we could just chat through email. I mean, I could connect you to Max, the founder or other folks at Gumloop if you want. We're like close in touch with them. 
+
+27:58 - Jay Chia
+Yeah, so that'd be great. 
+
+27:59 - Jay Chia
+That'd be good. Yeah. And I think the last thing we probably need from you is like, if you can kind of like write down, like, who your target list of customers are, like the ICP that you're targeting. And we'll just make sure the data for those folks are inside of. Inside of our system. 
+
+28:12 - Daniel Liem
+All Fortune 1000. 
+
+28:14 - Jay Chia
+Okay. All Fortune 1000s. That's helpful. 
+
+28:16 - Daniel Liem
+Yeah, mostly. Yeah. We're trying to break into healthcare especially, so. 
+
+28:19 - Jay Chia
+Healthcare. Very useful. Yeah. Do you have a sense of it's to all of them for these folks, do you have like a ICP definition? Like, who is the team usually that you approach? Like what kinds of buyers usually are within those teams? 
+
+28:32 - Daniel Liem
+CXO Customer support team. And then like. Yeah, because we're replacing like the support function. And then also, like, we are like moving more into the BPO world as well, replacing the BPOs, like call centers and stuff. 
+
+28:47 - Jay Chia
+Gotcha. 
+
+28:47 - Daniel Liem
+Okay. 
+
+28:48 - Jay Chia
+Super useful. Yeah, we can curate information about that. 
+
+28:50 - Jay Chia
+Okay, we'll take. We'll noodle on that and send you over something back. We'd love to get your feedback. 
+
+28:55 - Daniel Liem
+Cool. Okay, cool, guys. 
+
+28:56 - Jay Chia
+Thanks so much. 
+
+28:58 - Daniel Liem
+Good to meet you. 
+
+28:59 - Jay Chia
+Yeah. 
+
+29:02 - Jay Chia
+All right. 
