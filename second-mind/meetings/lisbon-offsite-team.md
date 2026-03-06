@@ -171,7 +171,7 @@ To close out the offsite, we'll host an informal unconference. Sign up for talks
 
 **Don't wait until Tuesday.** If you have an idea for a Day 3 working session, submit it now using the form below. This gives everyone time to think and means we hit the ground running on Tuesday afternoon instead of starting from scratch.
 
-**[Working Session Proposal Form](TODO: INSERT GOOGLE FORM LINK)**
+**[Working Session Proposal Form](https://forms.gle/hQEQaVvRfzeCjF6j7)**
 
 The form asks for:
 1. **Session title** — What's the topic?

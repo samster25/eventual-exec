@@ -22,6 +22,48 @@
             }
           },
           {
+            "id": "924abf283a5dc341",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "intake/Discovery Calls/Kyle Del Francis Scorecard.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kyle Del Francis Scorecard"
+            }
+          },
+          {
+            "id": "6cd11a31fa5e1b64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "intake/Discovery Calls/Jake Summers Scorecard.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Jake Summers Scorecard"
+            }
+          },
+          {
+            "id": "f61db97f348e49c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "intake/Discovery Calls/Kyle Del Francis Scorecard.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kyle Del Francis Scorecard"
+            }
+          },
+          {
             "id": "8b2c6028415b6fa7",
             "type": "leaf",
             "state": {
@@ -36,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -109,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "intake/PROCESSED.md",
+                "file": "intake/Discovery Calls/Kyle Del Francis Scorecard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for PROCESSED"
+              "title": "Backlinks for Kyle Del Francis Scorecard"
             }
           },
           {
@@ -128,12 +170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "intake/PROCESSED.md",
+                "file": "intake/Discovery Calls/Kyle Del Francis Scorecard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from PROCESSED"
+              "title": "Outgoing links from Kyle Del Francis Scorecard"
             }
           },
           {
@@ -171,13 +213,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "intake/PROCESSED.md",
+                "file": "intake/Discovery Calls/Kyle Del Francis Scorecard.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of PROCESSED"
+              "title": "Outline of Kyle Del Francis Scorecard"
             }
           }
         ]
@@ -198,8 +240,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "35744e8382722014",
+  "active": "f61db97f348e49c2",
   "lastOpenFiles": [
+    "intake/Discovery Calls/Jake Summers Scorecard.md",
+    "intake/Discovery Calls/Jake Summers Transcript.md",
+    "intake/Discovery Calls/Kyle Del Francis Transcript.md",
+    "intake/Discovery Calls/Kyle Del Francis Scorecard.md",
+    "intake/Discovery Calls",
+    "meetings/lisbon-offsite-team.md",
+    "intake/PROCESSED.md",
     "PROCESSED.md",
     "dashboard.md",
     "source-documents/board-decks/board-deck-q1-2026.md",
@@ -209,10 +258,8 @@
     "demos/gumloop demo.md",
     "demos/gumloop demo.md",
     "product/mcp-tools.md",
-    "meetings/lisbon-offsite-team.md",
     "demos",
     "meetings/lisbon-offsite-organizers.md",
-    "intake/PROCESSED.md",
     "intake/Lisbon Feedback Transcript.md",
     "source-documents/transcripts/lisbon-feedback-transcript.md",
     "source-documents/memos/lisbon-offsite-sync-summary.md",
@@ -223,10 +270,6 @@
     "source-documents/memos/lisbon-offsite-input.md",
     "intake/lisbon-itinerary.md",
     "people/daft-team.md",
-    "people/board-and-advisors.md",
-    "meetings/offsite-2026-w11.md",
-    "decisions/active/stephen-transition.md",
-    "source-documents/memos/stephen-transition-plan-2026-03-04.md",
     "source-documents/interviews/blink-health-ryan-transcript.txt",
     "source-documents/interviews/clickup-borys-transcript.txt",
     "source-documents/interviews/nomic-call-3-2026-02-19.txt",
@@ -234,7 +277,6 @@
     "source-documents/interviews/nomic-call-1-2026-01-23.txt",
     "source-documents/interviews/decagon-daniel-2026-03-03.txt",
     "source-documents/interviews/rogo-tumas-2025-12-16.txt",
-    "source-documents/product-docs/eventual-search-sprint.prd",
-    "source-documents/memos/search-standup-learnings.txt"
+    "source-documents/product-docs/eventual-search-sprint.prd"
   ]
 }
