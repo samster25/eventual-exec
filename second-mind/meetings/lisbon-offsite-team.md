@@ -1,12 +1,10 @@
 ---
-title: "Lisbon Offsite Agenda — March 9-12, 2026"
+title: "Lisbon Offsite — Team Agenda"
 created: 2026-03-05
 updated: 2026-03-05
 status: active
 related:
-  - "[[offsite-2026-w11]]"
-  - "[[roadmap]]"
-  - "[[hypotheses]]"
+  - "[[lisbon-offsite-agenda]]"
 ---
 
 # Lisbon Offsite — March 9-12, 2026
@@ -41,6 +39,15 @@ The two Airbnbs are about a block apart. **All full-group sessions will be at Ai
 **Dress code:** Casual for all work sessions. **Business casual for Tuesday dinner at Palacio Chiado** — plan for a group photo moment.
 
 **What to bring to work sessions:** Laptop, charger, notebook. No special prep required before Day 1.
+
+---
+
+## At a Glance
+
+- **Monday:** Bond. Shake off the jet lag. Explore Sintra.
+- **Tuesday:** Align. Understand where we are, where we're going, and what Q2 looks like.
+- **Wednesday:** Build. Small-group working sessions that produce real artifacts. Present back.
+- **Thursday:** Enjoy. Explore Lisbon, cook something Portuguese, share your stories.
 
 ---
 
@@ -83,11 +90,6 @@ This is the big day. We start with the full picture of where Eventual is headed,
 | 2:45-3:00pm | Break | — |
 | 3:00-5:30pm | **Q2 Goal-Setting** | See below |
 | 6:30pm+ | **Group Dinner + Team Sharing** | All |
-| After dinner | Leadership finalizes Day 3 schedule | Sammy, Jay, Varun, Maggie |
-
-### Coffee + Brunch (9:00-9:30am)
-
-We know everyone will be adjusting to the time zone. Grab coffee, eat something, settle in. Content starts at 9:30.
 
 ### The Journey (9:30-10:00am)
 
@@ -95,19 +97,11 @@ Sammy and Jay present on where Eventual came from and where we're going. The goa
 
 ### Mirror Mirror (10:15-11:45am)
 
-Varun leads. This is about getting to know each other better as people and teammates.
-
-**How it works:** You get a large Post-it sheet and 15 minutes to create a visual board — no words allowed. Your board should cover:
-- Your strengths
-- One piece of feedback you're working on
-- How you think you're often misunderstood by others
-- One tip for how to work with you
-
-Then each person presents their board to the group (~2-3 min each). Come ready to be honest and creative.
+Varun leads an interactive session about getting to know each other better as people and teammates. Come ready to be honest and creative — no prep needed.
 
 ### Working Session Proposals + Formation (12:45-2:45pm)
 
-This is the bridge to Day 3 — and the most important session of the day. Sammy and Jay spend the first 30 minutes setting context on Q2 outcomes and what matters most. Then we review the proposals that have been submitted (see the form below), pitch any new ones, and discuss scope, feasibility, and priorities as a group.
+This is the bridge to Day 3. Sammy and Jay spend the first 30 minutes setting context on Q2 outcomes and what matters most. Then we review the proposals that have been submitted (see the form below), pitch any new ones, and discuss scope, feasibility, and priorities as a group.
 
 We'll consolidate related topics into **4 tracks** for Day 3 (2 running in parallel at a time). Not every proposal becomes its own session — some will be combined.
 
@@ -116,25 +110,15 @@ We'll consolidate related topics into **4 tracks** for Day 3 (2 running in paral
 - A clear **problem statement** and input context
 - A defined **artifact** to produce (design doc, technical spec, prototype, decision memo, action plan, etc.)
 
-Varun facilitates and curates the engineering sessions. Sammy + Jay do the same for partnership/marketing/Eventual sessions.
-
 ### Q2 Goal-Setting (3:00-5:30pm)
 
-With the Day 3 sessions formed, we shift to broader Q2 goal-setting. Everyone starts together — Sammy + Jay provide ~30 min of context on the landscape, outcomes we're aiming for, and partnership opportunities. Then the full engineering team discusses priorities and roadmap items (including things that don't need a working session, like Daft UI direction). Sammy + Jay peel off to the partnerships and marketing side with Steffi.
-
-**Engineering** — Varun leads. Topics include: shuffles for large-scale dedupe, observability / Daft UI, community plugins & ecosystem, checkpointing, built-in AI functions, tooling & velocity, path to Ray-free.
-
-**Partnerships + Marketing** — Sammy leads partnerships (AI Labs / Anthropic, Thinking Labs, NeoLabs, ByteDance, Databricks / Snowflake). Jay + Steffi lead marketing & community.
-
-**Eventual Entity Search** — Deferred to its own Day 3 working session (Sammy, Jay, Colin).
+With the Day 3 sessions formed, we shift to broader Q2 goal-setting. Everyone starts together — Sammy + Jay provide context on the landscape, outcomes we're aiming for, and partnership opportunities. Then the engineering team discusses priorities and roadmap. Sammy + Jay peel off to the partnerships and marketing side.
 
 ### Group Dinner + Team Sharing (6:30pm+)
 
 [**Palacio Chiado**](https://www.palaciochiado.pt/en/) — business casual. Look good, we're taking a group photo.
 
-Before the courses are served, we go around the table — each person shares ~1 minute about something others might not know about you. We'll mention this in the morning so you have all day to think about it. Varun is organizing.
-
-After dinner, leadership (Sammy, Jay, Varun, Maggie) finalizes the Day 3 schedule based on the sessions formed that afternoon.
+Before the courses are served, we go around the table — each person shares ~1 minute about something others might not know about you.
 
 ---
 
@@ -153,38 +137,15 @@ Today is about building. Two working sessions run in parallel across both Airbnb
 
 ### Working Sessions
 
-The specific sessions, leaders, participants, and locations are finalized Tuesday night and shared at the Wednesday 9am kickoff. **2 sessions run in parallel** in each block, split across both Airbnbs. 4 total sessions over the day — each is a deep 3-hour block.
+**2 sessions run in parallel** in each block, split across both Airbnbs. 4 total sessions over the day — each is a deep 3-hour block.
 
-**Every working session must produce a concrete artifact.** Varun collects all artifacts and assembles them into the Q2 roadmap. These sessions are the engine that drives clarity on what actions make our goals possible.
+**Every working session must produce a concrete artifact.** These sessions are the engine that drives clarity on what actions make our goals possible. At the end of the day, Varun collects all artifacts to assemble the Q2 roadmap.
 
-**Possible session topics** (these are a menu — we'll consolidate into 4 tracks on Tuesday):
-- Shuffles for large-scale dedupe
-- Observability / Daft UI
-- Community Plugins & Ecosystem
-- Checkpointing
-- Built-in AI Functions (which workloads to enable)
-- Tooling & velocity
-- Path to Ray-Free
-- Eventual Entity Search roadmap (Sammy, Jay, Colin)
-- Partnerships strategy
-- Marketing & Community plan
-
-**Working session format:**
-
-| | |
-|---|---|
-| **Session** | [Topic] |
-| **Leader** | [Name] |
-| **Participants** | [Names] |
-| **Location** | [Which Airbnb / room] |
-| **Input Context** | [What to know going in] |
-| **Expected Artifact** | [What this session produces] |
-
-*Detailed session assignments will be shared Tuesday night or at the Wednesday 9am kickoff.*
+*Session assignments will be shared Tuesday night or at the Wednesday 9am kickoff.*
 
 ### Present-Back (5:00-6:00pm)
 
-Each session leader gives a ~10 minute summary of their artifact to the full group at Airbnb #2. This is how individual working sessions become a shared roadmap.
+Each session leader gives a ~10 minute summary of their artifact to the full group. This is how individual working sessions become a shared roadmap.
 
 ---
 
@@ -221,28 +182,6 @@ The form asks for:
 6. **Who should be in the room?** — Names or roles (optional)
 
 You don't need a perfect proposal — even a rough idea is valuable. **Deadline: Tuesday morning.** We'll discuss, refine, and consolidate during Tuesday afternoon.
-
----
-
-## What's Set vs. What's Finalized On-Site
-
-| Confirmed | Finalized On-Site |
-|-----------|-------------------|
-| Day 1 Sintra itinerary + timing | Day 3 working session schedule (Tuesday night) |
-| Day 2 full schedule (9:00am-5:30pm) | Day 3 working group assignments (Tuesday afternoon) |
-| Tuesday dinner at Palacio Chiado (6:30pm) | Day 3 session locations across Airbnbs |
-| Day 3 present-back at 5pm | Day 4 daytime activity groups (self-selected) |
-| Day 4 cooking competition + unconference | Cooking competition team picks |
-| Airbnb #2 hosts full-group sessions | |
-
----
-
-## At a Glance
-
-- **Monday:** Bond. Shake off the jet lag. Explore Sintra.
-- **Tuesday:** Align. Understand where we are, where we're going, and what Q2 looks like.
-- **Wednesday:** Build. Small-group working sessions that produce real artifacts. Present back.
-- **Thursday:** Enjoy. Explore Lisbon, cook something Portuguese, share your stories.
 
 ---
 
@@ -287,7 +226,3 @@ You don't need a perfect proposal — even a rough idea is valuable. **Deadline:
 - [MAAT](https://www.maat.pt/en) — art, architecture, technology
 - [CCB](https://www.ccb.pt/en/macccb/) — modern art
 - [BMAD](https://bmad.pt/) — Art Deco museum
-
----
-
-> Sources: [[source-documents/memos/lisbon-offsite-input]] | [[source-documents/memos/lisbon-itinerary]]

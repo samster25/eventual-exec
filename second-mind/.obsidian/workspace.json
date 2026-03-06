@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "meetings/lisbon-offsite-agenda.md",
+                "file": "intake/PROCESSED.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lisbon-offsite-agenda"
+              "title": "PROCESSED"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "meetings/lisbon-offsite-agenda.md",
+                "file": "intake/PROCESSED.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for lisbon-offsite-agenda"
+              "title": "Backlinks for PROCESSED"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "meetings/lisbon-offsite-agenda.md",
+                "file": "intake/PROCESSED.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from lisbon-offsite-agenda"
+              "title": "Outgoing links from PROCESSED"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "meetings/lisbon-offsite-agenda.md",
+                "file": "intake/PROCESSED.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of lisbon-offsite-agenda"
+              "title": "Outline of PROCESSED"
             }
           }
         ]
@@ -185,11 +185,17 @@
   },
   "active": "fd84be97f914a517",
   "lastOpenFiles": [
+    "meetings/lisbon-offsite-organizers.md",
+    "meetings/lisbon-offsite-team.md",
+    "intake/Lisbon Feedback Transcript.md",
+    "source-documents/transcripts/lisbon-feedback-transcript.md",
+    "source-documents/memos/lisbon-offsite-sync-summary.md",
+    "intake/Lisbon Offsite Sync Summary.md",
     "intake/PROCESSED.md",
+    "meetings/lisbon-offsite-agenda.md",
     "intake/lisbon-offsite-input.md",
     "source-documents/memos/lisbon-itinerary.md",
     "source-documents/memos/lisbon-offsite-input.md",
-    "meetings/lisbon-offsite-agenda.md",
     "intake/lisbon-itinerary.md",
     "people/daft-team.md",
     "people/board-and-advisors.md",
@@ -205,12 +211,6 @@
     "product/roadmap.md",
     "product/pricing.md",
     "product/mcp-tools.md",
-    "product/data-strategy.md",
-    "strategy/competitive-landscape.md",
-    "people/team.md",
-    "strategy/bets.md",
-    "strategy/assumptions.md",
-    "strategy/hypotheses.md",
     "source-documents/interviews/blink-health-ryan-transcript.txt",
     "source-documents/interviews/clickup-borys-transcript.txt",
     "source-documents/interviews/nomic-call-3-2026-02-19.txt",
