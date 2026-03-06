@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intake/PROCESSED.md",
+                "file": "meetings/lisbon-offsite-team.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PROCESSED"
+              "title": "lisbon-offsite-team"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "intake/PROCESSED.md",
+                "file": "meetings/lisbon-offsite-team.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for PROCESSED"
+              "title": "Backlinks for lisbon-offsite-team"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "intake/PROCESSED.md",
+                "file": "meetings/lisbon-offsite-team.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from PROCESSED"
+              "title": "Outgoing links from lisbon-offsite-team"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "intake/PROCESSED.md",
+                "file": "meetings/lisbon-offsite-team.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of PROCESSED"
+              "title": "Outline of lisbon-offsite-team"
             }
           }
         ]
@@ -187,11 +187,11 @@
   "lastOpenFiles": [
     "meetings/lisbon-offsite-organizers.md",
     "meetings/lisbon-offsite-team.md",
+    "intake/PROCESSED.md",
     "intake/Lisbon Feedback Transcript.md",
     "source-documents/transcripts/lisbon-feedback-transcript.md",
     "source-documents/memos/lisbon-offsite-sync-summary.md",
     "intake/Lisbon Offsite Sync Summary.md",
-    "intake/PROCESSED.md",
     "meetings/lisbon-offsite-agenda.md",
     "intake/lisbon-offsite-input.md",
     "source-documents/memos/lisbon-itinerary.md",
