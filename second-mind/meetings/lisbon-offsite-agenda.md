@@ -67,42 +67,39 @@ Most of us will be adjusting to the time zone. The Sintra trip is intentionally 
 
 ## Day 2 — Tuesday, March 10: Alignment Day
 
-This is the big day. We start with the full picture of where Eventual is headed, build shared values, set Q2 goals, and form the working groups that will drive Day 3.
+This is the big day. We start with the full picture of where Eventual is headed, build shared values, propose working sessions for Day 3, and set Q2 goals.
 
-**All morning sessions at Airbnb #2.**
+**All sessions at Airbnb #2.**
 
-| Time            | Session                                   | Owner                                             |
-| --------------- | ----------------------------------------- | ------------------------------------------------- |
-| 9:00-10:00am    | **Where We Came From, Where We're Going** | Sammy + Jay                                       |
-| 10:00am-12:00pm | **Our Values**                            | Varun                                             |
-| 12:00-1:30pm    | Lunch                                     | —                                                 |
-| 1:30-3:00pm     | **Q2 Goal Setting**                       | See below                                         |
-| 3:00-3:30pm     | Break                                     | —                                                 |
-| 3:30-5:30pm     | **Working Session Proposals + Formation** | Varun (eng), Sammy + Jay (partnerships/marketing) |
-| 6:00pm+         | **Group Dinner**                          | All                                               |
-| After dinner    | Leadership finalizes Day 3 schedule       | Sammy, Jay, Varun, Maggie                         |
+| Time | Session | Owner |
+|------|---------|-------|
+| 9:00-9:30am | Coffee + arrival at Airbnb #2 | — |
+| 9:30-10:30am | **The Journey: Where We Came From, Where We're Going** | Sammy + Jay |
+| 10:45am-12:30pm | **Our Values** | Varun |
+| 12:30-1:30pm | Lunch | — |
+| 1:30-3:30pm | **Working Session Proposals + Formation** | Varun (eng), Sammy + Jay (partnerships/mktg) |
+| 3:30-3:45pm | Break | — |
+| 3:45-5:30pm | **Q2 Goal-Setting Tracks** | See below |
+| 6:00pm+ | **Group Dinner** | All |
+| After dinner | Leadership finalizes Day 3 schedule | Sammy, Jay, Varun, Maggie |
 
-### The Journey (9:00-10:00am)
+### Coffee + Arrival (9:00-9:30am)
+
+We know everyone will be adjusting to the time zone. Grab coffee, settle in, say good morning. Content starts at 9:30.
+
+### The Journey (9:30-10:30am)
 
 Sammy and Jay present live on where Eventual came from and where we're going. The goal is shared context, honest acknowledgment of the journey so far, and the direction for what's ahead.
 
-### Values Exercise (10:00am-12:00pm)
+### Our Values (10:45am-12:30pm)
 
 Varun leads an interactive session on how we understand each other better and work better together. Come ready to participate — no prep needed.
 
-### Q2 Goal Setting (1:30-3:00pm)
+### Working Session Proposals + Formation (1:30-3:30pm)
 
-Sammy kicks things off with the full group to frame the Q2 landscape — what matters most across engineering, partnerships, and marketing. Then we split:
+This is the bridge to Day 3 — and the most important session of the day. Sammy provides input context on engineering priorities and partnership goals. Then we review the proposals that have been submitted (see the form below) and discuss scope, feasibility, and priorities as a group.
 
-1. **Engineering** — Varun leads. Sammy + Jay join at the start to provide context on the key problems and priorities, then hand off to Varun. Topics include: shuffles for large-scale dedupe, observability / Daft UI, community plugins & ecosystem, checkpointing, built-in AI functions, tooling & velocity, path to Ray-free.
-
-2. **Partnerships + Marketing** — Sammy + Jay move here after the engineering kickoff. Sammy leads partnerships (AI Labs / Anthropic, Thinking Labs, NeoLabs, ByteDance, Databricks / Snowflake). Jay + Steffi lead marketing & community.
-
-3. **Eventual Entity Search** — Deferred to Day 3 working sessions. We want the full-team alignment from today to inform how we approach this.
-
-### Working Session Proposals (3:30-5:30pm)
-
-This is the bridge to Day 3. Sammy provides input context on engineering priorities and partnership goals. Then engineers propose focused working sessions — each scoped to a specific Q2 topic. The group discusses scope, feasibility, and priorities.
+We'll consolidate related topics so each session has enough people to be productive (4-5 per group). Not every proposal becomes its own session — some will be combined. Expect **3-4 parallel sessions** on Day 3.
 
 **Each accepted working session must have:**
 - A **leader** who owns the session
@@ -111,11 +108,21 @@ This is the bridge to Day 3. Sammy provides input context on engineering priorit
 
 Varun facilitates and curates the final engineering session list. Sammy + Jay do the same for partnership/marketing sessions.
 
+### Q2 Goal-Setting Tracks (3:45-5:30pm)
+
+With the Day 3 sessions formed, we split into tracks for broader Q2 goal-setting:
+
+1. **Engineering** — Varun leads. Sammy + Jay join at the start to provide context on the key problems and priorities, then hand off to Varun. Topics include: shuffles for large-scale dedupe, observability / Daft UI, community plugins & ecosystem, checkpointing, built-in AI functions, tooling & velocity, path to Ray-free.
+
+2. **Partnerships + Marketing** — Sammy + Jay move here after the engineering kickoff. Sammy leads partnerships (AI Labs / Anthropic, Thinking Labs, NeoLabs, ByteDance, Databricks / Snowflake). Jay + Steffi lead marketing & community.
+
+3. **Eventual Entity Search** — Deferred to Day 3 working sessions. We want the full-team alignment from today to inform how we approach this.
+
 ### Group Dinner (6:00pm+)
 
 [**Palacio Chiado**](https://www.palaciochiado.pt/en/) — business casual. Look good, we're taking a group photo.
 
-After dinner, leadership (Sammy, Jay, Varun, Maggie) finalizes the Day 3 schedule based on the sessions proposed that afternoon.
+After dinner, leadership (Sammy, Jay, Varun, Maggie) finalizes the Day 3 schedule based on the sessions formed that afternoon.
 
 ---
 
@@ -125,20 +132,20 @@ Today is about building. Multiple focused working sessions run in parallel acros
 
 | Time | Session |
 |------|---------|
-| 9:00-9:30am | Morning kickoff at Airbnb #2 — Day 3 schedule presented, room assignments |
+| 9:00-9:30am | Morning kickoff at Airbnb #2 — schedule + room assignments |
 | 9:30am-12:30pm | Working Sessions — Block 1 |
 | 12:30-1:30pm | Lunch |
-| 1:30-4:00pm | Working Sessions — Block 2 |
-| 4:00-5:00pm | Free / recharge |
-| 5:00-8:00pm | Dinner + Unconference |
+| 1:30-3:45pm | Working Sessions — Block 2 |
+| 4:00-5:00pm | Present-Back: session leaders share artifacts (full group, Airbnb #2) |
+| 5:00pm+ | Dinner — casual, free to explore |
 
 ### Working Sessions
 
-The specific sessions, leaders, participants, and locations are finalized Tuesday night and shared at the Wednesday 9am kickoff. Sessions split across both Airbnbs.
+The specific sessions, leaders, participants, and locations are finalized Tuesday night and shared at the Wednesday 9am kickoff. Expect **3-4 parallel sessions** split across both Airbnbs.
 
 **Every working session must produce a concrete artifact.** Varun collects all artifacts and assembles them into the Q2 roadmap. These sessions are the engine that drives clarity on what actions make our goals possible.
 
-**Expected session topics** (finalized Tuesday evening):
+**Possible session topics** (these are a menu — we'll consolidate into 3-4 sessions on Tuesday):
 - Shuffles for large-scale dedupe
 - Observability / Daft UI
 - Community Plugins & Ecosystem
@@ -163,15 +170,35 @@ The specific sessions, leaders, participants, and locations are finalized Tuesda
 
 *Detailed session assignments will be shared Tuesday night or at the Wednesday 9am kickoff.*
 
-### Unconference (5:00-8:00pm)
+### Present-Back (4:00-5:00pm)
 
-Dinner and an unconference to close out the working days. Maggie is organizing. Sign up for talks on the day — no prep required. Topics can be anything, work-related or not. One of the best talks I've ever seen was from someone who worked for Prince and had nothing to do with their work. Bring your stories.
+Each session leader gives a ~5 minute summary of their artifact to the full group at Airbnb #2. This is how individual working sessions become a shared roadmap.
 
 ---
 
 ## Day 4 — Thursday, March 12: Free Day
 
 Your day. Self-select into interest-based groups. Maggie is putting together activity options — share ideas in the Slack channel and see the points of interest below.
+
+**Optional evening unconference** — if we get enough sign-ups, we'll host an informal unconference Thursday evening. Topics can be anything, work-related or not. One of the best talks I've ever seen was from someone who worked for Prince and had nothing to do with their work. Maggie will circulate a sign-up sheet during the week. No prep required — just bring your stories.
+
+---
+
+## Submit a Working Session Proposal
+
+**Don't wait until Tuesday.** If you have an idea for a Day 3 working session, submit it now using the form below. This gives everyone time to think and means we hit the ground running on Tuesday afternoon instead of starting from scratch.
+
+**[Working Session Proposal Form](TODO: INSERT GOOGLE FORM LINK)**
+
+The form asks for:
+1. **Session title** — What's the topic?
+2. **Problem statement** — What problem or question does this session tackle? (2-3 sentences)
+3. **Why now?** — Why is this important for Q2?
+4. **Proposed artifact** — What should this session produce? (design doc, spec, decision memo, prototype, action plan, etc.)
+5. **Would you lead this session?** — Yes / No / Open to it
+6. **Who should be in the room?** — Names or roles (optional)
+
+You don't need a perfect proposal — even a rough idea is valuable. We'll discuss, refine, and consolidate during Tuesday afternoon.
 
 ---
 
@@ -180,10 +207,10 @@ Your day. Self-select into interest-based groups. Maggie is putting together act
 | Confirmed | Finalized On-Site |
 |-----------|-------------------|
 | Day 1 Sintra itinerary + timing | Day 3 working session schedule (Tuesday night) |
-| Day 2 full schedule (9am-5:30pm) | Day 3 working group assignments (Tuesday afternoon) |
+| Day 2 full schedule (9:00am-5:30pm) | Day 3 working group assignments (Tuesday afternoon) |
 | Tuesday dinner at Palacio Chiado | Day 3 session locations across Airbnbs |
-| Day 3 unconference evening (Maggie) | Day 4 activity groups (self-selected) |
-| Day 4 is free/fun | Lunch logistics for Day 2 + Day 3 |
+| Day 3 present-back at 4pm | Day 4 activity groups (self-selected) |
+| Day 4 is free + optional unconference | Lunch logistics for Day 2 + Day 3 |
 | Airbnb #2 hosts full-group sessions | |
 
 ---
@@ -192,7 +219,7 @@ Your day. Self-select into interest-based groups. Maggie is putting together act
 
 - **Monday:** Bond. Shake off the jet lag. Explore Sintra.
 - **Tuesday:** Align. Understand where we are, where we're going, and what Q2 looks like.
-- **Wednesday:** Build. Small-group working sessions that produce real artifacts.
+- **Wednesday:** Build. Small-group working sessions that produce real artifacts. Present back.
 - **Thursday:** Enjoy. Lisbon is yours.
 
 ---
