@@ -395,16 +395,16 @@ Q2 Kickoff   Data Acq      + Scale       Users +
 
 **Weeks 4–6 (Mar 31–Apr 18): First External Users + Scale**
 
-| What | Who | Outcome |
-|------|-----|---------|
-| ICP context injection (agent adapts to each user's target profile) | Colin | Users can configure their ICP |
-| 5+ external users onboarded (MCP key distribution) | Jay | First external usage data |
-| Run H2 head-to-head on 10 real accounts | Sammy + Colin | Quantified delta vs. web search |
-| Demo UI v1 (shareable link for lead capture) | Colin | Scalable demo motion |
-| Data coverage expansion (Series C → Fortune 500 based on H3 + acquired data) | Sammy + Colin | Higher demo hit rate |
-| Multi-user support (API keys, usage tracking) | Colin | Can support 10+ concurrent users |
-| 5 blind H2 evaluations with prospects | Jay + Sammy | H2 data points |
-| Structured feedback collection framework | Jay | Consistent H1/H2/H3 scoring |
+| What                                                                         | Who           | Outcome                          |
+| ---------------------------------------------------------------------------- | ------------- | -------------------------------- |
+| ICP context injection (agent adapts to each user's target profile)           | Colin         | Users can configure their ICP    |
+| 5+ external users onboarded (MCP key distribution)                           | Jay           | First external usage data        |
+| Run H2 head-to-head on 10 real accounts                                      | Sammy + Colin | Quantified delta vs. web search  |
+| Demo UI v1 (shareable link for lead capture)                                 | Colin         | Scalable demo motion             |
+| Data coverage expansion (Series C → Fortune 500 based on H3 + acquired data) | Sammy + Colin | Higher demo hit rate             |
+| Multi-user support (API keys, usage tracking)                                | Colin         | Can support 10+ concurrent users |
+| 5 blind H2 evaluations with prospects                                        | Jay + Sammy   | H2 data points                   |
+| Structured feedback collection framework                                     | Jay           | Consistent H1/H2/H3 scoring      |
 
 **Weeks 7–8 (Apr 21–May 1): 10 Active Users + Hypothesis Decisions**
 
