@@ -1,7 +1,7 @@
 ---
 title: "Eventual — Market Hypotheses & Assumptions"
 created: 2026-03-05
-updated: 2026-03-05
+updated: 2026-03-06
 status: active
 related:
   - "[[vision]]"
@@ -50,6 +50,13 @@ We are pre-PMF. Most of what we believe about our market is hypothesis, not fact
 
 **Current evidence:** Early AE conversations suggest ~50% of prep time goes to unstructured research. Promising but anecdotal — need to validate at scale.
 
+> Signal log: [[hypothesis-tracker]] — 4 scored calls. Avg: 3.0. 1 positive, 1 negative, 1 neutral, 1 no data.
+
+- **Mar 6 — GoLinks (Jake Summers, AE):** 2/5. Research used to take days (reading 50-page 10Ks). AI has solved ~90% of it — now 15 min to 1-2 hrs. Biggest pain is Salesforce admin, not research.
+- **Mar 6 — Hyperscience (Kyle Del Francia, Enterprise AE):** 3/5. Gemini Deep Research handles most research/personalization. But the hardest part is getting people to reply, and the most important qualification signal ("have they failed at AI?") can't be surfaced by any current tool.
+- **Mar 3 — Decagon (Daniel Liem, GTM Eng):** 4/5 (retroactive). Building GTM infra from scratch, fragmented context problem across Gumloop/Dust/Slack.
+- **Feb 27 — ClickUp (Borys Aptekar, GTM Leader):** 4/5 (retroactive). BDR use case — calling 20 people then scrambling across ZoomInfo, Outreach, Gong to act on what was learned.
+
 ---
 
 ### H2: Curated Context Is Meaningfully Better Than Agents + Web Search
@@ -68,7 +75,12 @@ We are pre-PMF. Most of what we believe about our market is hypothesis, not fact
 
 **What kills it:** Prospects can't tell the difference, or say the web search output is "close enough." If the gap is small and narrowing, we're building a feature, not a product.
 
-**Current evidence:** Untested. This is the most important experiment to run in the first 6 weeks.
+**Current evidence:** Untested head-to-head comparison. This is the most important experiment to run in the first 6 weeks.
+
+> Signal log: [[hypothesis-tracker]] — 2 scored calls. Avg: 3.0. 1 positive, 1 negative. 2 calls have no H2 data.
+
+- **Mar 6 — GoLinks (Jake Summers, AE):** 2/5. Uses ChatGPT with web search daily and says it "generally solves more of their cases." Acknowledges gaps ("pieces the AI is just not going to pick up") but overall satisfied.
+- **Mar 6 — Hyperscience (Kyle Del Francia, Enterprise AE):** 4/5. Uses Gemini Deep Research for account plans — finds it "pretty good." But golden question ("have they failed at AI before?") can't be answered by Gemini or ZoomInfo. **Would pay MORE than ZoomInfo** for that intelligence.
 
 **The moving target risk:** Even if we win the head-to-head today, we need to win it again in 6 months. Agents are getting better at web research. Our differentiation must come from data assets and signal extraction that improve faster than the baseline — not from a static advantage.
 
@@ -97,6 +109,12 @@ We are pre-PMF. Most of what we believe about our market is hypothesis, not fact
 4. Broader startup ecosystem (low priority — not who our users are researching)
 
 **Current evidence:** Anecdotal from early conversations. Jay's observation that deep research is "doubly important for going upmarket when you have a lead list of the Fortune 1000" supports this. Jeetu's advice to "focus on the Doordashes" aligns — high-growth companies selling upmarket, not down.
+
+> Signal log: [[hypothesis-tracker]] — 3 scored calls. Avg: 3.7. 2 positive, 1 negative.
+
+- **Mar 6 — GoLinks (Jake Summers, AE):** 4/5. Targets span 5 to 5,000+ employees. Currently working CrowdStrike (11K seats). Customers include Anthropic and OpenAI. Org charts matter starting at ~200 employees. High coverage overlap.
+- **Mar 6 — Hyperscience (Kyle Del Francia, Enterprise AE):** 2/5. Targeting transportation/logistics companies (DISA, Algo/DAT, Hirschbach). Also healthcare, government (IRS, VA), financial services (Charles Schwab). Low overlap with our current AI/ML company coverage.
+- **Mar 3 — Decagon (Daniel Liem, GTM Eng):** 5/5 (retroactive). Fortune 1000 healthcare targets. Exactly the pattern H3 predicts — AI startup selling upmarket.
 
 ---
 

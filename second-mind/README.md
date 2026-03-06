@@ -84,6 +84,72 @@ When processing an intake document, use this guide:
 - **Contains team changes or org updates?** → Update `people/team.md` or `people/daft-team.md`
 - **Contains ICP refinement?** → Update `customers/icp.md`
 
+## Discovery Call / Interview Processing (Frequent Operation)
+
+This is the most common intake operation. When the user says "process calls", "intake calls", or shares discovery call notes/scorecards:
+
+### Reference Material
+
+- **Interview guide:** `Eventual-Inc/Eventual/gtm/interview-guide/` (methodology, question sets, Granola template)
+- **Post-call scorecard:** `templates/scorecard.md` — lightweight template Sammy fills out after each call
+- **Interview page template:** `templates/interview-note.md` — full structured page Claude creates during processing
+- **Hypothesis tracker:** `customers/hypothesis-tracker.md` — aggregated signal table across all calls
+
+### What the User Provides
+
+The user will typically share one or more of:
+- **Scorecards** filled out using `templates/scorecard.md` (H1/H2 on 1-5 scale, H3 target companies, earlyvangelist score, commitment, takeaway)
+- **Raw notes or transcripts** (pasted or as files in `intake/`)
+- **Verbal summary** of the calls
+
+### Scorecard Scale
+
+All hypothesis scores use a **1-5 scale**:
+
+| Score | Label | Meaning |
+|-------|-------|---------|
+| 1 | Strong negative | Clear disconfirming evidence |
+| 2 | Weak negative | Leans against, but ambiguous |
+| 3 | Neutral | No clear signal either way |
+| 4 | Weak positive | Leans toward confirmation |
+| 5 | Strong positive | Clear confirming evidence |
+
+Additional fields per call:
+- **Earlyvangelist score** (0-4): (1) Has the problem, (2) Knows they have it, (3) Has budget, (4) Already cobbled a solution
+- **Commitment outcome**: Named accounts, intros, follow-ups, or just compliments
+- **Meeting verdict**: GOOD / BAD / ZOMBIE LEAD
+- **Target companies mentioned**: Specific companies they sell to (critical for H3)
+
+### Processing Steps
+
+For **each call**:
+
+1. **Create interview page** at `customers/interviews/{company}-{person}.md` using `templates/interview-note.md`
+   - Fill in all sections from the scorecard/notes and transcript
+   - Record H1/H2/H3 scores using the 1-5 scale with descriptive label (e.g., "2 (weak neg)")
+   - Include key quotes verbatim when available
+   - Record earlyvangelist score, commitment outcome, and meeting verdict
+   - List all target companies mentioned (for H3 tracking)
+2. **Update `customers/hypothesis-tracker.md`** — add one row per call with all scores
+   - Update the Signal Summary counts at the top of the tracker
+3. **Update `customers/conversation-log.md`** — add entry at the top of the current era section with date, participants, one-line summary, H1/H2/H3 scores, and link to the interview page. Update the signal summary table.
+4. **Update `strategy/hypotheses.md`** — add narrative evidence bullet to the Current Evidence section of any hypothesis where the call produced notable signal. The tracker handles tallies; hypotheses.md is for qualitative context.
+5. **Update `customers/pipeline.md`** — if the prospect is a potential lead, add or update their entry
+6. **Archive raw transcript** (if provided as a file) to `source-documents/interviews/{company}-{person}-{date}.md`
+7. **Log** in `intake/PROCESSED.md`
+
+### After Processing All Calls
+
+Report to user with this structure:
+- **Calls processed:** count
+- **H1/H2/H3 signal breakdown:** per-call scores + running averages from tracker
+- **Earlyvangelist highlights:** any 3+ scores are high-priority follow-ups
+- **Commitment outcomes:** who gave real commitments vs. compliments
+- **Kill condition check:** flag any hypothesis approaching its kill threshold
+- **Action items:** follow-ups, coverage gaps, product signals worth investigating
+
+---
+
 ## Conventions
 
 ### File Naming
